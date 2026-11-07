@@ -3,7 +3,16 @@
 One place that lists every source the Delva brainstorm can lean on, what each is good for, how much
 to trust it, and what we may reuse.
 
-- **Last updated:** 2026-11-07.
+- **Last updated:** 2026-11-07, research round 2 included.
+- **Contents:**
+  - our own documents
+  - openGym
+  - research round 1 (161 sources)
+  - research round 2 (about 70 sources)
+  - what we must not use
+  - where no source exists
+  - questions for counsel
+  - contradictions
 - **Scope:** programs, the camera and voice engine, the content library, safety and privacy.
 - **Not legal or medical advice.** Items for counsel are listed in section 8.
 
@@ -288,11 +297,171 @@ report's bibliography, under the area letter shown.
 
 ## 4. Research round 2: sources added on 2026-11-07
 
-Round 1 had four gaps: commercial apps, coaching-practice progressions, app-based adherence and
-quality frameworks, and validation methods with platform rules. This round searched those. Each
-entry was opened and checked on 2026-11-07 unless marked otherwise.
+Round 1 had four gaps, and this round searched each of them:
 
-_(Being filled in.)_
+- commercial apps
+- coaching-practice progressions
+- app-based adherence and quality frameworks
+- validation methods with platform rules
+
+**Verification:** "Yes" means the page or full text was opened. "Partly" means only an abstract or
+a search-engine extract of the official page was seen. Many hosts were unreachable from this
+session:
+
+- every vendor help centre
+- gov.uk
+- Reddit
+- the certifying bodies
+- some publishers
+
+So most commercial and practitioner entries are "partly". Numbers marked "secondary" were seen only
+in summaries.
+
+**Citation counts:** Crossref (CR) or OpenAlex (OA), retrieved 2026-11-07.
+
+### 4a. Commercial apps: how they run programs and camera coaching (industry practice)
+
+None of these vendors publishes how it measured its camera accuracy. Treat every claim as a vendor
+claim.
+
+| Source | What it shows | Topics | Verified |
+|---|---|---|---|
+| Freeletics Help Centre: [Bodyweight Training Journeys](https://help.freeletics.com/hc/en-us/articles/360008600540-Bodyweight-Training-Journeys), [journey preferences](https://help.freeletics.com/hc/en-us/articles/115005747425-Adjust-your-Bodyweight-Journey-preferences), [reset coach](https://help.freeletics.com/hc/en-us/articles/360011919479-Can-I-reset-my-Training-Coach), [Perfect weeks](https://help.freeletics.com/hc/en-us/articles/10286298927122-Perfect-weeks-and-Perfect-week-streaks-explained) | Journeys are counted in sessions, not weeks: Start Strong is 18 sessions over a 6-week plan; most journeys are 48 sessions. Users set 2 to 5 days a week, and the change applies at once. A missed session moves to the next day (staff forum posts say the next coach day). After more than a month away, the user is offered an easier session. Sessions logged outside the journey don't count | T1-T5 | Partly |
+| Freeletics [Adapt session](https://help.freeletics.com/hc/en-us/articles/360003933780-Adapt-your-Bodyweight-training-session) and [feedback blog](https://www.freeletics.com/en/blog/posts/what-is-the-purpose-of-the-feedback-i-am-asked-to-give-after-each-workout/) | One-day changes from a fixed menu: 15/30/45/60-minute caps, no-space, quiet, swap, easier or harder. Users rate each exercise after the session, and one variable changes at a time. "90% accuracy after week one" is a vendor claim with no method | T2, T5, T6 | Partly |
+| Peloton [Programs support](https://support.onepeloton.com/hc/en-us/articles/360059412711-Programs) | Fixed blocks (for example 5 weeks × 3 classes). A skipped class taken later doesn't count. After a missed week you pick up "where you left off, regardless of how much time has passed". You can mark a program done early | T2, T3 | Partly |
+| Peloton weekly plans and Peloton IQ ([blog](https://www.onepeloton.com/blog/personalized-workout-plan), [press release](https://investor.onepeloton.com/news-releases/news-release-details/peloton-enters-new-era-ai-powered-peloton-iq-and-new-product), [engineering blog](https://careers.onepeloton.com/en/blog/product-and-tech/from-personalized-insights-to-actions-powering-peloton-iq-for-cross-training/)) | A weekly plan arrives every Monday, and an approved swap counts toward the goal. The AI plan is built from goal, frequency, length and experience. An LLM proposes changes, the user taps "Update Plan", and an LLM judge checks the suggestions. "90% positive rating" is self-reported | T1-T3, T6 | Partly |
+| Peloton IQ camera and Peloton Guide ([IQ page](https://www.onepeloton.com/peloton-iq), [Guide FAQ](https://support.onepeloton.com/hc/en-us/articles/4409958503444)) | Optional camera with a shutter, on 3 devices only. "Not recorded or stored". Form cues can be set for frequency and volume, or turned off. The older Guide gave "credit for keeping up" and did not count reps | TB, T2 | Partly |
+| Sweat ([Workout Series](https://support.sweat.com/hc/en-us/articles/5648990022287-How-to-use-Workout-Series), [repeat a week](https://sweat.com/blogs/community/repeat-week-sweat-workout-program)) | Main programs roll over every Sunday "regardless" of what was done. Workout Series do not ("no missed workouts"). Both models sit in one app | T3 | Partly |
+| Tonal ([routine planning](https://tonal.com/blogs/all/routine-planning), [Smart View](https://tonal.com/blogs/all/tonal-smart-view), [health-data policy](https://tonal.com/pages/consumer-health-data)) | 2 to 5 days a week. A missed workout shifts all later ones. The Smart View camera records clips by design (opt-in, deletable) | T3, TB, T6 | Partly |
+| Apple Fitness+ [Custom Plans](https://support.apple.com/guide/fitness-plus/use-custom-plans-apdf222051d8/ios) | Users pick days, minutes per day, plan length and activity types, and can go back to finish earlier days "at any time during your plan". "Refreshed Repeat" re-runs a plan | T2, T3, T5 | Partly |
+| Apple [Newsroom, Jan 2026](https://www.apple.com/newsroom/2026/01/stay-active-in-the-new-year-with-apple-watch/): "Make Your Fitness Comeback", "Strength Basics in 3 Weeks" | A dedicated 4-week comeback program: 3 × 10 minutes a week. Starter programs are 3 to 4 weeks | T3, T4, T5 | Partly |
+| Tempo [3D Vision support](https://support.tempo.fit/support/solutions/articles/151000154714-3d-tempo-vision-form-feedback) | Counting and form feedback only inside its own classes; "not all the exercises ready". Users "do not have the ability to undo rep counts" | TB, T2 | Partly |
+| Zing Coach [privacy policy](https://www.zing.coach/privacy-policy) | Skeleton "dots" are made on the device, then stored on servers to check fit and improve the service. It says the dots "may be considered biometric data" | TB, X | Partly |
+| Kemtai ([FAQ](https://kemtai.com/faqs/), [privacy](https://kemtai.com/privacy-policy/)) | Marketing says "no video recorded" and claims a Vicon comparison (paper not found). The privacy policy uploads joint locations, and video may be kept with consent | TB, X | Partly |
+| QuickPose ([iOS SDK](https://quickpose.ai/products/ios-sdk/), [release note Sep 2026](https://quickpose.ai/2026/09/five-releases-in-five-weeks-whats-new-in-the-quickpose-ios-sdk/)); Sency ([FAQ](https://www.sency.ai/faq-motion-tracking)) | On-device SDKs. QuickPose admitted front-facing push-ups counted zero because its check assumed a side view (fixed in v1.5.0). Accuracy claims carry no method | TB | Partly |
+| Fitbod ([how workouts are made](https://help.fitbod.me/hc/en-us/articles/360004429814-How-Fitbod-Creates-Your-Workout), [recovery](https://help.fitbod.me/hc/en-us/articles/360006269014-Muscle-Recovery)) | No fixed program: each workout is generated from history, recovery per muscle and equipment. "Recommend less" and "Never again" per exercise | T1, T3, T7 | Partly |
+| Fanton et al. 2022, Amazon Halo Movement, npj Digit Med ([PMC9445016](https://pmc.ncbi.nlm.nih.gov/articles/PMC9445016/)) | The only peer-reviewed product validation of a phone front camera besides Kaia. The overall score agreed with 13 reference tests and Xsens sensors (r about 0.29-0.63, modest). Probably vendor-funded | TB, T6 | Partly |
+| El-Rajab et al. 2025 ([PMC12098270](https://pmc.ncbi.nlm.nih.gov/articles/PMC12098270/)) | Systematic review of camera screening apps: validation "limited and heterogeneous" | TB | Partly |
+| Hertel et al. 2022, Freeletics injury survey ([PMC9321304](https://pmc.ncbi.nlm.nih.gov/articles/PMC9321304/)) | 3,668 users, 4.57 injuries per 1,000 training hours, fewer in experienced users; self-report. The closest injury rate to home bodyweight training found | T6 | Partly |
+| Centr, Future, Ladder, Nike Training Club (official pages) | Centr: "3 essential + 1 optional" a week. Future: a human coach replans missed weeks. Ladder: users "sub out" days. NTC: "4-6 week" plans | T3, T5 | Partly |
+
+### 4b. Program design and easier-to-harder ladders
+
+| Source | What it says | Trust | Reuse | Topics | Verified |
+|---|---|---|---|---|---|
+| Ebben et al. 2011, JSCR ([PubMed](https://pubmed.ncbi.nlm.nih.gov/21873902/)); Suprak 2011; San Juan 2015 ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4327800/)); Dhahbi 2022 review (26 studies, 46 variants) | Push-up load ladder, easiest to hardest: hands on a 61 cm box, knees, hands on a 30 cm box, regular, feet on a 30 cm box, feet on a 61 cm box. Regular about 64% and knee about 49% of body mass; no sex differences | Weak, but consistent across 3 labs plus a review | Facts (San Juan CC BY 4.0) | T7, T5 | Partly (some percentages secondary) |
+| Kowalski et al. 2022, scoping review ([PMC9121296](https://pmc.ncbi.nlm.nih.gov/articles/PMC9121296/)) | Pooled shoulder activity: incline 15.8% of maximum, push-up plus 30.1%, standard 38.2%, unstable 49.6%. Keep unstable variants for last | Weak (EMG as a proxy) | Facts (CC BY-NC) | T7 | Yes |
+| Calatayud 2017; Moreno-Navarro 2024; Ekstrom 2007 (JOSPT, CR 454); Fonza 2026 | Plank variants can be ordered; raising the feet raises abdominal load. Lunges and lateral step-ups reach strength-level thigh activity; bridges and planks stay below 45% (endurance and stability) | Weak | Facts | T7 | Yes (abstracts) |
+| Helme 2022, JSCR; Muyor 2020, PLoS One ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7112217/)) | The front leg carries 84.4% of force in a rear-foot-elevated split squat. The one-leg squat beats lunge and step-up for muscle activity. Supports squat, then split squat, then rear-foot-elevated split squat, then one-leg squat (not tested with bodyweight only) | Weak | Facts (Muyor CC BY 4.0) | T7 | Yes |
+| Afonso et al. 2021 ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC8067745/)); Alizadeh et al. 2023, Sports Med ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9935664/)) | Strength training raises range of motion as much as stretching (ES 0.73). **But bodyweight-only strength work showed no significant gain** (4 effect sizes), so Move Freely needs real stretch or end-range work | Strong (general); weak (bodyweight subgroup) | Reusable (CC BY 4.0) | T5 | Yes |
+| Warneke et al. 2025, Delphi consensus on stretching ([PMC12305623](https://pmc.ncbi.nlm.nih.gov/articles/PMC12305623/)) | Long-term flexibility: static or PNF, "2-3 sets daily, each held for 30-120 s per muscle". Avoid static stretches over 60 s per muscle before explosive work. Stretching doesn't fix posture, prevent all injuries or speed recovery | Opinion (graded consensus) | Facts (CC BY-NC-ND) | T5 | Yes |
+| Ingram et al. 2025, Sports Med ([PubMed](https://pubmed.ncbi.nlm.nih.gov/39614059/)) | 189 studies: gains from static stretching level off at about 4 min per session and about 10 min per week (whether per muscle is unclear). Intensity, frequency, age and sex didn't matter | Strong | Facts | T5 | Partly |
+| Scoubeau et al. 2023, home HIIT trial ([PMC10034507](https://pmc.ncbi.nlm.nih.gov/articles/PMC10034507/)) | 3 video sessions a week for 8 weeks. "Basic" variant in week 1, "harder" in week 2 of each 2-week block. VO2peak +5%, leg strength +13%; only 2 of 14 people missed 2 sessions each | Weak (n = 14 vs 14) | Facts (CC BY-NC-ND) | T5, T7 | Yes |
+| Iversen et al. 2021, Sports Med ([PMC8449772](https://pmc.ncbi.nlm.nih.gov/articles/PMC8449772/)) | Minimum of about 4 weekly sets per muscle. Prioritise multi-joint moves, including a squat, a push **and a pull**. Supersets roughly halve session time | Weak (narrative review) | Reusable (CC BY 4.0) | T5 | Yes |
+| ACSM 2009 position stand ([PubMed](https://pubmed.ncbi.nlm.nih.gov/19204579/)) | Novices 8-12 RM, 2-3 days a week; intermediate 3-4; advanced 4-5. Add 2-10% after 1-2 reps over target. Large before small, harder before easier | Weak (superseded in part by ACSM 2026) | Facts | T1, T5 | Partly |
+| Garber et al. 2011, ACSM ([PubMed](https://pubmed.ncbi.nlm.nih.gov/21694556/)) | Flexibility: "a total of 60 s per exercise", 2+ days a week. "Gradual progression ... may reduce the risks" | Weak (consensus) | Facts | T5 | Partly |
+| Archila et al. 2021, 5BX-style RCT ([PubMed](https://pubmed.ncbi.nlm.nih.gov/34055156/)) | 11-minute self-paced bodyweight sessions, 3 a week for 6 weeks, raised VO2peak in inactive adults. RPE 14, 100% compliance | Weak (n = 19) | Facts | T5 | Yes (abstract) |
+| Poon et al. 2023 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/37711706/)); Machado 2019 | Calisthenics HIIT felt as hard as cycling HIIT and was more enjoyable than moderate cycling. Track it with RPE | Weak; opinion | Facts | T5 | Yes (abstracts) |
+| Oliveira et al. 2018 ([PMC5991400](https://pmc.ncbi.nlm.nih.gov/articles/PMC5991400/)); Stork 2017 | HIIT is slightly more enjoyable than continuous exercise; only 4% of studied protocols were bodyweight | Weak | Oliveira CC BY 4.0 | T5 | Yes (abstracts) |
+| Li and Huang 2026 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/41408545/)) | 12-week calisthenics RCT in adults with obesity: fitness and strength improved (ES 0.54-0.83). Unusual journal; a correction exists | Weak | Facts | T5 | Partly |
+| ACE IFT model (2020), NASM OPT, NSCA "2-for-2" rule, ACSM Guidelines 12th ed. | Stages: ACE runs Functional, then Movement, then Load/Speed. NASM has 5 phases. NSCA adds load after 2 extra reps in 2 sessions in a row | Industry practice | Ideas only (proprietary) | T5, T1 | Partly (search snippets only) |
+| r/bodyweightfitness Recommended Routine; Steven Low, *Overcoming Gravity* (2nd ed., 2016) | Community and book ladders "in order of increasing difficulty". The move-up rule conflicts between copies (3 × 8 vs 3 × 10) | Industry practice | Ideas only (no open licence) | T7, T1 | Partly |
+
+### 4c. Behaviour, milestones, adherence and quality frameworks
+
+| Source | What it says | Trust | Reuse | Topics | Verified |
+|---|---|---|---|---|---|
+| Harkin et al. 2016, Psychol Bull ([author copy](https://eprints.whiterose.ac.uk/id/eprint/87431/)) | 138 studies: prompting progress monitoring raised goal attainment (d = 0.40), more when progress was recorded or shared | Strong | Facts | T6, T4 | Partly |
+| Huang, Jin and Zhang 2017, OBHDP ([Stanford page](https://www.gsb.stanford.edu/faculty-research/publications/step-step-sub-goals-source-motivation)) | Sub-goals help early; the overall goal helps late. Sub-goals first, then the whole goal: 57.1% reached target vs 33.8% (whole goal only) and 39.1% (sub-goals only) | Weak | Facts | T3, T4 | Partly |
+| Kivetz, Urminsky and Zheng 2006, JMR; Nunes and Drèze 2006, JCR | Goal gradient: effort speeds up near a reward, then resets after it. A head start speeds completion | Weak (consumer, not exercise) | Facts | T2-T4 | Partly (numbers secondary) |
+| Bonezzi, Brendl and De Angelis 2011, Psychol Sci ([author PDF](https://web-docs.stern.nyu.edu/pa/Stuck_in_the_Middle.pdf)) | Motivation dips mid-goal. Frame progress as "done so far" early and "left to go" late | Weak (no replication found) | Facts | T3, T6 | Partly |
+| Amir and Ariely 2008; Fishbach and Dhar 2005 | Progress markers help when the distance to the goal is unclear, and breed complacency when it is clear. Progress can "license" slacking | Weak | Facts | T2, T4 | Partly |
+| Etkin 2016, JCR ([preprint](https://marketing.wharton.upenn.edu/wp-content/uploads/2016/10/Etkin-Jordan-11-12-15-Hidden-Cost.pdf)) | Tracking output raised effort but cut enjoyment and continued engagement, unless framed around what was learned | Weak | Facts | T2, T6 | Partly |
+| Stawarz, Cox and Blandford 2015, CHI; Renfree et al. 2016 | Reminders cut forgetting but weakened habit; streaks create dependency on the app. Use contextual cues and implementation intentions instead | Weak | Facts | T4 | Partly |
+| Bailey et al. 2020, Hinge Health, JMIR ([PMC7248800](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7248800/)); Scheer et al. 2023, Sword Health ([PMC10132051](https://pmc.ncbi.nlm.nih.gov/articles/PMC10132051/)) | Sensor-guided 12-week programs with human coaches: about 73% completed. About 2.8-2.9 sessions a week against 3 recommended. A realistic ceiling for consumer plans | Weak (industry-authored, clinical, uncontrolled) | Facts | T3, T4, Q | Partly |
+| Toelle 2019 (Kaia RCT, npj Digit Med); Clement 2018 (JMIR mHealth) | Kaia app beat physio plus education on pain at 12 weeks (n = 101). Redesign after user feedback lowered dropout | Weak | Facts | Q, T4 | Partly |
+| Baumel 2019 ([PMC6785720](https://pmc.ncbi.nlm.nih.gov/articles/PMC6785720)); Hermsen 2017; Edney 2019; Fuente-Vidal 2026 (JMIR) | Mental-health apps: day-30 retention 3.3%. Free Fitbit: 73.9% still tracking at 100 days, 16% at 320. No peer-reviewed multi-app fitness benchmark exists | Weak | Facts | T4 | Partly |
+| Adjust, AppsFlyer, OneSignal benchmarks | Health and fitness day-30 retention about 3-8.5%, day-1 about 24-28%; definitions differ | Industry practice | n/a | T4 | Partly |
+| Michie, van Stralen and West 2011, COM-B and Behaviour Change Wheel ([UCL](https://discovery.ucl.ac.uk/1305716)) | Capability, Opportunity, Motivation at the hub, with 9 intervention functions. Keyworth 2020's 6-item COM-B questionnaire is CC BY-NC (not for commercial use) | Opinion (framework) | Paper CC BY 2.0 | Q, T6 | Partly |
+| Marques et al. 2024, BCT Ontology ([PMC10427801](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10427801/)) | Machine-readable successor to BCT Taxonomy v1: 247 techniques | Opinion | Article CC BY 4.0; repo licence unclear | Q | Partly |
+| NICE Evidence Standards Framework ([classification](https://www.nice.org.uk/corporate/ecd7/chapter/section-b-classification-of-digital-health-technologies)) | Tiers A/B/C. A fitness tracker is most likely Tier B; condition or pain claims push toward Tier C | Opinion (official standard) | Not checked | Q | Partly |
+| ISO/TS 82304-2:2021 and Label2Enable ([ISO](https://www.iso.org/standard/78182.html), [Label2Enable](https://label2enable.eu/about-cen-iso-ts-82304-2)); Frey 2025 pilot ([JMIR](https://formative.jmir.org/2025/1/e64565)) | An EU health-app quality label (about 81 questions, energy-label style). The pilot found moderate rater agreement on 55 of 69 questions | Opinion; weak | ISO text is paid | Q | Partly |
+| Stoyanov et al. 2016, uMARS ([PMC4920963](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4920963/)) | 20-item user version of MARS; alpha .90 | Weak | Not checked | Q, T6 | Partly |
+| CONSORT-EHEALTH (Eysenbach 2011, [JMIR](https://www.jmir.org/2011/4/e126)); Eysenbach 2005, "law of attrition"; Yardley 2016 | Reporting checklist for app trials. Separates dropout from non-usage. "Effective engagement" means enough for the outcome, not simply more | Opinion | Not checked | Q, T4 | Partly |
+| Nahum-Shani et al. 2018, JITAI design ([PubMed](https://pubmed.ncbi.nlm.nih.gov/27663578/)); Hardeman 2019; Nahum-Shani and Murphy 2025 | Six parts of a just-in-time prompt, including "send nothing". Frequent prompts habituate. Physical-activity JITAIs were mixed and underpowered | Opinion; weak | Facts | T4, T6 | Partly |
+
+### 4d. Validating our own measurements, and platform rules for audio and camera
+
+| Source | What it says | Trust | Reuse | Topics | Verified |
+|---|---|---|---|---|---|
+| COSMIN risk-of-bias tool, Mokkink et al. 2020 ([PMC7712525](https://pmc.ncbi.nlm.nih.gov/articles/PMC7712525/)); GRRAS, Kottner 2011 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/21130355/)) | Which reliability statistic for which data: ICC for continuous, weighted kappa for ordinal, per-category kappa for labels. Specific positive and negative agreement for yes/no. 15 reporting items (OA 619; 2,313) | Strong | COSMIN CC BY 4.0 | V | Yes; partly |
+| Bland and Altman 1986, Lancet ([PubMed](https://pubmed.ncbi.nlm.nih.gov/2868172/)); 2007 repeated-measures version; Giavarina 2015 tutorial ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC4470095/)) | Report bias and 95% limits of agreement, not correlation. Set acceptable limits before testing. Use the clustered method when one person gives many sets (OA 48,286) | Strong | Facts | V | Partly |
+| Feinstein and Cicchetti 1990, J Clin Epidemiol ([I](https://pubmed.ncbi.nlm.nih.gov/2348207/), [II](https://pubmed.ncbi.nlm.nih.gov/2189948/)) | High agreement can give a low kappa when most reps are credited. Always add agreement on positives and on negatives. This is the statistic for "credit agreement" | Strong | Facts | V, T2 | Partly |
+| Koo and Li 2016 ([PMC4913118](https://pmc.ncbi.nlm.nih.gov/articles/PMC4913118/)) | 10 ICC forms; report the model and type; read the 95% CI. Bands: below 0.5 poor, 0.5-0.75 moderate, 0.75-0.9 good, above 0.9 excellent. The "30 subjects, 3 raters" rule is unverified | Strong (method); bands are convention | Facts | V | Partly |
+| McHugh 2012, kappa tutorial ([PMC3900052](https://pmc.ncbi.nlm.nih.gov/articles/PMC3900052/)) | "Any kappa below 0.60 indicates inadequate agreement". Report percent agreement and kappa with CIs | Opinion (thresholds) | CC BY-NC 3.0 | V | Yes |
+| Zapf et al. 2016 ([PMC4974794](https://pmc.ncbi.nlm.nih.gov/articles/PMC4974794/)) | Krippendorff's alpha or Fleiss' kappa for several raters, with bootstrap CIs; alpha when ratings are missing | Strong | CC BY 4.0 | V | Yes |
+| RepNet (CVPR 2020) and TransRAC (CVPR 2022) papers | In the literature, "MAE" is error divided by true count, and "off-by-one" means within 1 rep. Delva must state both and also give raw reps (1 miss in 5 reps = 20%) | Strong (field convention) | Facts | V, TB | Yes |
+| ACCORD reporting guideline, Gattrell 2024, PLoS Med ([PMC10805282](https://pmc.ncbi.nlm.nih.gov/articles/PMC10805282/)); Diamond 2014; CREDES (Jünger 2017) | How to run and report a consensus panel. Define consensus in advance (ACCORD used ≥80% of ≥20 voters, 2+ rounds). Of 100 Delphi studies, only 72 defined consensus. The template for writing Delva's technique criteria | Strong | ACCORD CC BY 4.0 | T7 | Yes; partly |
+| Datasheets for Datasets, Gebru et al. ([arXiv](https://arxiv.org/abs/1803.09010)); Model Cards, Mitchell et al. 2019 ([arXiv](https://arxiv.org/abs/1810.03993)) | What to record about Delva's clip set (consent text, revocation, ethics review, labeller pay) and its models (results split by camera, light and group, with CIs) | Opinion (widely adopted) | Facts | V | Yes |
+| Andrews et al. 2023, NeurIPS D&B ([arXiv](https://arxiv.org/abs/2302.03629)); GDPR Art. 7 | Explicit, revocable, plain-language consent from everyone recorded. Self-reported demographics, not inferred. Withdrawing must be "as easy" as giving consent | Opinion; law | n/a | V, X | Yes |
+| MediaPipe Pose Landmarker docs ([guide](https://developers.google.com/edge/mediapipe/solutions/vision/pose_landmarker), updated 2026-11-04) | LIVE_STREAM mode drops frames when busy; VIDEO mode never does. Defaults: confidence thresholds 0.5, one pose. So test clips must also be replayed live on target phones | Official docs | Text CC BY 4.0, code Apache-2.0 | TB, V | Yes |
+| Apple AVAudioSession `duckOthers`, `interruptSpokenAudioAndMixWithOthers`, `voicePrompt` mode; `AVSpeechSynthesizer.write(_:toBufferCallback:)` ([docs](https://developer.apple.com/documentation/avfaudio/avaudiosession/categoryoptions-swift.struct/duckothers)) | Apple names exercise apps for duck-plus-pause-podcasts. **"Don't use it to duck the audio of other apps for more than a few seconds."** Speech can be pre-rendered to buffers. AirPlay can add about 2 s of latency | Official docs | n/a | TB | Yes |
+| Android audio focus ([guide](https://developer.android.com/media/optimize/audio-focus)), `AudioAttributes`, `TextToSpeech`, audio latency ([NDK guide](https://developer.android.com/ndk/guides/audio/audio-latency)) | `AUDIOFOCUS_GAIN_TRANSIENT_MAY_DUCK` ducks music and pauses podcasts. Android 15 refuses focus unless the app is on top or runs a foreground service. TTS can pre-render clips. Low-latency devices guarantee 45 ms or less output | Official docs | n/a | TB | Yes |
+| Apple `ProcessInfo.thermalState`, `AVCaptureDevice.SystemPressureState` ([docs](https://developer.apple.com/documentation/foundation/processinfo/thermalstate-swift.enum)) | At "serious", cut frame rate (for example 60 to 30 fps). At "critical", stop the camera if possible. The camera session is interrupted at "shutdown" | Official docs | n/a | TB | Yes |
+| Android `PowerManager` thermal status and headroom ([ADPF guide](https://developer.android.com/games/optimize/adpf/thermal)) | Prefer thermal headroom (1.0 = severe) over status, which stays NONE on some devices. The docs conflict on how often to poll | Official docs | n/a | TB | Yes |
+| Android CameraX ImageAnalysis and camera foreground service ([analyze](https://developer.android.com/media/camera/camerax/analyze), [service types](https://developer.android.com/develop/background-work/services/fgs/service-types)) | Keep-only-latest frames; analyse each frame within budget (about 32 ms at 30 fps). The camera service can't start from the background. A "health" service type exists for exercise apps | Official docs | n/a | TB | Yes |
+| WCAG 2.2 and WCAG2ICT (W3C) | 1.3.3: instructions must not rely solely on sound. 4.1.3: status messages should reach screen readers. No criterion targets live spoken cues directly | Official standard | n/a | TB | Partly (read from W3C source) |
+| Apple Human Interface Guidelines (accessibility, audio, haptics, privacy, workouts); WatchKit `play(_:)` | "Use haptics in addition to audio cues"; add visual cues. Process data on the device where possible. Watch haptics only during an active workout session; at least 100 ms delay when the haptic engine is busy | Official docs | n/a | TB | Yes |
+| Hall et al. 2026 ([PMC13526966](https://pmc.ncbi.nlm.nih.gov/articles/PMC13526966/)); van Breda 2017 ([PMC5530110](https://pmc.ncbi.nlm.nih.gov/articles/PMC5530110/)); Android haptics principles | Only 4 of 1,735 fitness apps were tailored to Deaf/hard-of-hearing or blind users, and none gave Deaf users form feedback. Vibration feedback has no proven learning benefit. "Buzzy haptics or no haptics: choose no haptics" | Weak; official | CC BY 4.0; CC BY-NC | TB | Yes |
+
+### What round 2 changes for the brainstorm
+
+1. **Commercial apps hold the plan in place after a miss, as Delva does.**
+   - They keep credit rules strict about where a workout came from.
+   - They offer one-day shorter versions from a fixed menu.
+   - They give comebacks their own path.
+2. **Easier-to-harder ladders now have some measured ordering:**
+   - push-up by body angle
+   - plank by foot height
+   - legs by shifting load to one leg
+   - a tested "basic week, then harder week" pattern at home
+
+   No full bodyweight ladder has been measured.
+3. **Move Freely needs real stretching.** Bodyweight strength work alone showed no range-of-motion
+   gain. Stretching gains level off at about 10 minutes a week.
+4. **Milestones:**
+   - Sub-goals early, the whole goal late.
+   - Expect a mid-chapter dip.
+   - Record progress at check-ins, but frame it around what was gained, not only counts.
+5. **Validation now has a concrete recipe** (below).
+6. **Apple's "few seconds" limit on lowering other apps' music** clashes with lowering it for a
+   count on every rep.
+
+### Validation recipe for Delva's own camera measurements
+
+Built from the 4d sources. The thresholds are ours to set before testing.
+
+1. **Human reference labels.**
+   - 2-3 trained raters, each blind to the app and to each other, label every rep.
+   - Report Krippendorff's alpha or Fleiss' kappa with bootstrap CIs, plus percent agreement.
+   - Settle disagreements into one consensus label.
+2. **Rep counter.**
+   - Report the exact-match rate, off-by-one accuracy, and raw error in reps.
+   - Also report error divided by the true count, for comparison with the literature.
+   - Add Bland-Altman bias and limits, corrected for repeated sets from one person.
+3. **Hold timer and joint angles.**
+   - Report Bland-Altman limits in seconds or degrees, against acceptable limits fixed in advance.
+   - Add an ICC with its model and type stated, read from its 95% CI.
+4. **Credit agreement** (did the app and the humans agree on done vs partial):
+   - kappa together with agreement on positives and on negatives
+   - kappa for each error type, against all the others
+   - the false-alarm rate against the consensus label
+5. **Breakdowns and paperwork.**
+   - Split every result by camera view, distance, light, device, sex, skin tone and body size, with
+     CIs.
+   - Replay clips through MediaPipe's live mode on target phones, not only offline.
+   - Publish a datasheet for the clip set and a model card, with thresholds fixed before testing.
+   - Use ACCORD to report the expert panel that sets technique criteria.
 
 ---
 
@@ -361,6 +530,26 @@ Taken from report section 5. No credible source covers:
 - Injury rates for unsupervised home bodyweight training; how valid in-app screening is.
 - Delva's own drop-off curve: camera permission, first and second workout, chapter boundaries.
 
+Added by round 2:
+
+- **A complete bodyweight ladder** for squat, lunge or hinge, measured end to end. Only parts exist:
+  push-ups by angle, planks by foot height, legs by shifting load to one leg.
+- **Validated tests for placing someone** at beginner, intermediate or advanced.
+- **Safety of unsupervised bodyweight HIIT** in untrained adults. No adverse-event data; trials are
+  small with mean ages of about 20-28.
+- **A peer-reviewed retention benchmark** across consumer fitness apps. Industry figures for day-30
+  retention range from 3% to 8.5%.
+- **Camera feedback against wearable-sensor feedback** on adherence, compared head to head.
+- **Sub-goals or milestones replicated in exercise programs.** The findings come from consumer and
+  lab tasks.
+- **Pass or fail thresholds** for rep-count or credit agreement, and a sample-size rule for Delva's
+  validation study.
+- **Speech latency** on either platform, and **per-device MediaPipe latency**: neither is documented.
+- **Cue channels for Deaf and hard-of-hearing exercisers.** There is no evidence. Phone haptics
+  likely don't work with the phone on a stand.
+- **Camera accuracy for commercial apps.** No commercial vendor (Peloton, Tempo, Zing, Kemtai,
+  QuickPose, Sency, Freeletics) publishes how it measured its accuracy.
+
 ## 8. Items for legal counsel
 
 - The licences for PAR-Q+, CSEP, Compendium MET values, Gym visual terms and ExerciseDB terms.
@@ -374,6 +563,15 @@ Taken from report section 5. No credible source covers:
 - Directive 2004/113/EC and *Test-Achats*, plus the UK Equality Act 2010, if any content differs by
   gender.
 - AI Act classification of the camera features.
+- Whether stored or uploaded skeleton keypoints count as biometric data. Zing's own policy says its
+  "dots" "may be considered biometric data in some jurisdictions".
+
+**Licence and terms checks (not legal questions, but someone must read them):**
+
+- The r/bodyweightfitness wiki: Reddit's user content has no open licence.
+- *Overcoming Gravity* and the NSCA, ACE and NASM material: proprietary, ideas only.
+- The Keyworth 2020 COM-B questionnaire: CC BY-NC, so not for a commercial app.
+- The ISO/TS 82304-2 text: paid.
 
 ## 9. Known inconsistencies between sources
 
@@ -387,3 +585,8 @@ Taken from report section 5. No credible source covers:
 | Report vs mockup | The report's frequency reasoning assumes 4-5 full sessions; the mockup has 3 main sessions plus light ones in every plan | Topic T5 |
 | Counting rulebook vs research | Rulebook: sparse spoken counts. Research: counting every rep raises effort (evidence from trained lifters) | Track B |
 | Coaching rulebook vs research | Rulebook corrects every mapped half-rep, with no confidence gate. Research: correct only when confident and repeated, one theme per set | Track B |
+| Research (count every rep) vs Apple's audio docs | Apple: don't lower other apps' music "for more than a few seconds". Counting every rep would keep it lowered all set. Counts may need to mix over music without lowering it | Track B |
+| Move Freely concept vs Alizadeh 2023 | Bodyweight-only strength work showed no range-of-motion gain (4 effect sizes), so Move Freely needs real stretching (about 10 min a week where gains level off, Ingram 2025) | Topic T5 |
+| ACSM 2009 vs the 5-day beginner plans | ACSM 2009: novices train 2-3 days a week. ACSM 2026 says that advice rested on 3 studies. Delva's 5-day beginner plans add light sessions only | Topic T5 |
+| UK CMO guidelines | Round 1 cited the 2019 guidelines. Search results show a gov.uk page "updated 10 July 2026" that could not be opened | Check before citing |
+| Freeletics help centre vs its staff forum posts | Missed sessions move to "the next calendar day" vs "the next coach day" | Low impact (vendor detail) |
