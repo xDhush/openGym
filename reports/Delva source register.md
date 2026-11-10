@@ -172,6 +172,7 @@ report's bibliography, under the area letter shown.
 | Refalo et al. 2025, PeerJ ([PubMed](https://pubmed.ncbi.nlm.nih.gov/40028215/)) | Absolute growth slightly favoured men; relative gains similar | Strong | Reusable (CC BY 4.0) |
 | Jones et al. 2021, Sports Med ([PubMed](https://pubmed.ncbi.nlm.nih.gov/33332016/)) | Over-50s: women gained more relative lower-body strength | Strong | Facts |
 | WHO 2020 guidelines, Bull et al. ([PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7719906/)) | One recommendation for all adults 18-64 | Strong | Reusable (CC BY 4.0) |
+| UK CMO guidelines, 2026 update (round 2, section 4b) | The guidelines "apply across the population, irrespective of gender, age or socioeconomic status" | Strong (official guideline) | Reusable (OGL v3.0) |
 | Ross et al. 2019, BJSM ([PubMed](https://pubmed.ncbi.nlm.nih.gov/30862704/)) | Individual response to the same dose varies widely | Strong (consensus) | Facts |
 | Noar 2007 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/17592961/)); Lustria 2013 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/23750972/)) | Tailoring helps a little (r = .074; d = .139) | Strong | Facts |
 | De Croon 2021; Brons 2024; Gabarron 2024 (JMIR) | Health recommenders are mostly tested as algorithms; very low certainty they raise activity | Strong (reviews) | Facts |
@@ -317,6 +318,16 @@ session:
 So most commercial and practitioner entries are "partly". Numbers marked "secondary" were seen only
 in summaries.
 
+**Follow-up on 2026-11-10:**
+- gov.uk, NSCA, ACE, NASM, ACSM and the ACSM journal site were added to the environment.
+- gov.uk and NASM were then read in full.
+- ACE, acsm.org and journals.lww.com refuse automated readers with bot checks, and these were not
+  bypassed. So ACSM 2009, Garber 2011 and the ACE model remain abstract-level until a person reads
+  them.
+- NSCA's PDF needs a member login.
+- Reddit could not be added: the environments service rejects it. It can be added by hand in the
+  environment's network settings.
+
 **Citation counts:** Crossref (CR) or OpenAlex (OA), retrieved 2026-11-07.
 
 ### 4a. Commercial apps: how they run programs and camera coaching (industry practice)
@@ -364,7 +375,9 @@ claim.
 | Poon et al. 2023 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/37711706/)); Machado 2019 | Calisthenics HIIT felt as hard as cycling HIIT and was more enjoyable than moderate cycling. Track it with RPE | Weak; opinion | Facts | T5 | Yes (abstracts) |
 | Oliveira et al. 2018 ([PMC5991400](https://pmc.ncbi.nlm.nih.gov/articles/PMC5991400/)); Stork 2017 | HIIT is slightly more enjoyable than continuous exercise; only 4% of studied protocols were bodyweight | Weak | Oliveira CC BY 4.0 | T5 | Yes (abstracts) |
 | Li and Huang 2026 ([PubMed](https://pubmed.ncbi.nlm.nih.gov/41408545/)) | 12-week calisthenics RCT in adults with obesity: fitness and strength improved (ES 0.54-0.83). Unusual journal; a correction exists | Weak | Facts | T5 | Partly |
-| ACE IFT model (2020), NASM OPT, NSCA "2-for-2" rule, ACSM Guidelines 12th ed. | Stages: ACE runs Functional, then Movement, then Load/Speed. NASM has 5 phases. NSCA adds load after 2 extra reps in 2 sessions in a row | Industry practice | Ideas only (proprietary) | T5, T1 | Partly (search snippets only) |
+| UK Chief Medical Officers' physical activity guidelines, **updated 10 July 2026** ([gov.uk](https://www.gov.uk/government/publications/physical-activity-guidelines-uk-chief-medical-officers-report/uk-chief-medical-officers-physical-activity-guidelines)) | Adults 19-64: strength work on at least 2 days a week ("any strengthening activity is better than none"), including bodyweight; 150 min moderate or 75 min vigorous a week; minimise sitting. The 2026 update says: bouts of any length count, including under 10 minutes; one or two sessions a week still bring benefits; light activity at higher volumes may do the same; strength work is "as important as" the 150 minutes; the guidelines apply "irrespective of gender, age or socioeconomic status". It adds a note on keeping muscle for people taking GLP-1 drugs. Adult recommendations read the same as 2019; the evidence, introduction and foreword are new | Strong (official guideline) | Reusable (Open Government Licence v3.0) | T5, T1, T4 | Yes (full HTML) |
+| NASM Optimum Performance Training (OPT™) model ([NASM](https://www.nasm.org/resource-center/blog/training/nasm-optimum-performance-training)) | "Proprietary" and trademarked. 5 phases in 3 levels: Stabilization Endurance, Strength Endurance, Hypertrophy, Maximal Strength, Power. Most people start in phase 1: higher reps, controlled tempo, less stable conditions. Clients "often cycle between phases" rather than marching one way; general-population clients mostly stay in phases 1-3 | Industry practice | Ideas only (proprietary, trademarked names) | T5, T1 | Yes |
+| ACE IFT model (2020 revision), NSCA "2-for-2" rule and *Foundations of Fitness Programming*, ACSM Guidelines 12th ed. | ACE: Functional, then Movement, then Load/Speed stages. NSCA: add load after 2 extra reps in 2 sessions in a row | Industry practice | Ideas only (proprietary) | T5, T1 | Partly. The sites are now allowed, but ACE and acsm.org block automated readers, and NSCA's PDF needs a member login. A person can read them in a browser |
 | r/bodyweightfitness Recommended Routine; Steven Low, *Overcoming Gravity* (2nd ed., 2016) | Community and book ladders "in order of increasing difficulty". The move-up rule conflicts between copies (3 × 8 vs 3 × 10) | Industry practice | Ideas only (no open licence) | T7, T1 | Partly |
 
 ### 4c. Behaviour, milestones, adherence and quality frameworks
@@ -588,5 +601,5 @@ Added by round 2:
 | Research (count every rep) vs Apple's audio docs | Apple: don't lower other apps' music "for more than a few seconds". Counting every rep would keep it lowered all set. Counts may need to mix over music without lowering it | Track B |
 | Move Freely concept vs Alizadeh 2023 | Bodyweight-only strength work showed no range-of-motion gain (4 effect sizes), so Move Freely needs real stretching (about 10 min a week where gains level off, Ingram 2025) | Topic T5 |
 | ACSM 2009 vs the 5-day beginner plans | ACSM 2009: novices train 2-3 days a week. ACSM 2026 says that advice rested on 3 studies. Delva's 5-day beginner plans add light sessions only | Topic T5 |
-| UK CMO guidelines | Round 1 cited the 2019 guidelines. Search results show a gov.uk page "updated 10 July 2026" that could not be opened | Check before citing |
+| UK CMO guidelines | Round 1 cited the 2019 guidelines. The guidelines were updated on 10 July 2026; adult recommendations are unchanged in substance, with new evidence (see 4b) | Resolved: cite the 2026 version |
 | Freeletics help centre vs its staff forum posts | Missed sessions move to "the next calendar day" vs "the next coach day" | Low impact (vendor detail) |
