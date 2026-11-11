@@ -1,0 +1,14 @@
+.gitignore
+LICENSE
+README.md
+README_CN.md
+app
+assets
+build_portable.ps1
+core
+data
+exercise_counters.py
+models
+requirements.txt
+run.py
+ui

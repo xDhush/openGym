@@ -1,0 +1,9 @@
+.github
+.gitignore
+LICENSE.md
+Makefile
+README.md
+dist
+exercises
+schema.json
+site

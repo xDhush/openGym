@@ -1,0 +1,10 @@
+.github
+.gitignore
+CITATION.cff
+Content
+LICENSE
+Pose2Sim
+README.md
+funding.json
+pose2sim.yaml
+pyproject.toml

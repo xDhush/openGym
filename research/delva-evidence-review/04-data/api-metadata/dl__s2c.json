@@ -1,0 +1,212 @@
+[
+ {
+  "paperId": "74c487ca0d697a6903e54a25eb0ffd25367fd99e",
+  "title": "RecoFit: using a wearable sensor to find, recognize, and count repetitive exercises",
+  "venue": "International Conference on Human Factors in Computing Systems",
+  "year": 2014,
+  "citationCount": 245,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null,
+   "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1145/2556288.2557116?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1145/2556288.2557116, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+   {
+    "authorId": "144864481",
+    "name": "Dan Morris"
+   },
+   {
+    "authorId": "1766388",
+    "name": "T. S. Saponas"
+   },
+   {
+    "authorId": "1778413",
+    "name": "Andrew Guillory"
+   },
+   {
+    "authorId": "2365251",
+    "name": "Ilya Kelner"
+   }
+  ]
+ },
+ {
+  "paperId": "19de22fc50c5f8609b2c31854f5e568fa58c6041",
+  "title": "Sapiens: Foundation for Human Vision Models",
+  "venue": "European Conference on Computer Vision",
+  "year": 2024,
+  "citationCount": 321,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null,
+   "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2408.12569, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+   {
+    "authorId": "51927417",
+    "name": "Rawal Khirodkar"
+   },
+   {
+    "authorId": "2344836052",
+    "name": "Timur M. Bagautdinov"
+   },
+   {
+    "authorId": "2109650391",
+    "name": "Julieta Martinez"
+   },
+   {
+    "authorId": "2316921643",
+    "name": "Zhao-En Su"
+   },
+   {
+    "authorId": "143803827",
+    "name": "A. James"
+   },
+   {
+    "authorId": "2316637381",
+    "name": "Peter Selednik"
+   },
+   {
+    "authorId": "2345470289",
+    "name": "Stuart Anderson"
+   },
+   {
+    "authorId": "2316640744",
+    "name": "Shunsuke Saito"
+   }
+  ]
+ },
+ {
+  "paperId": "a06923ce267ebc5d3c928d37155397a354ecb704",
+  "title": "Rethinking temporal self-similarity for repetitive action counting",
+  "venue": "International Conference on Information Photonics",
+  "year": 2024,
+  "citationCount": 6,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null,
+   "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2407.09431, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+   {
+    "authorId": "2311519126",
+    "name": "Ya-Nan Luo"
+   },
+   {
+    "authorId": "2311878028",
+    "name": "Jin-Hui Yi"
+   },
+   {
+    "authorId": "41022481",
+    "name": "Yazan Abu Farha"
+   },
+   {
+    "authorId": "2276427685",
+    "name": "Moritz Wolter"
+   },
+   {
+    "authorId": "2276429781",
+    "name": "Juergen Gall"
+   }
+  ]
+ },
+ {
+  "paperId": "789dec1672d4dbcd61c141dfc584831a683036c3",
+  "title": "MultiCounter: Multiple Action Agnostic Repetition Counting in Untrimmed Videos",
+  "venue": "European Conference on Artificial Intelligence",
+  "year": 2024,
+  "citationCount": 4,
+  "openAccessPdf": {
+   "url": "",
+   "status": null,
+   "license": null,
+   "disclaimer": "Notice: Paper or abstract available at https://arxiv.org/abs/2409.04035, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+   {
+    "authorId": "2291062877",
+    "name": "Yin Tang"
+   },
+   {
+    "authorId": "2319453457",
+    "name": "Wei Luo"
+   },
+   {
+    "authorId": "2108085582",
+    "name": "Jinrui Zhang"
+   },
+   {
+    "authorId": "2318927085",
+    "name": "Wei Huang"
+   },
+   {
+    "authorId": "2392147577",
+    "name": "Rui Jing"
+   },
+   {
+    "authorId": "2290946554",
+    "name": "De-Yu Zhang"
+   }
+  ]
+ },
+ null,
+ null,
+ null,
+ {
+  "paperId": "27d37b2aa46e07dda1a61e7ace51f48b81524a4a",
+  "title": "Concurrent validity of markerless motion capture for occupational lifting: Kinematics and ergonomic risk assessment.",
+  "venue": "Applied Ergonomics",
+  "year": 2026,
+  "citationCount": 1,
+  "openAccessPdf": {
+   "url": "https://doi.org/10.1016/j.apergo.2026.104866",
+   "status": "HYBRID",
+   "license": "CCBY",
+   "disclaimer": "Notice: Paper or abstract available at https://api.unpaywall.org/v2/10.1016/j.apergo.2026.104866?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1016/j.apergo.2026.104866, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+   {
+    "authorId": "2307971756",
+    "name": "Mengjie Zhang"
+   },
+   {
+    "authorId": "2307312917",
+    "name": "Arne Nieuwenhuys"
+   },
+   {
+    "authorId": "2394592979",
+    "name": "Mark Boocock"
+   },
+   {
+    "authorId": "2274085123",
+    "name": "Yan-Xin Zhang"
+   }
+  ]
+ },
+ {
+  "paperId": "22b0c8d792246e9eb3de658764f4212c5468e1cb",
+  "title": "PoseRAC: Enhancing Repetitive Action Counting with Salient Poses",
+  "venue": "International Conference on Neural Information Processing",
+  "year": 2024,
+  "citationCount": 3,
+  "openAccessPdf": {
+   "url": "",
+   "status": "CLOSED",
+   "license": null,
+   "disclaimer": "Notice: The following paper fields have been elided by the publisher: {'abstract'}. Paper or abstract available at https://api.unpaywall.org/v2/10.1007/978-981-96-6588-4_18?email=<INSERT_YOUR_EMAIL> or https://doi.org/10.1007/978-981-96-6588-4_18, which is subject to the license by the author or copyright owner provided with this content. Please go to the source to verify the license and copyright information for your use."
+  },
+  "authors": [
+   {
+    "authorId": "2342074573",
+    "name": "Ziyu Yao"
+   },
+   {
+    "authorId": "2325111078",
+    "name": "Yuexian Zou"
+   }
+  ]
+ },
+ null
+]

@@ -1,0 +1,1060 @@
+[
+ {
+  "paperId": "59f3a052b4b5187a91cb9b8d0813e23f3dffbc03",
+  "externalIds": {
+   "MAG": "2010258059",
+   "DOI": "10.1037/0033-2909.95.3.355",
+   "CorpusId": 7626089,
+   "PubMed": "6399752"
+  },
+  "title": "Knowledge of results and motor learning: a review and critical reappraisal.",
+  "venue": "Psychological bulletin",
+  "year": 1984,
+  "citationCount": 1510
+ },
+ {
+  "paperId": "d9f2ebe727d19195df73b6dcae151d987d8ad9a0",
+  "externalIds": {
+   "MAG": "2013251441",
+   "DOI": "10.1037/0278-7393.16.4.677",
+   "CorpusId": 41281559
+  },
+  "title": "Reduced frequency of knowledge of results enhances motor skill learning.",
+  "venue": "",
+  "year": 1990,
+  "citationCount": 754
+ },
+ {
+  "paperId": "77734d2a1a02e63c20050de01d14ecadcba24568",
+  "externalIds": {
+   "MAG": "1990211459",
+   "DOI": "10.2466/pms.1988.66.2.535",
+   "CorpusId": 21039789,
+   "PubMed": "3399331"
+  },
+  "title": "Effect of Bandwidth Knowledge of Results on Movement Consistency",
+  "venue": "Perceptual and Motor Skills",
+  "year": 1988,
+  "citationCount": 164
+ },
+ {
+  "paperId": "4485bf3b24d9560a41779bc6d586893144a32c3d",
+  "externalIds": {
+   "DOI": "10.1016/j.psychsport.2022.102165",
+   "CorpusId": 247204056
+  },
+  "title": "Meta-analysis of the reduced relative feedback frequency effect on motor learning and performance",
+  "venue": "Psychology of Sport And Exercise",
+  "year": 2022,
+  "citationCount": 30
+ },
+ {
+  "paperId": "e48afb809eb382be9749828cc6997fbbac392b0a",
+  "externalIds": {
+   "PubMedCentral": "10432365",
+   "DOI": "10.1007/s40279-023-01877-2",
+   "CorpusId": 259355555,
+   "PubMed": "37410360"
+  },
+  "title": "The Effect of Feedback on Resistance Training Performance and Adaptations: A Systematic Review and Meta-analysis",
+  "venue": "Sports Medicine",
+  "year": 2023,
+  "citationCount": 84
+ },
+ {
+  "paperId": "13efed1501fea7fee3293c3f0e2a184e18b3ff69",
+  "externalIds": {
+   "MAG": "2058543238",
+   "DOI": "10.3758/s13423-012-0333-8",
+   "CorpusId": 21889608,
+   "PubMed": "23132605"
+  },
+  "title": "Augmented visual, auditory, haptic, and multimodal feedback in motor learning: A review",
+  "venue": "Psychonomic Bulletin & Review",
+  "year": 2012,
+  "citationCount": 1494
+ },
+ {
+  "paperId": "69d4ff432fcbdea4a9d85ae2f8f33e66d42fdd0a",
+  "externalIds": {
+   "PubMedCentral": "4714441",
+   "MAG": "2235772502",
+   "DOI": "10.1186/s12909-016-0538-z",
+   "CorpusId": 15762777,
+   "PubMed": "26768734"
+  },
+  "title": "A systematic review and meta-analysis of selected motor learning principles in physiotherapy and medical education",
+  "venue": "BMC Medical Education",
+  "year": 2016,
+  "citationCount": 57
+ },
+ null,
+ {
+  "paperId": "300f3941fc605550ecefb1d0148db918ac113552",
+  "externalIds": {
+   "MAG": "2044201858",
+   "DOI": "10.1080/1750984X.2012.723728",
+   "CorpusId": 38936797
+  },
+  "title": "Attentional focus and motor learning: a review of 15 years",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 1177
+ },
+ {
+  "paperId": "55a3b83607b68ef84077940931f2a912ecfd361d",
+  "externalIds": {
+   "DOI": "10.1037/bul0000335",
+   "CorpusId": 244739418,
+   "PubMed": "34843301"
+  },
+  "title": "Superiority of external attentional focus for motor performance and learning: Systematic reviews and meta-analyses.",
+  "venue": "Psychological bulletin",
+  "year": 2021,
+  "citationCount": 194
+ },
+ {
+  "paperId": "0f7d6c1d189a94e7ec7ae14dded272c168e35be5",
+  "externalIds": {
+   "DOI": "10.1037/bul0000451",
+   "CorpusId": 269794289,
+   "PubMed": "39480294"
+  },
+  "title": "Reporting bias, not external focus: A robust Bayesian meta-analysis and systematic review of the external focus of attention literature.",
+  "venue": "Psychological bulletin",
+  "year": 2024,
+  "citationCount": 27
+ },
+ {
+  "paperId": "3926cdedb27ce8f6e862986cc320c1726f86f39b",
+  "externalIds": {
+   "PubMedCentral": "8622562",
+   "DOI": "10.3390/sports9110153",
+   "CorpusId": 244160620,
+   "PubMed": "34822352"
+  },
+  "title": "Acute and Long-Term Effects of Attentional Focus Strategies on Muscular Strength: A Meta-Analysis",
+  "venue": "Sports",
+  "year": 2021,
+  "citationCount": 28
+ },
+ {
+  "paperId": "0a2c8b7bf919bab275708d03dcf13551193186a4",
+  "externalIds": {
+   "PubMedCentral": "8751186",
+   "DOI": "10.3390/ijerph19010089",
+   "CorpusId": 245855053,
+   "PubMed": "35010348"
+  },
+  "title": "Effects of Attentional Focus on Muscular Endurance: A Meta-Analysis",
+  "venue": "International Journal of Environmental Research and Public Health",
+  "year": 2021,
+  "citationCount": 28
+ },
+ {
+  "paperId": "f6493f96f05318c554076b72520811759972fb6c",
+  "externalIds": {
+   "MAG": "2789316445",
+   "DOI": "10.1080/17461391.2018.1447020",
+   "CorpusId": 3846197,
+   "PubMed": "29533715"
+  },
+  "title": "Differential effects of attentional focus strategies during long-term resistance training",
+  "venue": "European Journal of Sport Science",
+  "year": 2018,
+  "citationCount": 55
+ },
+ {
+  "paperId": "9e0dd3facb697da0a11a62892a4bc1ef9879a975",
+  "externalIds": {
+   "MAG": "2912881048",
+   "PubMedCentral": "6379478",
+   "DOI": "10.3389/fpsyg.2019.00244",
+   "CorpusId": 59944507,
+   "PubMed": "30809175"
+  },
+  "title": "A Review on the Relationship Between Sound and Movement in Sports and Rehabilitation",
+  "venue": "Frontiers in Psychology",
+  "year": 2019,
+  "citationCount": 197
+ },
+ {
+  "paperId": "79aa4cdb0924f94bf7969e6b35f71aac098e8207",
+  "externalIds": {
+   "PubMedCentral": "5530110",
+   "MAG": "2747178981",
+   "DOI": "10.1136/bmjsem-2016-000216",
+   "CorpusId": 19546946,
+   "PubMed": "28761708"
+  },
+  "title": "Vibrotactile feedback as a tool to improve motor learning and sports performance: a systematic review",
+  "venue": "BMJ Open Sport & Exercise Medicine",
+  "year": 2017,
+  "citationCount": 57
+ },
+ {
+  "paperId": "b8aade70c8a310c232a2968b54d50f5d170e08df",
+  "externalIds": {
+   "DBLP": "conf/uist/AndersonGMF13",
+   "MAG": "2142747340",
+   "DOI": "10.1145/2501988.2502045",
+   "CorpusId": 2640813
+  },
+  "title": "YouMove: enhancing movement training with an augmented reality mirror",
+  "venue": "ACM Symposium on User Interface Software and Technology",
+  "year": 2013,
+  "citationCount": 359
+ },
+ {
+  "paperId": "fb6c66181ad619297230690614577dd0f40f8d21",
+  "externalIds": {
+   "MAG": "3153298919",
+   "PubMedCentral": "8317029",
+   "DOI": "10.2196/26658",
+   "CorpusId": 234951277,
+   "PubMed": "34255677"
+  },
+  "title": "App-Based Feedback for Rehabilitation Exercise Correction in Patients With Knee or Hip Osteoarthritis: Prospective Cohort Study",
+  "venue": "Journal of Medical Internet Research",
+  "year": 2020,
+  "citationCount": 29
+ },
+ {
+  "paperId": "dc9ca68ec78facaa10fc449bda5b760df61b0728",
+  "externalIds": {
+   "PubMedCentral": "5572292",
+   "MAG": "2746105710",
+   "DOI": "10.3389/fpsyg.2017.01350",
+   "CorpusId": 33719262,
+   "PubMed": "28878701"
+  },
+  "title": "Working Memory Capacity Limits Motor Learning When Implementing Multiple Instructions",
+  "venue": "Frontiers in Psychology",
+  "year": 2017,
+  "citationCount": 70
+ },
+ {
+  "paperId": "e0cc98aec90cd199789113b6be30c2435f4dbaf6",
+  "externalIds": {
+   "PubMedCentral": "4473096",
+   "MAG": "2062061983",
+   "DOI": "10.1007/s40279-015-0319-6",
+   "CorpusId": 6885743,
+   "PubMed": "25771784"
+  },
+  "title": "Psychological Determinants of Whole-Body Endurance Performance",
+  "venue": "Sports Medicine",
+  "year": 2015,
+  "citationCount": 277
+ },
+ {
+  "paperId": "3fe11c1e6c1308c07ab336e69098c999ae95fce3",
+  "externalIds": {
+   "MAG": "2151333954",
+   "PubMedCentral": "3911931",
+   "DOI": "10.1371/journal.pone.0087176",
+   "CorpusId": 4585243,
+   "PubMed": "24498299"
+  },
+  "title": "Thresholds of Auditory-Motor Coupling Measured with a Simple Task in Musicians and Non-Musicians: Was the Sound Simultaneous to the Key Press?",
+  "venue": "PLoS ONE",
+  "year": 2014,
+  "citationCount": 35
+ },
+ {
+  "paperId": "f86ddd5205d2e1b25656cc1154d81f26a9c8f385",
+  "externalIds": {
+   "PubMedCentral": "4704610",
+   "MAG": "2230034598",
+   "DOI": "10.3389/fnhum.2015.00688",
+   "CorpusId": 18022293,
+   "PubMed": "26779000"
+  },
+  "title": "Neural Basis of the Time Window for Subjective Motor-Auditory Integration",
+  "venue": "Frontiers in Human Neuroscience",
+  "year": 2016,
+  "citationCount": 15
+ },
+ {
+  "paperId": "d0d810ebec61c7682d28f72a80dd7a6c766dcf0e",
+  "externalIds": {
+   "MAG": "2111546497",
+   "PubMedCentral": "3297075",
+   "DOI": "10.3389/fpsyg.2012.00061",
+   "CorpusId": 17678641,
+   "PubMed": "22408631"
+  },
+  "title": "Effects of Delayed Visual Feedback on Grooved Pegboard Test Performance",
+  "venue": "Front. Psychology",
+  "year": 2012,
+  "citationCount": 26
+ },
+ {
+  "paperId": "3e0ac2729a975bde98d6b62117099d3c81228f7d",
+  "externalIds": {
+   "DBLP": "conf/audio/0008ABW24",
+   "DOI": "10.1145/3678299.3678331",
+   "CorpusId": 272609348
+  },
+  "title": "Measuring the Just Noticeable Difference for Audio Latency",
+  "venue": "Audio Mostly Conference",
+  "year": 2024,
+  "citationCount": 12
+ },
+ {
+  "paperId": "dac792bbd3fd4a08d4bc6942d532ac271245da6f",
+  "externalIds": {
+   "PubMedCentral": "12181921",
+   "DOI": "10.1186/s12912-025-03369-2",
+   "CorpusId": 279456845,
+   "PubMed": "40542361"
+  },
+  "title": "Alarm fatigue in healthcare: a scoping review of definitions, influencing factors, and mitigation strategies",
+  "venue": "BMC Nursing",
+  "year": 2025,
+  "citationCount": 83
+ },
+ {
+  "paperId": "8f0248ab2de0675aa1bc708a2ac30a5b39505e00",
+  "externalIds": {
+   "PubMedCentral": "9424650",
+   "DBLP": "journals/fdgth/ChromikKPSABP22",
+   "DOI": "10.3389/fdgth.2022.843747",
+   "CorpusId": 251571026,
+   "PubMed": "36052315"
+  },
+  "title": "Computational approaches to alleviate alarm fatigue in intensive care medicine: A systematic literature review",
+  "venue": "Frontiers in Digital Health",
+  "year": 2022,
+  "citationCount": 54
+ },
+ {
+  "paperId": "1d2b4b87f4743faf5da5a317e739e13cf26a0aea",
+  "externalIds": {
+   "MAG": "2059254035",
+   "DOI": "10.1080/02701367.2007.10599402",
+   "CorpusId": 17529365,
+   "PubMed": "17479573"
+  },
+  "title": "Feedback After Good Trials Enhances Learning",
+  "venue": "Research Quarterly for Exercise and Sport",
+  "year": 2007,
+  "citationCount": 286
+ },
+ {
+  "paperId": "8dc9d689d28ad122740d400ad76852edc244f391",
+  "externalIds": {
+   "DOI": "10.3758/s13423-015-0999-9",
+   "CorpusId": 256211646
+  },
+  "title": "Optimizing performance through intrinsic motivation and attention for learning: The OPTIMAL theory of motor learning",
+  "venue": "Psychonomic Bulletin & Review",
+  "year": 2016,
+  "citationCount": 62
+ },
+ {
+  "paperId": "e7635f15dd6753f7f0c3538b85f36d38da503ba5",
+  "externalIds": {
+   "DBLP": "conf/assets/RectorBK13",
+   "MAG": "1975366023",
+   "DOI": "10.1145/2513383.2513392",
+   "CorpusId": 12667124
+  },
+  "title": "Eyes-free yoga: an exergame using depth cameras for blind & low vision exercise",
+  "venue": "International ACM SIGACCESS Conference on Computers and Accessibility",
+  "year": 2013,
+  "citationCount": 135
+ },
+ {
+  "paperId": "bbbe755a0b9f3166d14e5d061e5233a6937f9a36",
+  "externalIds": {
+   "MAG": "2604279963",
+   "DBLP": "journals/taccess/RectorVLLBLK17",
+   "PubMedCentral": "5667683",
+   "DOI": "10.1145/3022729",
+   "CorpusId": 16322398,
+   "PubMed": "29104712"
+  },
+  "title": "Design and Real-World Evaluation of Eyes-Free Yoga: An Exergame for Blind and Low-Vision Exercise",
+  "venue": "ACM Transactions on Accessible Computing",
+  "year": 2017,
+  "citationCount": 44
+ },
+ {
+  "paperId": "853c6009710cebb670ee4e432eb1a94fb17ad875",
+  "externalIds": {
+   "DBLP": "conf/assets/RectorMLFK15",
+   "MAG": "1991967639",
+   "DOI": "10.1145/2700648.2809846",
+   "CorpusId": 29080375
+  },
+  "title": "Exploring the Opportunities and Challenges with Exercise Technologies for People who are Blind or Low-Vision",
+  "venue": "International ACM SIGACCESS Conference on Computers and Accessibility",
+  "year": 2015,
+  "citationCount": 65
+ },
+ {
+  "paperId": "2f780191d9d0f1145c90edd08f11f31f8dbd8115",
+  "externalIds": {
+   "DBLP": "journals/mti/GanisGFS24",
+   "DOI": "10.3390/mti8010001",
+   "CorpusId": 266520104
+  },
+  "title": "The Role of Haptics in Training and Games for Hearing-Impaired Individuals: A Systematic Review",
+  "venue": "Multimodal Technologies and Interaction",
+  "year": 2023,
+  "citationCount": 8
+ },
+ {
+  "paperId": "327116ec1ec89ca288c5762bd80f05b0858db862",
+  "externalIds": {
+   "MAG": "2734906356",
+   "DOI": "10.1519/JSC.0000000000002133",
+   "CorpusId": 263348836,
+   "PubMed": "28704314"
+  },
+  "title": "Visual feedback attenuates mean concentric barbell velocity loss, and improves motivation, competitiveness, and perceived workload in male adolescent athletes.",
+  "venue": "Journal of Strength and Conditioning Research",
+  "year": 2017,
+  "citationCount": 115
+ },
+ {
+  "paperId": "efc12069927cfcd095c308e4d792ab2c888fe432",
+  "externalIds": {
+   "MAG": "3013837707",
+   "DOI": "10.1519/JSC.0000000000003521",
+   "CorpusId": 214681362,
+   "PubMed": "32218059"
+  },
+  "title": "Sex Differences in Resistance Training: A Systematic Review and Meta-Analysis.",
+  "venue": "Journal of Strength and Conditioning Research",
+  "year": 2020,
+  "citationCount": 197
+ },
+ {
+  "paperId": "2b5fd7e244ac40dca61e4f8a53285683702da8d2",
+  "externalIds": {
+   "PubMedCentral": "11869894",
+   "DOI": "10.7717/peerj.19042",
+   "CorpusId": 273146930,
+   "PubMed": "40028215"
+  },
+  "title": "Sex differences in absolute and relative changes in muscle size following resistance training in healthy adults: a systematic review with Bayesian meta-analysis",
+  "venue": "PeerJ",
+  "year": 2025,
+  "citationCount": 37
+ },
+ {
+  "paperId": "befa2f5f2bd9051face159b486a1763293d4aba6",
+  "externalIds": {
+   "MAG": "3112576291",
+   "DOI": "10.1007/s40279-020-01388-4",
+   "CorpusId": 229302688,
+   "PubMed": "33332016"
+  },
+  "title": "Sex Differences in Adaptations in Muscle Strength and Size Following Resistance Training in Older Adults: A Systematic Review and Meta-analysis",
+  "venue": "Sports Medicine",
+  "year": 2020,
+  "citationCount": 88
+ },
+ {
+  "paperId": "eea64a8463fcce70a7d7fb7ea9969ccc2fdd9f8f",
+  "externalIds": {
+   "MAG": "2043456716",
+   "PubMedCentral": "4111134",
+   "DOI": "10.1111/apha.12234",
+   "CorpusId": 4783925,
+   "PubMed": "24433272"
+  },
+  "title": "Sex Differences in Human Fatigability: Mechanisms and Insight to Physiological Responses",
+  "venue": "Acta Physiologica",
+  "year": 2014,
+  "citationCount": 571
+ },
+ {
+  "paperId": "877d7fa38ab2285157637fa09f894496357a8058",
+  "externalIds": {
+   "MAG": "2129973144",
+   "PubMedCentral": "5777316",
+   "DOI": "10.1113/EP085370",
+   "CorpusId": 202853124,
+   "PubMed": "26440505"
+  },
+  "title": "Sex differences in fatigability of dynamic contractions",
+  "venue": "Experimental Physiology",
+  "year": 2015,
+  "citationCount": 166
+ },
+ {
+  "paperId": "94feed7015969fe958c05860ab3c3727f472d00f",
+  "externalIds": {
+   "MAG": "3038797657",
+   "PubMedCentral": "7497427",
+   "DOI": "10.1007/s40279-020-01319-3",
+   "CorpusId": 220490692,
+   "PubMed": "32661839"
+  },
+  "title": "The Effects of Menstrual Cycle Phase on Exercise Performance in Eumenorrheic Women: A Systematic Review and Meta-Analysis",
+  "venue": "Sports Medicine",
+  "year": 2020,
+  "citationCount": 697
+ },
+ {
+  "paperId": "e0caea1ede56a2eab56e653d534f8a52d14248b3",
+  "externalIds": {
+   "PubMedCentral": "10076834",
+   "DOI": "10.3389/fspor.2023.1054542",
+   "CorpusId": 257723831,
+   "PubMed": "37033884"
+  },
+  "title": "Current evidence shows no influence of women's menstrual cycle phase on acute strength performance or adaptations to resistance exercise training",
+  "venue": "Frontiers in Sports and Active Living",
+  "year": 2023,
+  "citationCount": 153
+ },
+ {
+  "paperId": "d9b45d658f3e19727fd7c556a40ac787f4f20d19",
+  "externalIds": {
+   "MAG": "2971911708",
+   "DOI": "10.1007/s40279-019-01180-z",
+   "CorpusId": 201848906,
+   "PubMed": "31494865"
+  },
+  "title": "Sex Dimorphism of VO2max Trainability: A Systematic Review and Meta-analysis",
+  "venue": "Sports Medicine",
+  "year": 2019,
+  "citationCount": 66
+ },
+ {
+  "paperId": "d61fe55df2a74b7a2b8fda050bbebe0fef8eccbb",
+  "externalIds": {
+   "PubMedCentral": "7719906",
+   "MAG": "3108106255",
+   "DOI": "10.1136/bjsports-2020-102955",
+   "CorpusId": 227163363,
+   "PubMed": "33239350"
+  },
+  "title": "World Health Organization 2020 guidelines on physical activity and sedentary behaviour",
+  "venue": "British Journal of Sports Medicine",
+  "year": 2020,
+  "citationCount": 10662
+ },
+ {
+  "paperId": "fd701949b9dae38d588ed56fc1bb017b6b0fcb63",
+  "externalIds": {
+   "MAG": "2953675282",
+   "DOI": "10.1249/MSS.0b013e3181915670",
+   "CorpusId": 4099694,
+   "PubMed": "19204579"
+  },
+  "title": "American College of Sports Medicine position stand. Progression models in resistance training for healthy adults.",
+  "venue": "Medicine & Science in Sports & Exercise",
+  "year": 2009,
+  "citationCount": 4223
+ },
+ {
+  "paperId": "20f3225cfe004ff5946c9f93835cfea6440adce5",
+  "externalIds": {
+   "PubMedCentral": "5621901",
+   "MAG": "2751693540",
+   "DOI": "10.1172/jci.insight.95581",
+   "CorpusId": 255770,
+   "PubMed": "28878131"
+  },
+  "title": "Physiological adaptations to resistance exercise as a function of age",
+  "venue": "JCI Insight",
+  "year": 2017,
+  "citationCount": 86
+ },
+ {
+  "paperId": "87a47fd394a1c31727875860ddca725a495f827b",
+  "externalIds": {
+   "MAG": "2920874415",
+   "PubMedCentral": "6818669",
+   "DOI": "10.1136/bjsports-2018-100328",
+   "CorpusId": 76663351,
+   "PubMed": "30862704"
+  },
+  "title": "Precision exercise medicine: understanding exercise response variability",
+  "venue": "British Journal of Sports Medicine",
+  "year": 2019,
+  "citationCount": 254
+ },
+ {
+  "paperId": "7939705b34bad715ea3d1e512564f9ae2b404f27",
+  "externalIds": {
+   "MAG": "2120742996",
+   "DOI": "10.1037/0033-2909.133.4.673",
+   "CorpusId": 21694712,
+   "PubMed": "17592961"
+  },
+  "title": "Does tailoring matter? Meta-analytic review of tailored print health behavior change interventions.",
+  "venue": "Psychological bulletin",
+  "year": 2007,
+  "citationCount": 2255
+ },
+ {
+  "paperId": "af6e581f52b086a5b29d5ff9fda74e6e16b29651",
+  "externalIds": {
+   "MAG": "2057902960",
+   "DOI": "10.1080/10810730.2013.768727",
+   "CorpusId": 8314465,
+   "PubMed": "23750972"
+  },
+  "title": "A Meta-Analysis of Web-Delivered Tailored Health Behavior Change Interventions",
+  "venue": "Journal of health communication",
+  "year": 2013,
+  "citationCount": 690
+ },
+ {
+  "paperId": "46b299307f6d7be3c0c842f50657083ed4b99d4e",
+  "externalIds": {
+   "MAG": "167783546",
+   "DOI": "10.2165/11590680-000000000-00000",
+   "CorpusId": 12778761,
+   "PubMed": "21780850"
+  },
+  "title": "The Pleasure and Displeasure People Feel When they Exercise at Different Intensities",
+  "venue": "Sports Medicine",
+  "year": 2011,
+  "citationCount": 1210
+ },
+ {
+  "paperId": "9377cbd9f173a070e71c79167df2ecfc2d6048a1",
+  "externalIds": {
+   "MAG": "1568448771",
+   "PubMedCentral": "4523714",
+   "DOI": "10.3389/fpsyg.2015.01105",
+   "CorpusId": 318697,
+   "PubMed": "26300805"
+  },
+  "title": "Differences in exercise intensity seems to influence the affective responses in self-selected and imposed exercise: a meta-analysis",
+  "venue": "Frontiers in Psychology",
+  "year": 2015,
+  "citationCount": 67
+ },
+ {
+  "paperId": "65d13a2d3d9f595a7ba4422709c6aeb0c0183597",
+  "externalIds": {
+   "PubMedCentral": "8278303",
+   "DOI": "10.2196/18035",
+   "CorpusId": 235675342,
+   "PubMed": "34185014"
+  },
+  "title": "Health Recommender Systems: Systematic Review",
+  "venue": "Journal of Medical Internet Research",
+  "year": 2020,
+  "citationCount": 126
+ },
+ {
+  "paperId": "7b318c200ef6eb12a42a28a4eed54cd5fe41a19f",
+  "externalIds": {
+   "MAG": "2779889299",
+   "DBLP": "journals/ijmi/Hors-FraileRSFL18",
+   "DOI": "10.1016/j.ijmedinf.2017.12.018",
+   "CorpusId": 4961177,
+   "PubMed": "29331276"
+  },
+  "title": "Analyzing recommender systems for health promotion using a multidisciplinary taxonomy: A scoping review",
+  "venue": "Int. J. Medical Informatics",
+  "year": 2017,
+  "citationCount": 76
+ },
+ {
+  "paperId": "29a42eaf4fd20e82ae11d5b30781a1fb979660f4",
+  "externalIds": {
+   "MAG": "2898613849",
+   "PubMedCentral": "6352015",
+   "DOI": "10.2196/11098",
+   "CorpusId": 58635559,
+   "PubMed": "30664474"
+  },
+  "title": "User Models for Personalized Physical Activity Interventions: Scoping Review",
+  "venue": "JMIR mHealth and uHealth",
+  "year": 2019,
+  "citationCount": 105
+ },
+ {
+  "paperId": "7c040c909b1a44d69ca0201bbd88dfcf6fb8abb1",
+  "externalIds": {
+   "PubMedCentral": "11607567",
+   "DOI": "10.2196/47774",
+   "CorpusId": 274091957,
+   "PubMed": "39546334"
+  },
+  "title": "Machine Learning Methods to Personalize Persuasive Strategies in mHealth Interventions That Promote Physical Activity: Scoping Review and Categorization Overview",
+  "venue": "Journal of Medical Internet Research",
+  "year": 2024,
+  "citationCount": 21
+ },
+ {
+  "paperId": "b1ad51f6a214990391d9a64442bba41fe4c467ae",
+  "externalIds": {
+   "PubMedCentral": "11255529",
+   "DOI": "10.2196/55964",
+   "CorpusId": 270922530,
+   "PubMed": "38959064"
+  },
+  "title": "Human Factors in AI-Driven Digital Solutions for Increasing Physical Activity: Scoping Review",
+  "venue": "JMIR Human Factors",
+  "year": 2024,
+  "citationCount": 34
+ },
+ {
+  "paperId": "6cfedceba2ce50f5c3ac87459696ba445b59bffa",
+  "externalIds": {
+   "MAG": "1989597713",
+   "DOI": "10.1093/POQ/NFP031",
+   "CorpusId": 143525408
+  },
+  "title": "Effects of Questionnaire Length on Participation and Indicators of Response Quality in a Web Survey",
+  "venue": "",
+  "year": 2009,
+  "citationCount": 1278
+ },
+ {
+  "paperId": "4e40cdf1e44c820096865da63180ddaf583e1ed5",
+  "externalIds": {
+   "MAG": "2981869278",
+   "DOI": "10.1126/science.aax2342",
+   "CorpusId": 204881868,
+   "PubMed": "31649194"
+  },
+  "title": "Dissecting racial bias in an algorithm used to manage the health of populations",
+  "venue": "Science",
+  "year": 2019,
+  "citationCount": 6577
+ },
+ {
+  "paperId": "87afd288fe8a4447a8e5f6448d9cb5ae8b546277",
+  "externalIds": {
+   "DBLP": "conf/chi/WilcoxSVHETG23",
+   "DOI": "10.1145/3544548.3581040",
+   "CorpusId": 258217514
+  },
+  "title": "Infrastructuring Care: How Trans and Non-Binary People Meet Health and Well-Being Needs through Technology",
+  "venue": "International Conference on Human Factors in Computing Systems",
+  "year": 2023,
+  "citationCount": 43
+ },
+ {
+  "paperId": "d9704f0b8f9deaa3d54670990858f1c951709964",
+  "externalIds": {
+   "MAG": "2999150219",
+   "DBLP": "journals/tsoco/CiforG20",
+   "DOI": "10.1145/3364685",
+   "CorpusId": 210882870
+  },
+  "title": "Gendered by Design",
+  "venue": "ACM Transactions on Social Computing",
+  "year": 2020,
+  "citationCount": 28
+ },
+ {
+  "paperId": "671489adf72b6c09f811a59cea81be7a094c693b",
+  "externalIds": {
+   "DOI": "10.1080/02640414.2021.1924978",
+   "CorpusId": 234471930,
+   "PubMed": "33977848"
+  },
+  "title": "Moderators of strength gains and hypertrophy in resistance training: A systematic review and meta-analysis",
+  "venue": "Jurnal sport science",
+  "year": 2021,
+  "citationCount": 15
+ },
+ {
+  "paperId": "5109369a0330382bc736a0d36946679c11f852b1",
+  "externalIds": {
+   "MAG": "2222757826",
+   "DOI": "10.1080/14640749008401249",
+   "CorpusId": 146336278
+  },
+  "title": "Bandwidth Knowledge of Results and Motor Learning: More than Just a Relative Frequency Effect",
+  "venue": "",
+  "year": 1990,
+  "citationCount": 105
+ },
+ {
+  "paperId": "a8eff184e2060877f7975c924d96d8f2b686ff4c",
+  "externalIds": {
+   "DOI": "10.1080/1750984X.2023.2207255",
+   "CorpusId": 258533828
+  },
+  "title": "The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: a meta-analysis",
+  "venue": "International Review of Sport and Exercise Psychology",
+  "year": 2023,
+  "citationCount": 38
+ },
+ {
+  "paperId": "cf1e2d3df78eea5a49c08188579792b625b97459",
+  "externalIds": {
+   "DOI": "10.1007/s00221-014-4167-7",
+   "CorpusId": 253747660
+  },
+  "title": "Sonification and haptic feedback in addition to visual feedback enhances complex motor task learning",
+  "venue": "Experimental Brain Research",
+  "year": 2014,
+  "citationCount": 6
+ },
+ {
+  "paperId": "be671689a1a41544020e8a2dff406d8a40d2995f",
+  "externalIds": {
+   "DBLP": "journals/vc/AdolfKFADL25",
+   "DOI": "10.1007/s00371-024-03450-y",
+   "CorpusId": 270102408
+  },
+  "title": "Offistretch: camera-based real-time feedback for daily stretching exercises",
+  "venue": "The Visual Computer",
+  "year": 2024,
+  "citationCount": 11
+ },
+ {
+  "paperId": "45adf43beed4c34c5d2c827d62c334cf09f0ac1c",
+  "externalIds": {
+   "DBLP": "journals/corr/abs-2311-03793",
+   "ArXiv": "2311.03793",
+   "DOI": "10.1016/j.ijhcs.2023.103168",
+   "CorpusId": 264182806
+  },
+  "title": "HaptStarter: Designing Haptic Stimulus Start System for Deaf and Hard of Hearing Sprinters",
+  "venue": "Int. J. Hum. Comput. Stud.",
+  "year": 2023,
+  "citationCount": 2
+ },
+ {
+  "paperId": "8d4adf6264a9be40f65791f7deb6ca8c41acbe59",
+  "externalIds": {
+   "DBLP": "journals/corr/abs-2508-02610",
+   "ArXiv": "2508.02610",
+   "DOI": "10.1145/3663547.3746365",
+   "CorpusId": 280422174
+  },
+  "title": "PunchPulse: A Physically Demanding Virtual Reality Boxing Game Designed with, for and by Blind and Low-Vision Players",
+  "venue": "International ACM SIGACCESS Conference on Computers and Accessibility",
+  "year": 2025,
+  "citationCount": 7
+ },
+ {
+  "paperId": "00aa5fbec7e4b38d81336f9ad327f61f4ca6f6e8",
+  "externalIds": {
+   "MAG": "2676007513",
+   "DOI": "10.1111/cpf.12454",
+   "CorpusId": 710492,
+   "PubMed": "28737294"
+  },
+  "title": "A call to action towards an evidence‐based approach to using verbal encouragement during maximal exercise testing",
+  "venue": "Clinical Physiology and Functional Imaging",
+  "year": 2018,
+  "citationCount": 70
+ },
+ {
+  "paperId": "77a81e35ab0bf673eb40aa80de28443a1d51cb40",
+  "externalIds": {
+   "DOI": "10.1123/ijspp.2025-0086",
+   "CorpusId": 280932908,
+   "PubMed": "40858277"
+  },
+  "title": "The Impact of Different Encouragement Strategies on Performance During Maximal Aerobic Exercise Tests: A Scoping Review.",
+  "venue": "International Journal of Sports Physiology and Performance",
+  "year": 2025,
+  "citationCount": 1
+ },
+ {
+  "paperId": "6d6844b9e89a97bf4c45c270eccdd0a79448408a",
+  "externalIds": {
+   "DBLP": "journals/sensors/MarcoAhulloVRMTG24",
+   "PubMedCentral": "10933749",
+   "DOI": "10.3390/s24051404",
+   "CorpusId": 267966160,
+   "PubMed": "38474940"
+  },
+  "title": "Effect of Reduced Feedback Frequencies on Motor Learning in a Postural Control Task in Young Adults",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2024,
+  "citationCount": 16
+ },
+ {
+  "paperId": "679af0836c9d81cbcb2e20d68a91a1192af8527f",
+  "externalIds": {
+   "PubMedCentral": "8681883",
+   "DOI": "10.7759/cureus.19695",
+   "CorpusId": 244422495,
+   "PubMed": "34976475"
+  },
+  "title": "The Role of Augmented Feedback on Motor Learning: A Systematic Review",
+  "venue": "Cureus",
+  "year": 2021,
+  "citationCount": 70
+ },
+ {
+  "paperId": "95c8aa094ef7a656d81d2f0f0be694d7d55d40d3",
+  "externalIds": {
+   "DBLP": "journals/sensors/SideridouKHC24",
+   "PubMedCentral": "11013996",
+   "DOI": "10.3390/s24072037",
+   "CorpusId": 268645902,
+   "PubMed": "38610249"
+  },
+  "title": "Towards Automating Personal Exercise Assessment and Guidance with Affordable Mobile Technology",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2024,
+  "citationCount": 7
+ },
+ {
+  "paperId": "a8b42ca53efe3cd5061692b7eabb03d6a2194bf6",
+  "externalIds": {
+   "MAG": "2005873610",
+   "DOI": "10.3390/SPORTS1020037",
+   "CorpusId": 16936789
+  },
+  "title": "Should Rehabilitation Specialists Use External Focus Instructions When Motor Learning Is Fostered? A Systematic Review",
+  "venue": "",
+  "year": 2013,
+  "citationCount": 9
+ },
+ {
+  "paperId": "d9ff17b02d7dc8e098be1712988a2e465519d893",
+  "externalIds": {
+   "PubMedCentral": "11066222",
+   "DOI": "10.3389/fped.2024.1327445",
+   "CorpusId": 269278949,
+   "PubMed": "38706921"
+  },
+  "title": "Evaluating the influence of feedback on motor skill learning and motor performance for children with developmental coordination disorder: a systematic review",
+  "venue": "Frontiers in Pediatrics",
+  "year": 2024,
+  "citationCount": 16
+ },
+ {
+  "paperId": "6b1c313984b6777a12e6a7fb13cf9b659fc2a0d0",
+  "externalIds": {
+   "MAG": "2163532458",
+   "DOI": "10.2165/11315210-000000000-00000",
+   "CorpusId": 21141903,
+   "PubMed": "19757863"
+  },
+  "title": "Let Them Roam Free?",
+  "venue": "Sports Medicine",
+  "year": 2009,
+  "citationCount": 182
+ },
+ {
+  "paperId": "a990f162a20f504dc94917e2a768c30eb549f420",
+  "externalIds": {
+   "PubMedCentral": "2909485",
+   "MAG": "2166163416",
+   "DOI": "10.1097/JES.0b013e3181aa63e2",
+   "CorpusId": 17139808,
+   "PubMed": "19550202"
+  },
+  "title": "Sex Differences and Mechanisms of Task-Specific Muscle Fatigue",
+  "venue": "Exercise and sport sciences reviews",
+  "year": 2009,
+  "citationCount": 249
+ },
+ {
+  "paperId": "31adc2c65e28294b496a87121036381b91e9016b",
+  "externalIds": {
+   "PubMedCentral": "12965823",
+   "DOI": "10.1249/MSS.0000000000003897",
+   "CorpusId": 286424732,
+   "PubMed": "41843416"
+  },
+  "title": "American College of Sports Medicine Position Stand. Resistance Training Prescription for Muscle Function, Hypertrophy, and Physical Performance in Healthy Adults: An Overview of Reviews",
+  "venue": "Medicine & Science in Sports & Exercise",
+  "year": 2026,
+  "citationCount": 68
+ },
+ {
+  "paperId": "3d9d3a517cf41ee0c8e25ed92aaeebc72f035e92",
+  "externalIds": {
+   "MAG": "2098913658",
+   "PubMedCentral": "4578294",
+   "DOI": "10.1111/J.1460-2466.2012.01668.X",
+   "CorpusId": 20193020,
+   "PubMed": "26405350"
+  },
+  "title": "Why are Tailored Messages More Effective? A Multiple Mediation Analysis of a Breast Cancer Screening Intervention",
+  "venue": "Journal of Communications",
+  "year": 2012,
+  "citationCount": 167
+ },
+ {
+  "paperId": "4ad912e262588969f976bb8c9710f6ada06d71f0",
+  "externalIds": {
+   "DOI": "10.6018/cpd.569371",
+   "CorpusId": 267104627
+  },
+  "title": "The Nostrum to Exercise: How Self-Selected and Imposed Exercise Intensity Prescription Relates to Affective, Cognitive, and Behavioral Outcomes - A Systematic Review",
+  "venue": "Cuadernos de Psicologia del Deporte",
+  "year": 2024,
+  "citationCount": 6
+ },
+ {
+  "paperId": "303ab81f6aa101d39abce16cc4766f6505236ecc",
+  "externalIds": {
+   "MAG": "3007436919",
+   "DOI": "10.1007/s40279-020-01270-3",
+   "CorpusId": 211127656,
+   "PubMed": "32065350"
+  },
+  "title": "Comment on: “Sex Dimorphism of VO2max\\documentclass[12pt]{minimal} \\usepackage{amsmath} \\usepackage{wasysym} \\usepackage{amsfonts} \\usepackage{amssymb} \\usepackage{amsbsy} \\usepackage{mathrsfs} \\usepackage{upgreek} \\setlength{\\oddsidemargin}{-69pt} \\begin{document}$$V{\\text{O}}_{{ 2 {\\text{max}}}}$$",
+  "venue": "Sports Medicine",
+  "year": 2020,
+  "citationCount": 1
+ },
+ {
+  "paperId": "0a41c9c2a2335eade875c5fcd0705a27fa9fe4f7",
+  "externalIds": {
+   "DBLP": "journals/corr/abs-2101-08325",
+   "ArXiv": "2101.08325",
+   "MAG": "3123811569",
+   "DOI": "10.1145/3442188.3445898",
+   "CorpusId": 231662411
+  },
+  "title": "This Whole Thing Smacks of Gender: Algorithmic Exclusion in Bioimpedance-based Body Composition Analysis",
+  "venue": "Conference on Fairness, Accountability and Transparency",
+  "year": 2021,
+  "citationCount": 12
+ },
+ {
+  "paperId": "ef9ee334f6226ca41dde8a2e6e68de31093dafb4",
+  "externalIds": {
+   "DBLP": "conf/recsogood/Said25",
+   "ArXiv": "2508.07980",
+   "DOI": "10.48550/arXiv.2508.07980",
+   "CorpusId": 280567119
+  },
+  "title": "Early Explorations of Recommender Systems for Physical Activity and Well-being",
+  "venue": "RecSoGood@RecSys",
+  "year": 2025,
+  "citationCount": 1
+ },
+ {
+  "paperId": "5210dbedc9912c808b30d3c35e480bc99a9c76aa",
+  "externalIds": {
+   "DBLP": "journals/imwut/WangFZZZZLWHYS24",
+   "ArXiv": "2308.10526",
+   "DOI": "10.1145/3643552",
+   "CorpusId": 261049773
+  },
+  "title": "UbiPhysio",
+  "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+  "year": 2023,
+  "citationCount": 13
+ },
+ {
+  "paperId": "0a41c9c2a2335eade875c5fcd0705a27fa9fe4f7",
+  "externalIds": {
+   "DBLP": "journals/corr/abs-2101-08325",
+   "ArXiv": "2101.08325",
+   "MAG": "3123811569",
+   "DOI": "10.1145/3442188.3445898",
+   "CorpusId": 231662411
+  },
+  "title": "This Whole Thing Smacks of Gender: Algorithmic Exclusion in Bioimpedance-based Body Composition Analysis",
+  "venue": "Conference on Fairness, Accountability and Transparency",
+  "year": 2021,
+  "citationCount": 12
+ }
+]

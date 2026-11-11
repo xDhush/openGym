@@ -1,0 +1,358 @@
+scratch_path	bytes	sha256	reason_not_committed
+dl/abs2.txt	15561	a40961035238dc1179ca0af683d58d7cd0f62742ccc201a34b4e2b3ca029d83e	text extracted from a third-party page or paper
+dl/abstracts.txt	23955	6547e5c96300a6618cb68d25789132fbb8ad9e420ba771ce589991dc19a3e140	text extracted from a third-party page or paper
+dl/arx_ego.xml	3109	4b9aa01c1fa9460649fb6406689a1f880b76c250b3119e967ac9d2cb7ff7ff63	third-party web page, full text or licence page
+dl/arx_sony.xml	777	60744e4dcf62e3f863c577ff11c8932cdee96ae44efc8bc243b893a4ff9cad6c	third-party web page, full text or licence page
+dl/arx_sony2.xml	797	2d98c884518207110a33e21b7b64cfa750249858b098c415c9672fc3792385c9	third-party web page, full text or licence page
+dl/arx_ucf.xml	3278	78f697470c3a1ee1933265354918c331d8b2ea92ecb09066c1eeaaa018f0a5c7	third-party web page, full text or licence page
+dl/arxiv.xml	88294	533e07eb3d7250e69ea6cd890904a331bdaea35bf8d39b67bc32fc93f75dc6bb	third-party web page, full text or licence page
+dl/ghum.pdf	1398977	e982460cedece5ad9a46aa8f13523328e9ab95d7d5b2b8c99b33f13f6a79ca86	third-party PDF (paper, guidance or model card)
+dl/ghum.txt	24823	810cd2a3ba635c8cf628d056effce2f85431b2f347de63d5ff85c48cedcd46ca	text extracted from a third-party page or paper
+dl/heliyon.html	21411	b65876d947f5ce9a4e4f862e910fae455731da27730b6f95d859caf1377b3f78	third-party web page, full text or licence page
+dl/heliyon.txt	166	508b92df0664128864b7a6eacacb39ebf2e4f1eb7970578fa159c23db6251d88	text extracted from a third-party page or paper
+dl/kaia.html	21407	cb18dc144ee3511a9a48f0adfc2c418be50e3660439fe0bf35771256ce44c047	third-party web page, full text or licence page
+dl/kaia.txt	166	508b92df0664128864b7a6eacacb39ebf2e4f1eb7970578fa159c23db6251d88	text extracted from a third-party page or paper
+dl/meta_s24.html	402	adc108881f44e9a153d0c004e66d295b5b5261f0f435df1e59d6d549a572fe72	third-party web page, full text or licence page
+dl/meta_s24.txt	228	d86419e8158e9bcbf1c66f7a3a33b1584b12ff9e029aacdb589e6521489b3e6b	text extracted from a third-party page or paper
+dl/mlkit_android.html	216829	9996a35cd71759b2b1aefc4f9258587bc153b76fd5b9e2bdd781a3aa6c73c44b	third-party web page, full text or licence page
+dl/mlkit_android.txt	25138	4bf77362b9d86b9f03d5579dd60580b9384e62b940dd5a37241272221a5ec2be	text extracted from a third-party page or paper
+dl/mlkit_card.pdf	1719245	6e327af4215098a53d293f56e5a64ff16c55fbde641c34d22b70439e18917484	third-party PDF (paper, guidance or model card)
+dl/mlkit_card.txt	25332	fcfe965ca4bcbf116de27ab250cd3feb83c4af7e38f88eb6c766ae364fe2de6b	text extracted from a third-party page or paper
+dl/mlkit_classify.html	140554	848aac1d9dc0bfb611abd113f70b69aabab47ea9b52abec8bea3f003b461ed0e	third-party web page, full text or licence page
+dl/mlkit_classify.txt	14126	ab4b75a313b4806b0b7558a8409cecde4215c9cb8d8d98b65856df9177c1179b	text extracted from a third-party page or paper
+dl/mlkit_pose.html	100940	c0fe4d15a55302bc36eb4c086bbf0d8e4dc4d064dc5c7f84756c63cc2ca3d1ec	third-party web page, full text or licence page
+dl/mlkit_pose.txt	9216	84d00b85e2538449a9c012fca42c1ae4baa97f4f6afdab5edf2136f0c8caead3	text extracted from a third-party page or paper
+dl/mlkit_terms.html	89502	067ebf0295bf751ecdd2e61e7912173fc721b897817c47cbc231a890f5c5bc4b	third-party web page, full text or licence page
+dl/mlkit_terms.txt	5902	2914f4fc4b1a23e62a776eb9bce1977a21dd252ea5a7f77e60f4dc5024a45314	text extracted from a third-party page or paper
+dl/mp_pose.html	362242	facd54612e2c40fe771ef7f5c6aebc8558acb9798620e2f44822c3a2d3f1cfe3	third-party web page, full text or licence page
+dl/mp_pose.txt	27923	19401ffcdf6bce1237d2268f7809870596492b2400e9a49bb50aa100154c383b	text extracted from a third-party page or paper
+dl/mp_pose_android.html	362242	dc26c39ddbeaf15b7cd8fbb008d30d79e00173b7ea8e37294927285b858ff367	third-party web page, full text or licence page
+dl/mp_pose_android.txt	27923	19401ffcdf6bce1237d2268f7809870596492b2400e9a49bb50aa100154c383b	text extracted from a third-party page or paper
+dl/oliosi.html	223930	fd4ead3e338570f959f869b679ddfd59a2b13fb9ae4796a25e4cbd79898ff7d3	third-party web page, full text or licence page
+dl/oliosi.txt	60863	b9c279c74b3dabfa2b8a6840c5afa234cf9739d0db922c63479817cce174d45a	text extracted from a third-party page or paper
+dl/pmc10511642.txt	54305	d9a2713aae361c8af44591d0a0fb063c66770576e7e6670b791fbae48252a31f	text extracted from a third-party page or paper
+dl/pmc10886083.txt	50374	0f3bbf6b89fe99ef174a7e09486fe694ee210ac638075113b3952d1ec10ffa9e	text extracted from a third-party page or paper
+dl/pmc11175331.txt	83538	4cbdb1f76c316dc8b1a44112a428102caaf0faf1b13c4c54f62d1ca39fba4109	text extracted from a third-party page or paper
+dl/pmc11819822.txt	67199	017de265df6528d697aecc81378e9aae629ebf6a9ecfcaf2eaaac36dcd154aa7	text extracted from a third-party page or paper
+dl/pmc13306381.txt	76391	0fae385b5244678ba37cf51c4e49dd611b05e6504258a309626ae4641f4982fa	text extracted from a third-party page or paper
+dl/pmc_0.txt	40675	1435db7a450025b7c4c6057b42e9d67bbcc1f8558236f06728b22bd29d2aca6e	text extracted from a third-party page or paper
+dl/pmc_1.txt	38040	0f850676afcf02fbce1fe395e66c041553a23cc5a686df28662f77877f91dc79	text extracted from a third-party page or paper
+dl/pmc_full.xml	190080	08432e783c65d3fc6b071fbe65680386e286cde2bbe1059e483e40cb9a30dcb5	third-party web page, full text or licence page
+dl/pmc_s25175513.txt	64094	897c0208686001930f1ee686683dc1c6d85acf7f39c977cfcc17168105887a81	text extracted from a third-party page or paper
+dl/lic/aic.raw	378	b3e03aaaff81d68730d67392a135ac3fdfdf022880c66632ab188d2fe084cda3	third-party web page, full text or licence page
+dl/lic/cocowb_readme.raw	17237	50bd95236f1748cba5ad35aaa62b9dac1fa32d05b08729bc745efefdf20e429b	third-party web page, full text or licence page
+dl/lic/crowdpose_readme.raw	2911	1025ae4dfa44d14af28c0c49ed521025b61637abc0daa55eb394ba40d11e006e	third-party web page, full text or licence page
+dl/lic/cv4arvr.html	6035	c9fa4d525aba37807b156389949d78a60a96f1820aa847f76ff08e4737c38f96	third-party web page, full text or licence page
+dl/lic/cvprw26.html	30084	d61b09262182fe5bdbc66bf33fd158dfad5b8c5bff4e65943507aa4c030d93e2	third-party web page, full text or licence page
+dl/lic/egoexo_LA.pdf	39870	364976944b286a1a878640c5efb86eda7de6f03e1f7b35b4066f0a93660e3a9b	third-party PDF (paper, guidance or model card)
+dl/lic/egoexo_LA.txt	2383	a35f72f1792e4b52f629da5a30e0e7ecc933652f02151a086a35813ed930ecb6	text extracted from a third-party page or paper
+dl/lic/egoexo_README.md	3246	f091376f8024f285c05bf484d82a9cda1a9b6773dbd7b2e6dd7498db8ed1567e	other working file
+dl/lic/fitaqa_README.md	5133	9e34280206ac141b1ff18a0a34d3a6ed18e208368230b54bfe6c229afdd48ebe	other working file
+dl/lic/fitaqa_lic.pdf	61885	f275f2e7d025ba88fd092839736ad12b9c2e23477f28be52a200cfcb605cbfa8	third-party PDF (paper, guidance or model card)
+dl/lic/fitaqa_lic.txt	1236	01b5c784125912033ab574467faecf683f176b71e4de9129c6b32423b2df5322	text extracted from a third-party page or paper
+dl/lic/fitcoach_LICENSE	14	d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed	other working file
+dl/lic/fitcoach_LICENSE.txt	1644	d5a8b9c5f5ba3562e217ab8bde14eb110cc27911d67322ce6b9840393715a24b	text extracted from a third-party page or paper
+dl/lic/fitcoach_README.md	9152	877eebd2ac2a5b346a922bfd170a949fc9f0637a7b7fafd33bee0bde5329b80c	other working file
+dl/lic/gr_repnet_README.md	418	2bb540b97d8cc31f7b3557730e950517983871acc2d8fa286358adb79c43602b	other working file
+dl/lic/halpe_readme.raw	3747	391af501423bf7282a12c4f5423ec888afd472c4929d32e6f8b7bf520f39d34d	third-party web page, full text or licence page
+dl/lic/humanart_readme.raw	22667	455233c090891a99edfd2ddbecde247ccc2f8846e7f7e69cab5610fdd8c325f2	third-party web page, full text or licence page
+dl/lic/mlkit_EMASmoothing.java	2923	c0742cd141e3d89876b6b2f7005e350e9870d50901b35050e92e719654444140	other working file
+dl/lic/mlkit_PoseClassifier.java	7079	54103a5931c8cfaf1ba6c37ca1651cd77053840b58ad7e2ed03ac28dc2a84c69	other working file
+dl/lic/mlkit_PoseClassifierProcessor.java	5354	db6c14dbd29de1e731db9a0c7335afd0f7a08a020cf2605b119dde7ca68020e7	other working file
+dl/lic/mlkit_RepetitionCounter.java	2320	b223048ec60e60f8e082e0503b3c5d35169086caf822cf79017e55b1a9bc043e	other working file
+dl/lic/mmfit.txt	4478	0aff3320fda56e45e998bc369f238b9a11a8db81049826c23e2abc404b5e8321	text extracted from a third-party page or paper
+dl/lic/mmfit_index.html	25612	ccad458eefa84ff5215afaf8007023440a8093b8dda82dc61c2b98186f7d904a	third-party web page, full text or licence page
+dl/lic/mmpose_rtm.raw	96122	21a455d285fbe64956f04f248b4a1cde94bff7c7984487c04dd45bf0e504a6ee	third-party web page, full text or licence page
+dl/lic/openpose_LICENSE	9686	be0b0fc17147b2c5f85fdfde41ea8cd08dacef8ea846082a3f727672104718a6	other working file
+dl/lic/openpose_README.md	11570	d9215860916775164dfbe2714cb6d3874f24a68ed3af662b4d1535f3224555d3	other working file
+dl/lic/osx_readme.raw	16328	9ffcd2823ff961f7a35b9404fb68400607457785aa6f1cc8fb7bc25e696747bf	third-party web page, full text or licence page
+dl/lic/recofit.pdf	4410	c4012a3ad63b4c1d03f136624fd447f25b9a68d044710f02ad439117842460e4	third-party PDF (paper, guidance or model card)
+dl/lic/transrac_LICENSE	14081	ae5e6184c04d6c36e58a8f1c875f3dd3ab4a25a5884ccf41d40bad2dd634a111	other working file
+dl/pdf/2006.10204.pdf	2533764	090710259c2160bcd144d47b6767c52c9d8b4f092c4211549881bab0707ad901	third-party PDF (paper, guidance or model card)
+dl/pdf/2006.10204.txt	19661	d70130dec6691cbf97855e4c62e39900258275f651341f5459beb042d39a3e1e	text extracted from a third-party page or paper
+dl/pdf/2006.15418.pdf	4062096	6b2810b242d59f73091afe21de8b76139f53b92d70abf834789d24114ad384a0	third-party PDF (paper, guidance or model card)
+dl/pdf/2006.15418.txt	98579	047711f95c279940efc46a14db78af0aa88bb37631d0d58434c3252b611efc66	text extracted from a third-party page or paper
+dl/pdf/2202.14019.pdf	1693906	e3fbdd0be2f59cc3ba3a1d0eadc6ac9482a811824e67bdd8ed5f82bd7d5ba7c0	third-party PDF (paper, guidance or model card)
+dl/pdf/2202.14019.txt	59898	2f6d9f6829c24fdb34b7c4c2ef8d21bbdb367a1bc9d32cc51ec52505016bacdc	text extracted from a third-party page or paper
+dl/pdf/2204.01018.pdf	6393789	ccc52744e73b5fa31e6c70326d170c441fe600a5d6c7815bf8ebf9f8b23036ce	third-party PDF (paper, guidance or model card)
+dl/pdf/2204.01018.txt	78393	d0fc670d2be2a4297acca9c1e566a4d93a289fa21c937a664bab1030154d499c	text extracted from a third-party page or paper
+dl/pdf/2208.03257.pdf	11726660	54dd8793182f6a6f4320b17dbacc9b4e5b7e1c2236267f2baa30cc304bc0bbb0	third-party PDF (paper, guidance or model card)
+dl/pdf/2208.03257.txt	58570	cc2cf535538238d0ec2029700cd5f57fc72887fe291881977db85b9366ab71a1	text extracted from a third-party page or paper
+dl/pdf/2303.07399.pdf	1301012	8b627e839807081bfc7e8eefb53d4af6e9e2b199f645420b8c73c69e3e246b21	third-party PDF (paper, guidance or model card)
+dl/pdf/2303.07399.txt	75907	2e7d06525ed8a48366cea29a8bd252bb675fd5f89fdf4fa6a0e4341a24ba78c9	text extracted from a third-party page or paper
+dl/pdf/2303.08450.pdf	2574988	14c0cc1aa51003bf42c300c7281ade57e1ba2e4f0217be9f65d483c283b4334e	third-party PDF (paper, guidance or model card)
+dl/pdf/2303.08450.txt	68097	c40261c0641b4c07d9f48bb2320d81226a8345f8cf62fbe5ec862c851325e13d	text extracted from a third-party page or paper
+dl/pdf/2312.07526.pdf	6569542	4939962be87aa84ea6fd38f32b1c78418cdc16ec4d5efdb6051ba4379d185683	third-party PDF (paper, guidance or model card)
+dl/pdf/2312.07526.txt	86228	f30aeec940f462173b4e46724184d82b62e3631fa26a383c82cc71da6c9c59ac	text extracted from a third-party page or paper
+dl/pdf/2403.18074.pdf	23672121	f85ddea49b0247c6c81a093c3dd1fb0b2bc3847d4fc5c0d340753f5cf093d280	third-party PDF (paper, guidance or model card)
+dl/pdf/2403.18074.txt	148172	57d05b53d001beaca1a3b5242539d4fddfbdb3c5d71449911fed4272164d3333	text extracted from a third-party page or paper
+dl/pdf/2407.08101.pdf	15452545	9237cd3804bb05d447681e26fc7b7918fdc21c35687963147092147ac34f90e4	third-party PDF (paper, guidance or model card)
+dl/pdf/2407.08101.txt	679235	39ce5679fa11bb496c25718848391563e5a8612ebbb726facd0e52659160ec6c	text extracted from a third-party page or paper
+dl/pdf/2407.17085.pdf	3621133	4459a3a8e1357b3d475587e0a45f3776123ccac74ee3471c8ea7af0135fe3e2b	third-party PDF (paper, guidance or model card)
+dl/pdf/2407.17085.txt	64219	4541a80ecb89717611dc2229f8650faefcdafdd8f6d778fc300f25c07ce15d0f	text extracted from a third-party page or paper
+dl/pdf/2503.17690.pdf	3283577	073e8bd9edda27926612026578318cda2c28141ea4a0473ada55dce8705119f2	third-party PDF (paper, guidance or model card)
+dl/pdf/2503.17690.txt	77916	28a8322c02a65e6a652c8322a62b6d1f6481c6a5d51b338e6968982cd6132afb	text extracted from a third-party page or paper
+dl/pdf/2604.08294.pdf	1822333	8b928aae09528536239891c311b44e5d2f0edc0cd0305210c88af084908615e7	third-party PDF (paper, guidance or model card)
+dl/pdf/2604.08294.txt	102874	3628ae1dfd3cc24361cb763c7968cb23148d1952570cd6b890179eb0e04694f3	text extracted from a third-party page or paper
+dl/pdf/2608.08736.pdf	3936030	7f867fbef87aae5b8be9d16e1711d375f205777fb6690be8806ca6902301d86d	third-party PDF (paper, guidance or model card)
+dl/pdf/2608.08736.txt	154962	772fc2d55a17a4ed6ae59f5377c8896b79a5586ab2608cdd763289b42aa20133	text extracted from a third-party page or paper
+dl/pdf/aifit.pdf	1269958	4dc4d866b38639247bd669e0f3b0271e94431f87f0e45d65e9561a450c86656c	third-party PDF (paper, guidance or model card)
+dl/pdf/aifit.txt	58991	0bf4f4753a8421e6ae4a7f98e052c05bf1d505873d3a2c09bd9de036462fd106	text extracted from a third-party page or paper
+meta/es.html	4453281	c7b647de7270f02eab3dbf6c945f720278ea57c9f98f04441ac02f1446a0b94c	third-party web page, full text or licence page
+meta/hcrel.html	353539	238bad08a49c42e544f281fedef4fd909ba4450b7b3117902473f253695a2d7d	third-party web page, full text or licence page
+meta/hk_evt.json	20436	43f761c8fa3de206c269d5ed941c264662b39b5402ab55bc2083a6c6ee5903cc	third-party data file or empty log
+meta/hk_index.json	816499	44e8885fa9e24a3a9f6ea95d649e4ecfae7b718100f669c8e8cf23c12c10bd4d	third-party data file or empty log
+meta/hk_type.json	126561	b3e6bf7bd9d51ca1ede9ad0dc75ba779383de6648329ac7882f6cb61aa200462	third-party data file or empty log
+meta/search.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/wger.html	378	b3e03aaaff81d68730d67392a135ac3fdfdf022880c66632ab188d2fe084cda3	third-party web page, full text or licence page
+meta/out/CMU-Perceptual-Computing-Lab__openpose/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/CMU-Perceptual-Computing-Lab__openpose/readme_lic.txt	442	a184ec0cdead5a332769608a81ddcd16b34d3ebe0f683a5cfb659f3fe1396482	text extracted from a third-party page or paper
+meta/out/DuarteSantos8__openGym/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/DuarteSantos8__openGym/readme_lic.txt	923	a5ef6d807ff184af779191af4123d632aa03d58e52b0088d5612779e0605a9ab	text extracted from a third-party page or paper
+meta/out/Exercise-Medicine-Ontology__EXMO/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/Exercise-Medicine-Ontology__EXMO/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/ExerciseDB__exercisedb-api/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/ExerciseDB__exercisedb-api/readme_lic.txt	283	1696b165aa4b3b901dcf7c774c885a97fa7f8cda19b169546e0e27125a44ccab	text extracted from a third-party page or paper
+meta/out/Fang-Haoshu__Halpe-FullBody/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/Fang-Haoshu__Halpe-FullBody/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/Furkan-Gulsen__Sport-With-AI/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/Furkan-Gulsen__Sport-With-AI/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/HL7__physical-activity/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/HL7__physical-activity/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/HaoYin116__FLEX/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/HaoYin116__FLEX/readme_lic.txt	656	174546fab6a2ca91889e7dbaf278d45e6519a61c3c5dbb7af97a46501f88b5e1	text extracted from a third-party page or paper
+meta/out/IDEA-Research__DWPose/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/IDEA-Research__DWPose/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/IDEA-Research__OSX/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/IDEA-Research__OSX/readme_lic.txt	3087	090163624613e82f592137c1ba8d11fc9b51ab7475abb9aeee825f45ba0b4f8a	text extracted from a third-party page or paper
+meta/out/IgnisDa__ryot/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/IgnisDa__ryot/readme_lic.txt	149	867b5bfce558d67b2e0239bbb2a8b5b2c78fe1e0179f97e49181a5905ebe92e3	text extracted from a third-party page or paper
+meta/out/InlitX__GymMane/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/InlitX__GymMane/readme_lic.txt	1214	410dbb3f39ae4f75dfb1a1135adeae45fdfc9099c3fbfcc73192d4c30f48592b	text extracted from a third-party page or paper
+meta/out/Jacoo-Zhao__3D-Pose-Based-Feedback-For-Physical-Exercises/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/Jacoo-Zhao__3D-Pose-Based-Feedback-For-Physical-Exercises/readme_lic.txt	219	602419fbe4794be8fb7dbc99c25118963f80835570083f3fc3cab0b390702235	text extracted from a third-party page or paper
+meta/out/KDMStromback__mm-fit/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/KDMStromback__mm-fit/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/LiamMorrow__LiftLog/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/LiamMorrow__LiftLog/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/MVIG-SJTU__AlphaPose/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/MVIG-SJTU__AlphaPose/readme_lic.txt	1250	f633b41d186b7560c58a7910f98dd10ae5b82f63fb7c58694816638448c4342f	text extracted from a third-party page or paper
+meta/out/MiracleDance__PoseRAC/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/MiracleDance__PoseRAC/readme_lic.txt	386	b38ed757eb0911bd8e379e522fbd3e40d47c5b0d991df37dccb46ceba69cc97c	text extracted from a third-party page or paper
+meta/out/NgoQuocBao1010__Exercise-Correction/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/NgoQuocBao1010__Exercise-Correction/readme_lic.txt	75	dd8011715f57aa4a11d287b0dd731bc39d9dad9d43503161eb3f6a9e0184ea28	text extracted from a third-party page or paper
+meta/out/OBOFoundry__OBOFoundry.github.io/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/OBOFoundry__OBOFoundry.github.io/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/ParitoshParmar__Fitness-AQA/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/ParitoshParmar__Fitness-AQA/readme_lic.txt	401	8d34aae56a212a12121327776f59a5ddaeb494e1a244104503a88215117bf0ca	text extracted from a third-party page or paper
+meta/out/Qualcomm-AI-research__FitCoach/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/Qualcomm-AI-research__FitCoach/readme_lic.txt	2771	73da3c6171f8f5727733a75cac27e8728233c3d8f939eb8118941c0c53fa88b9	text extracted from a third-party page or paper
+meta/out/Snouzy__workout-cool/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/Snouzy__workout-cool/readme_lic.txt	473	bc6bf1d084d4d272d91bcb7837f5b6d81606d8d3b1ea315d044d0f4b5e0ca996	text extracted from a third-party page or paper
+meta/out/SvipRepetitionCounting__TransRAC/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/SvipRepetitionCounting__TransRAC/readme_lic.txt	210	b80cf59423ab705d91545d244b623b7dedd5eb0f96da056b0285f6831613b696	text extracted from a third-party page or paper
+meta/out/Tau-J__rtmlib/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/Tau-J__rtmlib/readme_lic.txt	377	6c77b54cbddc4dba23c884583da373f05c9d3fa53034b57bedd65e61953ded9b	text extracted from a third-party page or paper
+meta/out/ViTAE-Transformer__ViTPose/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/ViTAE-Transformer__ViTPose/readme_lic.txt	164	0c9bf7aa1ff258b27d7134db3ff2b64f88b23e2130d946b21657f5252d1a5c3a	text extracted from a third-party page or paper
+meta/out/Xiaodomgdomg__Deep-Temporal-Repetition-Counting/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/Xiaodomgdomg__Deep-Temporal-Repetition-Counting/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/androidx__androidx/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/androidx__androidx/readme_lic.txt	55	7404239cfa80b45a34366811a9fba38a85f7d2904f3ce60355f77a4dcf6924dd	text extracted from a third-party page or paper
+meta/out/astashov__liftosaur/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/astashov__liftosaur/readme_lic.txt	713	56ba128ed7de1daea541c2ec0f43c17603b169e483fecec6c8296799c4b4db52	text extracted from a third-party page or paper
+meta/out/brandonp2412__Flex/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/brandonp2412__Flex/readme_lic.txt	514	60acaf53ab6a1e64cb6de5c59c2810dbd01ea89c622a45f7a468d75b55811cfd	text extracted from a third-party page or paper
+meta/out/brandonp2412__Massive/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/brandonp2412__Massive/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/bryllim__workout-guide/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/bryllim__workout-guide/readme_lic.txt	622	c540a0480289bedf6b4de078c911a2f15dee1f7c79fb116a8afa5d74136f12ef	text extracted from a third-party page or paper
+meta/out/confifu__RepNet-Pytorch/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/confifu__RepNet-Pytorch/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/davidpagnon__Sports2D/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/davidpagnon__Sports2D/readme_lic.txt	123	3f13beaa06807442be874cdddc9c461dadedbbd074d643b8f2b7c7311b1b198e	text extracted from a third-party page or paper
+meta/out/everkinetic__data/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/everkinetic__data/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/facebookresearch__sapiens/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/facebookresearch__sapiens/readme_lic.txt	633	b4d991bda0db1b9ecc48f3371c82a5cb749bf02e5bf56aff15357adc0776a2ce	text extracted from a third-party page or paper
+meta/out/google-ai-edge__LiteRT/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/google-ai-edge__LiteRT/readme_lic.txt	297	4fcec52fd4c19d3ac54406233fa2637251890e60bc8ae1eefa48f131c8c2a2eb	text extracted from a third-party page or paper
+meta/out/google-ai-edge__mediapipe/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/google-ai-edge__mediapipe/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/google-ai-edge__mediapipe-samples/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/google-ai-edge__mediapipe-samples/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/google-research__google-research/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/google-research__google-research/readme_lic.txt	311	bb9a666227166c1c26485d4a50a4ddffbdf15b2bbc284b088ba85cfc6ac31373	text extracted from a third-party page or paper
+meta/out/googlesamples__mlkit/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/googlesamples__mlkit/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/hasaneyldrm__exercises-dataset/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/hasaneyldrm__exercises-dataset/readme_lic.txt	1747	90a67de5ee01b00b1559a05a5ae1429a467f130daac1f3e1ce9fb70d668b6765	text extracted from a third-party page or paper
+meta/out/hwang-cs-ime__IVAC-P2L/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/hwang-cs-ime__IVAC-P2L/readme_lic.txt	44	d1812a92ea90c72cf9a694ba2ae473cd9ceab4a1da16a1942df698345278edbf	text extracted from a third-party page or paper
+meta/out/iSEE-Laboratory__EgoExo-Fitness/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/iSEE-Laboratory__EgoExo-Fitness/readme_lic.txt	697	f10280aec6715a302b1b2ffb48b8f32db9c1d872696ae423d4d75a2c61c231ea	text extracted from a third-party page or paper
+meta/out/materight__RepNet-pytorch/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/materight__RepNet-pytorch/readme_lic.txt	1031	35f0044cefc3e8970e38c5dd4be71e5f54ff440b0f283b116c94d5400dd30ec2	text extracted from a third-party page or paper
+meta/out/mazurio__bodyweight-fitness-android/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/mazurio__bodyweight-fitness-android/readme_lic.txt	38	b35b76fbca6ec11c1fce4bc38a5471b9726181259c635a658236a9eb8b21f6bf	text extracted from a third-party page or paper
+meta/out/microsoft__Exercise-Recognition-from-Wearable-Sensors/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/microsoft__Exercise-Recognition-from-Wearable-Sensors/readme_lic.txt	83	ebfeb9b706c169322ffb8c4c08c0a4d3bb9916a267008bcf9f000889464d4da7	text extracted from a third-party page or paper
+meta/out/mmfit__mmfit.github.io/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/mmfit__mmfit.github.io/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/oliexdev__openScale/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/oliexdev__openScale/readme_lic.txt	876	a6b94ba0e9c98d907b3427a8f14691a56d4f4186066673dbe3919d8dcbb8029f	text extracted from a third-party page or paper
+meta/out/open-mmlab__mmdeploy/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/open-mmlab__mmdeploy/readme_lic.txt	222	097c0f3720c6b7eca87dce34c2455548c9d80581f541b3c6cd7fa9774cea7af8	text extracted from a third-party page or paper
+meta/out/open-mmlab__mmpose/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/open-mmlab__mmpose/readme_lic.txt	218	92bd1c71d10a2ec44b1b7738bbaf3dc2f3de435cd5abb27e5b2b839bd637fd80	text extracted from a third-party page or paper
+meta/out/opencap-org__opencap-core/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/opencap-org__opencap-core/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/opencap-org__opencap-processing/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/opencap-org__opencap-processing/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/perfanalytics__pose2sim/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/perfanalytics__pose2sim/readme_lic.txt	672	6628bbf63a89305ca656166431cb73775eb6df4aed129c0becaada57c3329d8f	text extracted from a third-party page or paper
+meta/out/phracker__MacOSX-SDKs/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/phracker__MacOSX-SDKs/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/qualcomm__ai-hub-models/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/qualcomm__ai-hub-models/readme_lic.txt	255	363e2f79e675cff83a65cf43d17278b745692a3223a96377457a9bbb767094bf	text extracted from a third-party page or paper
+meta/out/sinhasaptarshi__EveryShotCounts/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/sinhasaptarshi__EveryShotCounts/readme_lic.txt	716	f4b22f2d5ebd1bb3f4498543fb44a5c5f8a19f3d9687cb412d945ef10549cbb9	text extracted from a third-party page or paper
+meta/out/stevenzchen__pose-trainer/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/stevenzchen__pose-trainer/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/tensorflow__examples/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/tensorflow__examples/readme_lic.txt	47	0c4e84fe18177d0ef06c188a5bfa63b16696d8d7ec90c141dd5b749f9cc0919e	text extracted from a third-party page or paper
+meta/out/tensorflow__tfjs-models/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/tensorflow__tfjs-models/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/thechargedneutron__ExpertAF/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/thechargedneutron__ExpertAF/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/thillai-c__AI-Fitness-trainer/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/thillai-c__AI-Fitness-trainer/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/ultralytics__ultralytics/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/ultralytics__ultralytics/readme_lic.txt	1438	159afe6672a8d9f2a7d5ddf066417f26c3d75f40e9f8dde30f42838bc9d9c34c	text extracted from a third-party page or paper
+meta/out/utahmobl__opencap-monocular/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/utahmobl__opencap-monocular/readme_lic.txt	812	53ac3d6c9c9a7e2024553326a68479d2a53e531f2e5a96e27d0da7c0e116a4f5	text extracted from a third-party page or paper
+meta/out/wger-project__docs/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/wger-project__docs/readme_lic.txt	94	8f2b7edf463e4cc55e3c70a3c7923a2ed32a8b901236277579bc31819a85c372	text extracted from a third-party page or paper
+meta/out/wger-project__flutter/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/wger-project__flutter/readme_lic.txt	453	0e401823b5e40bba69b844d469f60a5ac7e516cfe17121185fcdc287035104e2	text extracted from a third-party page or paper
+meta/out/wger-project__wger/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/wger-project__wger/readme_lic.txt	361	38b009775ddee602e061a89d2f379e4b973dd6f625d93c0ab45eae672bfc2ba2	text extracted from a third-party page or paper
+meta/out/workout-lol__workout-lol/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/workout-lol__workout-lol/readme_lic.txt	225	5a7669c25e8d858f6223ae69ca0caf6c903a76ab0cba44ebf0efad06bf658f91	text extracted from a third-party page or paper
+meta/out/wrkout__exercises.json/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/wrkout__exercises.json/readme_lic.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+meta/out/xiaobai1217__RepetitionCounting/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/xiaobai1217__RepetitionCounting/readme_lic.txt	164	3899823e4e9201b542dc978c713bc33a9d24d874187c5b2ccc30fd21df6329c7	text extracted from a third-party page or paper
+meta/out/yo-WASSUP__Good-GYM/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/yo-WASSUP__Good-GYM/readme_lic.txt	243	eb1097d0800011347e1b7e5da768e6cd8778b39e0d6e1f867291eb32a9d4dbe6	text extracted from a third-party page or paper
+meta/out/yuhonas__free-exercise-db/clone.err	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party data file or empty log
+meta/out/yuhonas__free-exercise-db/readme_lic.txt	401	49e239936618dd04e9b777f53d82350b506ff4ec4c5560d2027b4ac9fb134e11	text extracted from a third-party page or paper
+pmc/PMC10586693.txt	122220	79110dc4540cd0032e9ce79fa31470282bc50f31a5a4a94d475168cd86421a56	text extracted from a third-party page or paper
+pmc/PMC10586693.xml	241245	307625239b3bdce1a213a8c0b184949f446aa5538c8ba86cbd8fc0b28ec08f00	third-party web page, full text or licence page
+pmc/PMC10818145.txt	39347	19ef057b7094e07a61ca06a51e1f5e3d313c402fd6f23b763e4805f867fa8467	text extracted from a third-party page or paper
+pmc/PMC10818145.xml	87395	44791d95bf403c40e74a365eef8d55d1d7550b9a0e69b7a65abcce4899581a6c	third-party web page, full text or licence page
+pmc/PMC11655637.txt	45397	fefaab4707338d810e664f30cf23b822be642bd20c2720b5bbaed21c0a9e78c9	text extracted from a third-party page or paper
+pmc/PMC11655637.xml	102257	08bd4eeb0ff74bf45dae6dced1a39d73ede19b5b9011991069661f80f26e9082	third-party web page, full text or licence page
+pmc/PMC4376132.txt	35693	abb27709a6befc6a9fc2a603655b74d7faa683ec74c56753d179f371a4decb16	text extracted from a third-party page or paper
+pmc/PMC4376132.xml	71888	6cdd7e4a61f30bd35c85fd1cdc9a799033a61beb28db77a22a8259d7565d1ac7	third-party web page, full text or licence page
+pmc/PMC4529492.txt	42640	04e46e9d482b2c57b4364b0a058d9759995f920efe438be3255576ad62661cd4	text extracted from a third-party page or paper
+pmc/PMC4529492.xml	87068	09bbd2686c3c358c61c85402b152aedd47d40bff99adab02b2cf0c24add56451	third-party web page, full text or licence page
+pmc/PMC5885062.txt	58075	c9baadca5f7ef7b272ad32d5d2243d0136cd9c2a2b409c37d502ba8c545cc7f1	text extracted from a third-party page or paper
+pmc/PMC5885062.xml	148388	a9970ca60da347d879953f772f722e95c684d0e3a6c45b729a4e65265dce3661	third-party web page, full text or licence page
+pmc/PMC6658272.txt	51596	6a9aa5871221c03b7703acb56690eeccde8a2b7b9d103abc7e2cee71b859cd2d	text extracted from a third-party page or paper
+pmc/PMC6658272.xml	109525	965d183a5596394a59183682dc7fadb11da9824dc05d2be19bbaa706b31fb281	third-party web page, full text or licence page
+raw/egoexo.pdf	39870	364976944b286a1a878640c5efb86eda7de6f03e1f7b35b4066f0a93660e3a9b	third-party PDF (paper, guidance or model card)
+raw/everk.md	153	4037829b0d66f9bfa91343ac5ddcfd8306b7c9ac274ca9609ebc48e0b48b844d	third-party README or licence page copy
+raw/exds_notice.md	1595	2b078c9ff73670bbcd4503703eb6be624250193b33655948799acc635a11557b	third-party README or licence page copy
+raw/exercisedb.md	8146	88603dee31be15bec3687ea9a3d7f8eef67e0f4e0c9d9e0f70591c3a4c9fdb02	third-party README or licence page copy
+raw/exmo.md	878	a00895827e1995697ab122a62c64768a64452aa893d7eb028d4296bdbc063fbf	third-party README or licence page copy
+raw/exmo_reg.md	892	3f4f9a6c269a3317f64bce2628413c9859e0a2f8c6f9d5cd05a001af431edf89	third-party README or licence page copy
+raw/faqa.pdf	61885	f275f2e7d025ba88fd092839736ad12b9c2e23477f28be52a200cfcb605cbfa8	third-party PDF (paper, guidance or model card)
+raw/fedb.md	6019	4b304ffc491993bfbc91a3caf10b395aa5f5d1f0d1b8b38eb92f7afdae30e783	third-party README or licence page copy
+raw/fitcoach.md	9152	877eebd2ac2a5b346a922bfd170a949fc9f0637a7b7fafd33bee0bde5329b80c	third-party README or licence page copy
+raw/flutter.md	3918	7400c236abe75d58abbe2d177e4a4ddc663ce6e1df03eb0f0c3094bc4ce7e0df	third-party README or licence page copy
+raw/gymmane_terms.md	1675	1da72f1a9fa5c023f111c02c60e381b34a2c6bf372b3eb249427a927f77068c0	third-party README or licence page copy
+raw/halpe.md	3747	391af501423bf7282a12c4f5423ec888afd472c4929d32e6f8b7bf520f39d34d	third-party README or licence page copy
+raw/hl7_sushi.yaml	15415	b19e59cbb3b885221c84add715560a552dcc0534c3042204ab304336cefbcedd	third-party README or licence page copy
+raw/mmfit.md	2404	1ef931601c0cc65b28f58d5fc65baaa386d6a80e599a3af5b3df8caee6fe5a87	third-party README or licence page copy
+raw/mmpose_lic.md	772	bc4b15244b0c91813cbbadc483325728a078edf13af1c158e0b01c5d4b23f0f0	third-party README or licence page copy
+raw/opencap.md	6872	1bf8625bd92ea3d7e7a02fd94dbe11ec4c1081aaade3effcecceb40592030263	third-party README or licence page copy
+raw/pose2sim.md	116206	673b86bcc9ded315c6d6dddacc9d70a6204c9e27867af55385bdccb20acd9ec1	third-party README or licence page copy
+raw/poserac.md	7258	a9dbd1c043cb0f631c619623d95d729f6748f2794d0c6bb77e25a2079ea954a9	third-party README or licence page copy
+raw/repnet.md	418	2bb540b97d8cc31f7b3557730e950517983871acc2d8fa286358adb79c43602b	third-party README or licence page copy
+raw/rtmlib.md	31227	617631acdfdd8d85c9ff163b15680d4957d774cf4ae48e8cd0d3d33eab4a769f	third-party README or licence page copy
+raw/sports2d.md	50158	45a37b01ea56d01b3bdc0057cd8c5725a98bffd34aad56965922aeaac30c698f	third-party README or licence page copy
+raw/transrac.md	8098	7071280209dffd99a750b461b79b09c60554e1f3c16b0c93884d2205279c9eb7	third-party README or licence page copy
+raw/wg_licenses.md	516	5e268191030abaa82f4f26630036427d8ab148bea0eb1b40aa821dbc7d065bc9	third-party README or licence page copy
+raw/workoutlol.md	5583	e1a43b4c1728017b3e4330568e9d7d85dc568c3321ef171733ba9e7d21baf056	third-party README or licence page copy
+raw/wrkout.md	1908	d15176dbf1d2401c031c78c9d7d60d873141e81a524a71fb9c5dee2e618d85c0	third-party README or licence page copy
+v2/data/abstracts.txt	123151	05a04d3765e4d1537ed5ec5545ee340fda9cfab60bbece26b8d99fc58c41150b	text extracted from a third-party page or paper
+v2/data/abstracts.xml	1217267	e7870931a3289bc7e94fce81f605ddc272a97896ab376aafb599e8ffd8cdd4bd	third-party web page, full text or licence page
+v2/data/abstracts_clean.txt	87059	dd932fea325012b4c31ee2399520e36817cc46b38b9ff994a61327c49364f0e1	text extracted from a third-party page or paper
+v2/data/bull.xml	139162	844632c55d655947c9b770a5e044637a67e5e2e7957c07fa0a70c13150080d71	third-party web page, full text or licence page
+v2/data/chromik.html	1311819	5997c80a98edc6b0fedd20d4ccf7eb2639a7ba3721a45b98841ca4277821ad59	third-party web page, full text or licence page
+v2/data/eurlex_32004L0113.html	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party web page, full text or licence page
+v2/data/eurlex_32016R0679.html	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party web page, full text or licence page
+v2/data/eurlex_62009CJ0236.html	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party web page, full text or licence page
+v2/data/hunter09.xml	93873	b79ec683d7250c88a35c25d2b8b4aec4a2dbbaff87100e2fd6c9cbeee6e2cb79	third-party web page, full text or licence page
+v2/data/ico.html	5965	35d7a370aa5166e386aeac88d942974a9dce64742c6f1043c42045d1aa16addb	third-party web page, full text or licence page
+v2/data/phillips.xml	110419	30ee4433d1e15d7e1bce14e0af1bc68838ef0c23045720e184862f8bcf26d9c0	third-party web page, full text or licence page
+v2/data/s2_abs.json	174	65ab993d12c5c2cc9b68e6da2bb79b326930283e520363ffcdc145f88cd5a148	abstracts from publishers (third-party text)
+v3/abs.json	241338	a55a4ab9f8dcd91d53beaa4565dc9eb9c92e372a93daad56fab5f2475071b523	abstracts from publishers (third-party text)
+v3/abstracts.txt	234033	47917dc51ca99bfe73bed98560b49bc33a0862dc0e22c76c113cc63e0f3c4818	text extracted from a third-party page or paper
+v3/all.txt	4050	fb4f6c7769e742f994f0a122fdee9539bbaea0eb565ee4b81e73f005c2557055	text extracted from a third-party page or paper
+v3/extra.txt	1024	f4b71597762fe2494df51e315f3868dbb214cf767b29819dfe977ce8efd28f91	text extracted from a third-party page or paper
+v3/q.txt	2466	b9048912f869cd4f5537711e2ecde15bdd2bbd986d62729248d4d034ebab81fa	text extracted from a third-party page or paper
+v3/q2.txt	749	1187a2bfbbc32836bac170664be7a026089000b41647d0a8fe263478a94f87b4	text extracted from a third-party page or paper
+v3/pmc/10199130.txt	18499	0cae16b0d2770904fd4641ace3a4ee47883c846bd558e535c6ce97a496024e8d	text extracted from a third-party page or paper
+v3/pmc/10199130.xml	42375	9fbe921de1c38b3407598c26c55c6f6f1c33263099a8bfa4d82b03abc15f9ee2	third-party web page, full text or licence page
+v3/pmc/12965823.txt	126382	3a95f44b54e5e781f1143922082e34d49e70d1a72994232d2a2695f59c950db0	text extracted from a third-party page or paper
+v3/pmc/12965823.xml	316732	3d9ebf918b768bff05fdfbee57dbc2df4501b89f4bccb7b76c93a29c4ebda9ef	third-party web page, full text or licence page
+v3/pmc/3505409.txt	1543	e707e26e0f7697fa96cf9de206013ca390b160791697450280b3e93e4e6f4cb1	text extracted from a third-party page or paper
+v3/pmc/7719906.txt	82302	04f777420303ecedd9a179f613a5dc3a040a483ee3bda4e5fe216cf7c6276c5b	text extracted from a third-party page or paper
+v3/pmc/7719906.xml	139162	844632c55d655947c9b770a5e044637a67e5e2e7957c07fa0a70c13150080d71	third-party web page, full text or licence page
+v3/pmc/8450373.xml	150285	17fa84693b66d0e7dd41f4b31cddae22147f73b42871c234a2e0bf81a4622d36	third-party web page, full text or licence page
+v3/pmc/8734590.txt	135693	073893c7c488530d3634a2135811224b34677cb048a5c380ed3ddc511da6461e	text extracted from a third-party page or paper
+v3/pmc/8822539.txt	106746	9eb85df7ccdaf8f70971bdbbdab325f21604f2052a6ca6c31004fd2833b1a4e1	text extracted from a third-party page or paper
+v3/pmc/9582631.txt	57748	0161af4893c5eca7f041eef3e3b740e732ba724fe4c5e6ea40023b88a97758f4	text extracted from a third-party page or paper
+v3/pmc/9582631.xml	81266	237bbaf99c424d722aba949033aeabfee0af764d32ae1da4d5eb266d0811ec56	third-party web page, full text or licence page
+v4ij_dl/32016R0679.html	809041	34f88084070db9455b683ca3de6bf66ec617836474a853d5f54d6833183ee579	third-party web page, full text or licence page
+v4ij_dl/32016R0679.txt	353364	682aa79688d2a94a87383447105093d1f88b4465e88d1ffdf509d1b30f3dd672	text extracted from a third-party page or paper
+v4ij_dl/32024R1689.html	1264462	9be295a8dc85d42f77754569ec693208cb6091f1499e500359cdfc781979801b	third-party web page, full text or licence page
+v4ij_dl/32024R1689.txt	588545	79d46dcc8756075f5a45547adb051bdc425cf2498800b69f747a6375a0763d90	text extracted from a third-party page or paper
+v4ij_dl/32026R1744.html	353496	47aa02205569d6856ef0685ffbe125dd4b62b52fd54f39f0442dbd8a990fb6d5	third-party web page, full text or licence page
+v4ij_dl/32026R1744.txt	149810	83dfaba30b5f22d90340959d992499bdb1f8e00d31f71c7f7138ad37b8d83b1f	text extracted from a third-party page or paper
+v4ij_dl/62020CJ0184.html	176866	49ac84839e42657bf0fb593adbb0d284f3f243259bacf2454a5cfab065a74ac2	third-party web page, full text or licence page
+v4ij_dl/62020CJ0184.txt	87984	55b3de827960ef985f952c6ce58eab6ca896630897eb33d54550a408400c1da1	text extracted from a third-party page or paper
+v4ij_dl/62023CJ0021.html	133101	bb0f75373aa0c04d704bbdf3b6643d759d22b5436a52db45416ea651e6763f5c	third-party web page, full text or licence page
+v4ij_dl/62023CJ0021.txt	66251	d47506bb9420b0d65668177cde76a18ba377cdfa160b0ae79723b5549bf9c87a	text extracted from a third-party page or paper
+v4ij_dl/abs2.txt	5976	96e5b362a308a1c752ce3895c2fb69980a1ec3648c0b082afbc2a2a4db44bd17	text extracted from a third-party page or paper
+v4ij_dl/abs3.txt	10349	36fd63240449a630b9f9f17866ef6edd806a643dba174fdabafb5a6c438ce24c	text extracted from a third-party page or paper
+v4ij_dl/abstracts.txt	34377	1924d8dfd3d677af20fa436c042b8b381d234bc7e420c08c3dababa32111d672	text extracted from a third-party page or paper
+v4ij_dl/bredin.txt	1915	167a75235dfd3d7d965ba1b6c9a41f4c4e5bfda68bae4bfb7e1ce0ffe3bc2fe4	text extracted from a third-party page or paper
+v4ij_dl/bredin.xml	6519	9416c2e0ad084b4000622c5d09109728ff57fd1bd685f09f7fd4d3d7d5730981	third-party web page, full text or licence page
+v4ij_dl/bredin_pmc.html	21403	05685402c8209ecf81400487cf212aeaccba02b040437b2c68d688878400cc26	third-party web page, full text or licence page
+v4ij_dl/bredin_pmc.txt	167	349e8ca88e65d6e36af6b9d1c9c792ea988cc81560055e639011f6952db6520d	text extracted from a third-party page or paper
+v4ij_dl/fdagw.html	36837	f74b7ddebbe419ac065a22164ce4a665a437357fadee966ae1de4d45b1c91ac2	third-party web page, full text or licence page
+v4ij_dl/fdagw.pdf	312188	0756013b2a64bfdc23902afad6195edc4e20d2570308845c2138c4b5c8dd2b7e	third-party PDF (paper, guidance or model card)
+v4ij_dl/fdagw.pdf.txt	36599	12b7fa1136a6aa651925516bebde51c6244ed90a3ee8008c080e8ac4fb977cf8	text extracted from a third-party page or paper
+v4ij_dl/fdagw.txt	5322	1872a49d83a849be79d56269f8eaef21bc5e46c69a51a7796d507ea046792f51	text extracted from a third-party page or paper
+v4ij_dl/fdasw.pdf	864652	7fb21371f814ec843c208e2b98e3505a7f4f47aa845040a419af4929e95d053e	third-party PDF (paper, guidance or model card)
+v4ij_dl/fdasw.pdf.txt	125673	fa08fc036f84127b59d74c292b8475c30ffcfe6cc53c0d239a91c73a848cb651	text extracted from a third-party page or paper
+v4ij_dl/gp10144311.html	1695223	b42d0f134b61a7b58f4fd85cd1f346510d815ec939d9af9e42ddfd7cc2c9d2fd	third-party web page, full text or licence page
+v4ij_dl/gp10144311.txt	30742	f1c56c9625f16ef0cd439759e489146acf3c268a8353271f0a023758ca3e90ad	text extracted from a third-party page or paper
+v4ij_dl/gp12991134.html	1681680	86997d1d7152dea66e31a02876bc778c6007d797c6bb9bad3965a809811ad80b	third-party web page, full text or licence page
+v4ij_dl/gp12991134.txt	22273	541cdaaa3dd3a495b5f48233da4cfc0a3efc18486e4d0dc6c2f00cd0444dae75	text extracted from a third-party page or paper
+v4ij_dl/gp16679511.html	1661391	bff4dda1c88e7b4be49b63de6e2fbe4fb3a89aa267ee1617350544b733bd4079	third-party web page, full text or licence page
+v4ij_dl/gp16679511.txt	11862	3bc3b5409a9fdc6fa3073f7bbcb6f5bafe8fe4e81f697eeec4236555af551059	text extracted from a third-party page or paper
+v4ij_dl/gp16926792.html	1637807	e8353c35faed60714e077e9f5beda718c10aaaa10003069ef3f8b04b3b5b64fb	third-party web page, full text or licence page
+v4ij_dl/gp16926792.txt	5984	4ee6dd3847f4de1cd1c15412701d1b273ba24377086f09e75cfa7e543f312192	text extracted from a third-party page or paper
+v4ij_dl/mdr.html	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	third-party web page, full text or licence page
+v4ij_dl/mdr.txt	0	e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855	text extracted from a third-party page or paper
+v4ij_dl/mottola.html	5361	76b13333548de86b3fb16376432c2a170f8089ad88dbe28bdf0b088c6efcb7b9	third-party web page, full text or licence page
+v4ij_dl/mottola.pdf	5457	85630b6c0a010bea7b10bab311bbf42460518d9aa4f4e8a73c6b6e50e9831118	third-party PDF (paper, guidance or model card)
+v4ij_dl/mottola.txt	18	517fd844b94c38c7e75ac0bf61435e19c741b674bacf774d90cc8ca4b423a596	text extracted from a third-party page or paper
+v4ij_dl/s2qlog.txt	1128	36f676af546212f009b9b894ed610723df7b757bb4fe9d37973521487b251cf8	text extracted from a third-party page or paper
+v4ij_dl/whitfield.txt	37872	c5879b68dcd53acc5ecf7bc722faea0a61b3311fc8cf963c1a050f19716047bf	text extracted from a third-party page or paper
+v4ij_dl/whitfield.xml	75010	39163c5292394e3de3392f6dd50bc90cd72a09f08514ec6ebb1d4a45f70b1e97	third-party web page, full text or licence page
+meta/out/iSEE-Laboratory__EgoExo-Fitness/license.txt	12044	1e3aa6d6d63af7b049b0293c672138ddf300f364a12d1aedeba71422c20c5320	binary licence agreement file (third-party document)

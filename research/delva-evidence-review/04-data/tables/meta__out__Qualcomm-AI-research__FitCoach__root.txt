@@ -1,0 +1,9 @@
+.gitignore
+LICENSE.txt
+NOTICE
+README.md
+assets
+configs
+docker
+scripts
+src

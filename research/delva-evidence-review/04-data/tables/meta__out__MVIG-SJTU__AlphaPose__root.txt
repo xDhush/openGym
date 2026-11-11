@@ -1,0 +1,14 @@
+.gitignore
+LICENSE
+README.md
+alphapose
+configs
+detector
+docs
+examples
+model_files
+pretrained_models
+scripts
+setup.cfg
+setup.py
+trackers

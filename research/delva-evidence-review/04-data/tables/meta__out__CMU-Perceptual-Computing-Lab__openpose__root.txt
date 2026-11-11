@@ -1,0 +1,17 @@
+.doc_autogeneration.doxygen
+.github
+.gitignore
+.gitmodules
+3rdparty
+CMakeLists.txt
+LICENSE
+README.md
+appveyor.yml
+cmake
+doc
+examples
+include
+models
+python
+scripts
+src

@@ -1,0 +1,13 @@
+.gitignore
+.idea
+LICENSE
+README.md
+configs
+dataset
+mmaction
+models
+test.py
+testing
+tools
+train.py
+training

@@ -1,0 +1,9 @@
+.github
+.gitignore
+.readthedocs.yaml
+AUTHORS.md
+LICENSE
+README.md
+docs
+pyproject.toml
+uv.lock

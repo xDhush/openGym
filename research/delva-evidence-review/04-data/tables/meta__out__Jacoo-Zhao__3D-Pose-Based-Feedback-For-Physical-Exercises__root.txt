@@ -1,0 +1,16 @@
+.gitignore
+Results
+__init__.py
+data
+dataset.py
+evaluation.py
+images
+main.py
+models.py
+opt.py
+pretrained_weights
+readme.md
+requirements.txt
+scripts
+softdtw.py
+utils.py

@@ -1,0 +1,816 @@
+[
+ {
+  "paperId": "9e8db1519245426f3a78752a3d8360484f4626b1",
+  "title": "OpenPose: Realtime Multi-Person 2D Pose Estimation Using Part Affinity Fields",
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "year": 2018,
+  "citationCount": 6086,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "d89124c6886d091d5152332cf7169d22bf99acf2",
+  "title": "RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation",
+  "venue": "Computer Vision and Pattern Recognition",
+  "year": 2023,
+  "citationCount": 105,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "824a19f542ccba4d0b8e83c8a8a6b70f4b7d377b",
+  "title": "Effective Whole-body Pose Estimation with Two-stages Distillation",
+  "venue": "2023 IEEE/CVF International Conference on Computer Vision Workshops (ICCVW)",
+  "year": 2023,
+  "citationCount": 462,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "dc42daac244e93275fb44a269a68cace144d32ea",
+  "title": "AlphaPose: Whole-Body Regional Multi-Person Pose Estimation and Tracking in Real-Time",
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "year": 2022,
+  "citationCount": 797,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "3fb6897c7a060cc38c74d50a0132b8d2ecbdfd7a",
+  "title": "ViTPose++: Vision Transformer for Generic Body Pose Estimation",
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "year": 2022,
+  "citationCount": 176,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ null,
+ {
+  "paperId": "4be1ad3a89ff7a07199c6f1b4c922b225ff2cec1",
+  "title": "Two-dimensional video-based analysis of human gait using pose estimation",
+  "venue": "bioRxiv",
+  "year": 2020,
+  "citationCount": 297,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "ee8f2d213e46d438dad0d9a673e8a00e683155c8",
+  "title": "Improving Gait Analysis Techniques with Markerless Pose Estimation Based on Smartphone Location",
+  "venue": "Bioengineering",
+  "year": 2024,
+  "citationCount": 30,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ null,
+ {
+  "paperId": "f6a5942dcb999e0a68e30ee1de5f909edbf2c136",
+  "title": "Gait analysis comparison between manual marking, 2D pose estimation algorithms, and 3D marker-based system",
+  "venue": "Frontiers in Rehabilitation Sciences",
+  "year": 2023,
+  "citationCount": 43,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "dac06c9ba9f78ef57d1e846328e175dbbdb60622",
+  "title": "Reliability and validity of knee valgus angle calculation at single-leg drop landing by posture estimation using machine learning",
+  "venue": "Heliyon",
+  "year": 2024,
+  "citationCount": 11,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "8afa34066a0ae94cdf1663a4e0175e1594ccf405",
+  "title": "Validity and Reliability of OpenPose-Based Motion Analysis in Measuring Knee Valgus during Drop Vertical Jump Test.",
+  "venue": "Journal of Sports Science and Medicine",
+  "year": 2024,
+  "citationCount": 28,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ null,
+ {
+  "paperId": "db4c6bc08902a4297143750abfb489e6d3f14860",
+  "title": "Markerless Pixel-Based Pipeline for Quantifying 2D Lower Limb Kinematics During Squatting: A Preliminary Validation Study",
+  "venue": "Biomechanics",
+  "year": 2025,
+  "citationCount": 0,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "a9b695d3b9ded41f385d82dcb4880a7b307ceb57",
+  "title": "Evaluation and Error Characterization of a Multi-View 3D Markerless Motion Capture System for Human Kinematics",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2026,
+  "citationCount": 0,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "924c746af3d9a61614ad01b9496ee884a019a076",
+  "title": "Accuracy Evaluation of 3D Pose Estimation with MediaPipe Pose for Physical Exercises",
+  "venue": "Current Directions in Biomedical Engineering",
+  "year": 2023,
+  "citationCount": 41,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "3fa1e9506aba08305ef8b01725847323fbdcb58d",
+  "title": "Accuracy and Validity of 3D Markerless Motion Capture Compared to Marker-Based Systems for Lower-Limb Biomechanical Assessment: A Systematic Review",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2026,
+  "citationCount": 4,
+  "publicationTypes": [
+   "Review",
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "ab9bcaf5fd317df5ae7162fa6d6072b8b0e0a4e9",
+  "title": "Reliability and validity of computer vision‐based markerless human pose estimation for measuring hip and knee range of motion",
+  "venue": "Healthcare technology letters",
+  "year": 2025,
+  "citationCount": 4,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "9860dc5d09552f674f93c8d6b3c3b492a00db3cd",
+  "title": "Reliability and validity of OpenPose for measuring HKA angle in dynamic walking videos in patients with knee osteoarthritis",
+  "venue": "Scientific Reports",
+  "year": 2025,
+  "citationCount": 5,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "2601d4dcaebd5bc2f9f44f84c4b54876297eeb27",
+  "title": "Evaluation of Smartphone Camera Positioning on Artificial Intelligence Pose Estimation Accuracy for Exercise Detection: Observational Study",
+  "venue": "JMIR mHealth and uHealth",
+  "year": 2025,
+  "citationCount": 3,
+  "publicationTypes": [
+   "Study",
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "a5b3e03b1a14b66c9ab957e2f74708a28076cc69",
+  "title": "Influence of the Camera Viewing Angle on OpenPose Validity in Motion Analysis",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2025,
+  "citationCount": 21,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ null,
+ null,
+ {
+  "paperId": "4e91aa3a2847cf0aa7f06342b9e33611c2e7fc87",
+  "title": "AIFit: Automatic 3D Human-Interpretable Feedback Models for Fitness Training",
+  "venue": "Computer Vision and Pattern Recognition",
+  "year": 2021,
+  "citationCount": 121,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ null,
+ {
+  "paperId": "fb6c66181ad619297230690614577dd0f40f8d21",
+  "title": "App-Based Feedback for Rehabilitation Exercise Correction in Patients With Knee or Hip Osteoarthritis: Prospective Cohort Study",
+  "venue": "Journal of Medical Internet Research",
+  "year": 2020,
+  "citationCount": 29,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "63c8e77b7dca536ef461f53fdf88f2c9d548393b",
+  "title": "On the Independence of Compliance and Reliance: Are Automation False Alarms Worse Than Misses?",
+  "venue": "Hum. Factors",
+  "year": 2007,
+  "citationCount": 312,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "ce732d5e9d415689a005824de1f552ff19783eff",
+  "title": "Measures of Reliance and Compliance in Aided Visual Scanning",
+  "venue": "Hum. Factors",
+  "year": 2014,
+  "citationCount": 53,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "5740682a9f84630088b0e62fae210ce392313407",
+  "title": "Reliability, Validity, and Injury Predictive Value of the Functional Movement Screen: A Systematic Review and Meta-analysis",
+  "venue": "American Journal of Sports Medicine",
+  "year": 2017,
+  "citationCount": 299,
+  "publicationTypes": [
+   "Review",
+   "MetaAnalysis",
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "4c43298c5d7b416cff428e2e9ed96260485043cf",
+  "title": "The interrater and intrarater reliability of the functional movement screen: A systematic review with meta-analysis.",
+  "venue": "Physical Therapy in Sport",
+  "year": 2016,
+  "citationCount": 78,
+  "publicationTypes": [
+   "Review",
+   "MetaAnalysis",
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "1fb9015d4b76279cacf965ecd1ffb8329079f8fc",
+  "title": "MM-Fit",
+  "venue": "Proceedings of the ACM on Interactive Mobile Wearable and Ubiquitous Technologies",
+  "year": 2020,
+  "citationCount": 49,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "b1ee90f1aa9b380f5400b233dee2e4f0a33e71c7",
+  "title": "A Data Set of Human Body Movements for Physical Rehabilitation Exercises",
+  "venue": "International Conference on Data Technologies and Applications",
+  "year": 2018,
+  "citationCount": 179,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "949aaaa49ec4b08fae51fb39d372155094efb2c3",
+  "title": "The KIMORE Dataset: KInematic Assessment of MOvement and Clinical Scores for Remote Monitoring of Physical REhabilitation",
+  "venue": "IEEE transactions on neural systems and rehabilitation engineering",
+  "year": 2019,
+  "citationCount": 161,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "17f795048cdfa94f2de0c7472dfefd8e055daf19",
+  "title": "ExpertAF: Expert Actionable Feedback from Video",
+  "venue": "Computer Vision and Pattern Recognition",
+  "year": 2024,
+  "citationCount": 27,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "c6643742e93ea7a43ed3154a30d2abc8a3aceb3c",
+  "title": "Fine-Tuning Large Multimodal Models for Fitness Action Quality Assessment",
+  "venue": "User Modeling, Adaptation, and Personalization",
+  "year": 2025,
+  "citationCount": 4,
+  "publicationTypes": [
+   "Book",
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "cf8236eddc332d7231f798b905cf384c88d31c05",
+  "title": "Markerless Kinematic Data in the Frontal Plane Contributions to Movement Quality in the Single-Leg Squat Test: A Comparison and Decision Tree Approach.",
+  "venue": "Journal of sport rehabilitation",
+  "year": 2024,
+  "citationCount": 5,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "29208667f2e6f5ab1b005d175c4ec27c71e74b29",
+  "title": "Smartphone-Based Interpretable Machine Learning for Classifying Single-Leg Squat Performance Using Trunk, Pelvic, and Knee Kinematics: Cross-Sectional Study",
+  "venue": "JMIR mHealth and uHealth",
+  "year": 2025,
+  "citationCount": 1,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "1cf890ce8391ca958fbc173533d575efcb51f70a",
+  "title": "Humans and Automation: Use, Misuse, Disuse, Abuse",
+  "venue": "Hum. Factors",
+  "year": 1997,
+  "citationCount": 4937,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "d9f2ebe727d19195df73b6dcae151d987d8ad9a0",
+  "title": "Reduced frequency of knowledge of results enhances motor skill learning.",
+  "venue": "",
+  "year": 1990,
+  "citationCount": 754,
+  "publicationTypes": null
+ },
+ {
+  "paperId": "8c8a4c24236aa978f618a54813f8a2168b2a7f30",
+  "title": "The Landing Error Scoring System (LESS) Is a Valid and Reliable Clinical Assessment Tool of Jump-Landing Biomechanics",
+  "venue": "American Journal of Sports Medicine",
+  "year": 2009,
+  "citationCount": 716,
+  "publicationTypes": [
+   "Study",
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "cd248f24d879d67d7b00c9ef8b1508cb31b975bc",
+  "title": "Reliability of 2-dimensional video assessment of frontal-plane dynamic knee valgus during common athletic screening tasks.",
+  "venue": "Journal of sport rehabilitation",
+  "year": 2012,
+  "citationCount": 265,
+  "publicationTypes": [
+   "Study",
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "21d470547b836d6e561a1cc86f24bbb6d1ee83b1",
+  "title": "The back squat: A proposed assessment of functional deficits and technical factors that limit performance",
+  "venue": "Strength and conditioning journal",
+  "year": 2014,
+  "citationCount": 234,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "36ac574bf482934b069a3244363e32605a097b9a",
+  "title": "Physio@Home: Exploring Visual Guidance and Feedback Techniques for Physiotherapy Exercises",
+  "venue": "International Conference on Human Factors in Computing Systems",
+  "year": 2015,
+  "citationCount": 151,
+  "publicationTypes": [
+   "Book",
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "b8aade70c8a310c232a2968b54d50f5d170e08df",
+  "title": "YouMove: enhancing movement training with an augmented reality mirror",
+  "venue": "ACM Symposium on User Interface Software and Technology",
+  "year": 2013,
+  "citationCount": 359,
+  "publicationTypes": [
+   "Book",
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "2da357d8c5b2c8e67b4dd2474b5630d55ed5a381",
+  "title": "Pose Estimation for Facilitating Movement Learning from Online Videos",
+  "venue": "International Working Conference on Advanced Visual Interfaces",
+  "year": 2020,
+  "citationCount": 19,
+  "publicationTypes": [
+   "JournalArticle",
+   "Book",
+   "Review"
+  ]
+ },
+ null,
+ {
+  "paperId": "be48a321a638149a7f45297ccb1cf31eb6cf0263",
+  "title": "TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting",
+  "venue": "Computer Vision and Pattern Recognition",
+  "year": 2022,
+  "citationCount": 95,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ null,
+ {
+  "paperId": "f8d4d1d28985ca80f959f01cbd9caccd0fbc6b52",
+  "title": "CountLLM: Towards Generalizable Repetitive Action Counting via Large Language Model",
+  "venue": "Computer Vision and Pattern Recognition",
+  "year": 2025,
+  "citationCount": 19,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "74c487ca0d697a6903e54a25eb0ffd25367fd99e",
+  "title": "RecoFit: using a wearable sensor to find, recognize, and count repetitive exercises",
+  "venue": "International Conference on Human Factors in Computing Systems",
+  "year": 2014,
+  "citationCount": 245,
+  "publicationTypes": [
+   "JournalArticle",
+   "Book",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "3334be17155d407162ff2c4204768d5b92b0aa47",
+  "title": "Repetitive Activity Counting by Sight and Sound",
+  "venue": "Computer Vision and Pattern Recognition",
+  "year": 2021,
+  "citationCount": 76,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "6f4591d2ffc9a128b9ee997ab451c580da871691",
+  "title": "IVAC-$\\mathbf {P^{2}L}$: Leveraging Irregular Repetition Priors for Improving Video Action Counting",
+  "venue": "IEEE transactions on multimedia",
+  "year": 2024,
+  "citationCount": 4,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "8bb4aea0a5094a8efb7494759a53363a3aafbc54",
+  "title": "Recognition and Repetition Counting for Complex Physical Exercises with Deep Learning",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2019,
+  "citationCount": 88,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "81d59a3a1ac6ca3427a7d7d3e09efd87a51f42aa",
+  "title": "Exercise Classification in Resistance Training: A Systematic Review of Technological Approaches",
+  "venue": "Sports Medicine",
+  "year": 2025,
+  "citationCount": 1,
+  "publicationTypes": [
+   "JournalArticle",
+   "Review"
+  ]
+ },
+ null,
+ null,
+ {
+  "paperId": "4bf5a3c59fb6c5e95b6a3bd39a1a66472d20c877",
+  "title": "Accuracy, Validity, and Reliability of Markerless Camera-Based 3D Motion Capture Systems versus Marker-Based 3D Motion Capture Systems in Gait Analysis: A Systematic Review and Meta-Analysis",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2024,
+  "citationCount": 183,
+  "publicationTypes": [
+   "Review",
+   "MetaAnalysis",
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "fb2ed7940e13a709b6554511e2da31b945a00f34",
+  "title": "Validation of Single-Camera MediaPipe BlazePose for Knee Joint Angle Measurement Across Multiple Functional Tasks: Concurrent Validity, Interrater Reliability, and Exploratory Test–Retest Reliability Study",
+  "venue": "JMIR Rehabilitation and Assistive Technologies",
+  "year": 2026,
+  "citationCount": 0,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ null,
+ {
+  "paperId": "c9bcea08fb81c041ed6d2b7576d8f0e47c1c850f",
+  "title": "BlazePose: On-device Real-time Body Pose tracking",
+  "venue": "arXiv.org",
+  "year": 2020,
+  "citationCount": 981,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "7fc39b00981e017864ed01f9d5fdc27a1553e11a",
+  "title": "RTMPose: Real-Time Multi-Person Pose Estimation based on MMPose",
+  "venue": "arXiv.org",
+  "year": 2023,
+  "citationCount": 533,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "a6c5542c22a8a46c791a63823cdab7b05a6f36c4",
+  "title": "RTMW: Real-Time Multi-Person 2D and 3D Whole-body Pose Estimation",
+  "venue": "arXiv.org",
+  "year": 2024,
+  "citationCount": 65,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "fdcad86866ca22d8417599deb41b54fe01487ce8",
+  "title": "ViTPose: Simple Vision Transformer Baselines for Human Pose Estimation",
+  "venue": "Neural Information Processing Systems",
+  "year": 2022,
+  "citationCount": 1161,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "116355c371ca5f78af866e448fb4d6f371198b71",
+  "title": "What to Say and When to Say it: Live Fitness Coaching as a Testbed for Situated Interaction",
+  "venue": "Neural Information Processing Systems",
+  "year": 2024,
+  "citationCount": 31,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "e7d39f80c51cdd1253a0f09ef7367f79b86ab36c",
+  "title": "FLEX: A Largescale Multimodal, Multiview Dataset for Learning Structured Representations for Fitness Action Quality Assessment",
+  "venue": "",
+  "year": 2025,
+  "citationCount": 3,
+  "publicationTypes": null
+ },
+ {
+  "paperId": "f4cd3bcaf9e03ee9e06483464a0452e5a5b0bafb",
+  "title": "Can Vision Language Models Judge Action Quality? An Empirical Evaluation",
+  "venue": "arXiv.org",
+  "year": 2026,
+  "citationCount": 2,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "5a805d6db8e2ef72619fc39093f431cf2055d99d",
+  "title": "FitAQA: A Benchmark of Fitness Action Quality Assessment for Multimodal Large Language Models",
+  "venue": "arXiv.org",
+  "year": 2026,
+  "citationCount": 1,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "82815b6654714bf34c701a81f43c088a18f46efe",
+  "title": "Pose Trainer: Correcting Exercise Posture using Pose Estimation",
+  "venue": "arXiv.org",
+  "year": 2020,
+  "citationCount": 107,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "c6ec29fedbcdfcaaecb186c78fcc455d15def637",
+  "title": "A Decade of Action Quality Assessment: Largest Systematic Survey of Trends, Challenges, and Future Directions",
+  "venue": "International Journal of Computer Vision",
+  "year": 2025,
+  "citationCount": 21,
+  "publicationTypes": [
+   "JournalArticle",
+   "Review"
+  ]
+ },
+ {
+  "paperId": "1336d0933fbe1c622a769f358bd0b81ef745773f",
+  "title": "Markerless Pose Estimation for Resistance Training Technique Assessment",
+  "venue": "arXiv.org",
+  "year": 2026,
+  "citationCount": 0,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "99225a68175b58ad5bbaea1e0b90f56d1d165d25",
+  "title": "Video-Based Markerless Motion Capture for Clinical and Rehabilitation Biomechanics: A PRISMA-ScR Scoping Review of Validated Architectures, Clinical Readiness, and Emerging Methods",
+  "venue": "",
+  "year": 2026,
+  "citationCount": 0,
+  "publicationTypes": [
+   "Review"
+  ]
+ },
+ {
+  "paperId": "a67cd4c2481405ba3f02b12d4eadfeba37336631",
+  "title": "A Short Note on Evaluating RepNet for Temporal Repetition Counting in Videos",
+  "venue": "arXiv.org",
+  "year": 2024,
+  "citationCount": 1,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "3328f39a27ab130647e26dc243dab29a13d434e6",
+  "title": "OVR: A Dataset for Open Vocabulary Temporal Repetition Counting in Videos",
+  "venue": "arXiv.org",
+  "year": 2024,
+  "citationCount": 12,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "66233b4d81905aa144d19bd5ac666d3e5d5a3046",
+  "title": "PoseRAC: Pose Saliency Transformer for Repetitive Action Counting",
+  "venue": "arXiv.org",
+  "year": 2023,
+  "citationCount": 28,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "6cd7f1eee4383b83fdaa5254b962aa95593bc9f6",
+  "title": "Advancements in Repetitive Action Counting: Joint-Based PoseRAC Model With Improved Performance",
+  "venue": "arXiv.org",
+  "year": 2023,
+  "citationCount": 4,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "32dffc4a2dea4adc95a34752db1167a81f394e06",
+  "title": "Full Resolution Repetition Counting",
+  "venue": "International Conference on Intelligent Robotics and Applications",
+  "year": 2023,
+  "citationCount": 8,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "28b377343e4ce58ee57274749461fed073c6b64c",
+  "title": "Pūioio: On-device Real-Time Smartphone-Based Automated Exercise Repetition Counting System",
+  "venue": "arXiv.org",
+  "year": 2023,
+  "citationCount": 4,
+  "publicationTypes": [
+   "JournalArticle",
+   "Review"
+  ]
+ },
+ {
+  "paperId": "d3cb1c35f9c0790b13faa7cb4bd372533137e700",
+  "title": "Efficient Action Counting with Dynamic Queries",
+  "venue": "International Journal of Computer Vision",
+  "year": 2024,
+  "citationCount": 5,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "eb2458aed8414fbec9c65f5dbc9aa030d17557fa",
+  "title": "PushupBench: Your VLM is not good at counting pushups",
+  "venue": "arXiv.org",
+  "year": 2026,
+  "citationCount": 1,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "1f522e01beb2643c2ad41a4d4edb12175d887290",
+  "title": "Viewpoint-invariant exercise repetition counting",
+  "venue": "Health Information Science and Systems",
+  "year": 2021,
+  "citationCount": 6,
+  "publicationTypes": [
+   "JournalArticle"
+  ]
+ },
+ {
+  "paperId": "d89124c6886d091d5152332cf7169d22bf99acf2",
+  "title": "RTMO: Towards High-Performance One-Stage Real-Time Multi-Person Pose Estimation",
+  "venue": "Computer Vision and Pattern Recognition",
+  "year": 2023,
+  "citationCount": 105,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "afeec5c4cb8d0f29550cb2e873224129d8e98ce1",
+  "title": "Domain Knowledge-Informed Self-Supervised Representations for Workout Form Assessment",
+  "venue": "European Conference on Computer Vision",
+  "year": 2022,
+  "citationCount": 47,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "489dc1705e6367c9747d6979ab2db173334b9dc2",
+  "title": "3D Pose Based Feedback for Physical Exercises",
+  "venue": "Asian Conference on Computer Vision",
+  "year": 2022,
+  "citationCount": 26,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "8a09e835f685337d163b43be25de1d3367384cd7",
+  "title": "Counting Out Time: Class Agnostic Video Repetition Counting in the Wild",
+  "venue": "Computer Vision and Pattern Recognition",
+  "year": 2020,
+  "citationCount": 190,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "be48a321a638149a7f45297ccb1cf31eb6cf0263",
+  "title": "TransRAC: Encoding Multi-scale Temporal Correlation with Transformers for Repetitive Action Counting",
+  "venue": "Computer Vision and Pattern Recognition",
+  "year": 2022,
+  "citationCount": 95,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "410bcd02fdb8f443b0206260683bb4faa461c868",
+  "title": "Every Shot Counts: Using Exemplars for Repetition Counting in Videos",
+  "venue": "Asian Conference on Computer Vision",
+  "year": 2024,
+  "citationCount": 20,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "f8d4d1d28985ca80f959f01cbd9caccd0fbc6b52",
+  "title": "CountLLM: Towards Generalizable Repetitive Action Counting via Large Language Model",
+  "venue": "Computer Vision and Pattern Recognition",
+  "year": 2025,
+  "citationCount": 19,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ },
+ {
+  "paperId": "3334be17155d407162ff2c4204768d5b92b0aa47",
+  "title": "Repetitive Activity Counting by Sight and Sound",
+  "venue": "Computer Vision and Pattern Recognition",
+  "year": 2021,
+  "citationCount": 76,
+  "publicationTypes": [
+   "JournalArticle",
+   "Conference"
+  ]
+ }
+]

@@ -1,0 +1,70 @@
+{
+ "header": {
+  "type": "esearch",
+  "version": "0.3"
+ },
+ "esearchresult": {
+  "count": "42",
+  "retmax": "42",
+  "retstart": "0",
+  "idlist": [
+   "41843416",
+   "40858277",
+   "40542361",
+   "40028215",
+   "39546334",
+   "39480294",
+   "38959064",
+   "37410360",
+   "37033884",
+   "36163607",
+   "36052315",
+   "35010348",
+   "34843301",
+   "34822352",
+   "34255677",
+   "34185014",
+   "33332016",
+   "33239350",
+   "32661839",
+   "32218059",
+   "31649194",
+   "31494865",
+   "30862704",
+   "30809175",
+   "30664474",
+   "29533715",
+   "29331276",
+   "28878701",
+   "28878131",
+   "28761708",
+   "28737294",
+   "26440505",
+   "26300805",
+   "24498299",
+   "24433272",
+   "23750972",
+   "23132605",
+   "19757863",
+   "19550202",
+   "19204579",
+   "17592961",
+   "17479573"
+  ],
+  "translationset": [
+   {
+    "from": "St Germain[au]",
+    "to": "Germain, St[Full Author Name] OR st germain[Author]"
+   }
+  ],
+  "querytranslation": "\"10.1519/JSC.0000000000003521\"[Publisher ID] OR \"10.7717/peerj.19042\"[Publisher ID] OR \"10.1007/s40279-020-01388-4\"[Publisher ID] OR \"10.1007/s40279-020-01319-3\"[Publisher ID] OR \"10.3389/fspor.2023.1054542\"[Publisher ID] OR \"10.1007/s40279-019-01180-z\"[Publisher ID] OR \"10.1172/jci.insight.95581\"[Publisher ID] OR \"10.1136/bjsports-2018-100328\"[Publisher ID] OR \"10.1037/0033-2909.133.4.673\"[Publisher ID] OR \"10.1080/10810730.2013.768727\"[Publisher ID] OR \"10.2196/18035\"[Publisher ID] OR \"10.1016/j.ijmedinf.2017.12.018\"[Publisher ID] OR \"10.2196/47774\"[Publisher ID] OR \"10.1126/science.aax2342\"[Publisher ID] OR \"10.1136/bjsports-2020-102955\"[Publisher ID] OR \"10.1007/s40279-023-01877-2\"[Publisher ID] OR \"10.1037/bul0000335\"[Publisher ID] OR \"10.1037/bul0000451\"[Publisher ID] OR \"10.3390/sports9110153\"[Publisher ID] OR \"10.3390/ijerph19010089\"[Publisher ID] OR \"10.1080/17461391.2018.1447020\"[Publisher ID] OR \"10.3758/s13423-012-0333-8\"[Publisher ID] OR \"10.1371/journal.pone.0087176\"[Publisher ID] OR \"10.3389/fpsyg.2017.01350\"[Publisher ID] OR \"10.3389/fdgth.2022.843747\"[Publisher ID] OR \"10.1080/02701367.2007.10599402\"[Publisher ID] OR \"10.1111/apha.12234\"[Publisher ID] OR \"10.1113/EP085370\"[Publisher ID] OR \"10.1097/JES.0b013e3181aa63e2\"[Publisher ID] OR \"10.2196/26658\"[Publisher ID] OR \"10.1249/MSS.0000000000003897\"[Publisher ID] OR \"10.2165/11315210-000000000-00000\"[Publisher ID] OR \"10.3389/fpsyg.2015.01105\"[Publisher ID] OR \"10.2196/11098\"[Publisher ID] OR \"10.1136/bmjsem-2016-000216\"[Publisher ID] OR \"10.3389/fpsyg.2019.00244\"[Publisher ID] OR \"10.1249/MSS.0b013e3181915670\"[Publisher ID] OR \"10.1186/s12912-025-03369-2\"[Publisher ID] OR \"10.2196/55964\"[Publisher ID] OR \"10.1111/cpf.12454\"[Publisher ID] OR \"10.1123/ijspp.2025-0086\"[Publisher ID] OR ((germain, st[Author] OR st germain[Author]) AND \"feedback schedules\"[Title])",
+  "warninglist": {
+   "phrasesignored": [],
+   "quotedphrasesnotfound": [
+    "\"10.1016/j.psychsport.2022.102165\"[doi]",
+    "\"10.1037/0278-7393.16.4.677\"[doi]"
+   ],
+   "outputmessages": []
+  }
+ }
+}

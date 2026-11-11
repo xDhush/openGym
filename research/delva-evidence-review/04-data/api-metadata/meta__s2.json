@@ -1,0 +1,189 @@
+[
+ {
+  "paperId": "1ab1cfd35edf7ad3af95092eea996184a27a925e",
+  "externalIds": {
+   "MAG": "2074276081",
+   "DOI": "10.1249/MSS.0b013e31821ece12",
+   "CorpusId": 12441350,
+   "PubMed": "21681120"
+  },
+  "title": "2011 Compendium of Physical Activities: a second update of codes and MET values.",
+  "venue": "Medicine & Science in Sports & Exercise",
+  "year": 2011,
+  "citationCount": 5736
+ },
+ {
+  "paperId": "b6b5df3475fce1144b87ee7efa1382c6c8320705",
+  "externalIds": {
+   "PubMedCentral": "10818145",
+   "DOI": "10.1016/j.jshs.2023.10.010",
+   "CorpusId": 267051776,
+   "PubMed": "38242596"
+  },
+  "title": "2024 Adult Compendium of Physical Activities: A third update of the energy costs of human activities",
+  "venue": "Journal of Sport and Health Science",
+  "year": 2024,
+  "citationCount": 494
+ },
+ {
+  "paperId": "50ac7a0efd3248174d35d21c286e374e8bb71da2",
+  "externalIds": {
+   "PubMedCentral": "6658272",
+   "MAG": "2920304288",
+   "DOI": "10.2196/12776",
+   "CorpusId": 128360663,
+   "PubMed": "31012864"
+  },
+  "title": "Developing a Physical Activity Ontology to Support the Interoperability of Physical Activity Data",
+  "venue": "Journal of Medical Internet Research",
+  "year": 2019,
+  "citationCount": 47
+ },
+ {
+  "paperId": "3aacdcb66a650a11f1bc3bbce95a166c94a2e729",
+  "externalIds": {
+   "PubMedCentral": "11655637",
+   "DOI": "10.1038/s41597-024-04217-9",
+   "CorpusId": 274858907,
+   "PubMed": "39695140"
+  },
+  "title": "Core reference ontology for individualized exercise prescription",
+  "venue": "Scientific Data",
+  "year": 2024,
+  "citationCount": 6
+ },
+ {
+  "paperId": "850ba978389f2f94cc1ee2e640f1181137faba78",
+  "externalIds": {
+   "MAG": "2109031474",
+   "PubMedCentral": "4376132",
+   "DOI": "10.2196/mhealth.3422",
+   "CorpusId": 1131574,
+   "PubMed": "25760773"
+  },
+  "title": "Mobile App Rating Scale: A New Tool for Assessing the Quality of Health Mobile Apps",
+  "venue": "JMIR mHealth and uHealth",
+  "year": 2015,
+  "citationCount": 2128
+ },
+ {
+  "paperId": "7f8f0becd259294841d6b6002bb469fbf14b1425",
+  "externalIds": {
+   "MAG": "1957925219",
+   "PubMedCentral": "4529492",
+   "DOI": "10.2196/mhealth.4669",
+   "CorpusId": 9565028,
+   "PubMed": "26209109"
+  },
+  "title": "Low Quality of Free Coaching Apps With Respect to the American College of Sports Medicine Guidelines: A Review of Current Mobile Apps",
+  "venue": "JMIR mHealth and uHealth",
+  "year": 2015,
+  "citationCount": 86
+ },
+ {
+  "paperId": "40ebe549769e23aea5787c24dd2483f98d229a10",
+  "externalIds": {
+   "MAG": "2793636399",
+   "PubMedCentral": "5885062",
+   "DOI": "10.2196/mhealth.9069",
+   "CorpusId": 4144838,
+   "PubMed": "29563080"
+  },
+  "title": "Quality of Publicly Available Physical Activity Apps: Review and Content Analysis",
+  "venue": "JMIR mHealth and uHealth",
+  "year": 2018,
+  "citationCount": 132
+ },
+ {
+  "paperId": "bf4b00cebf3da04da5665f63591d4cff64229051",
+  "externalIds": {
+   "PubMedCentral": "10586693",
+   "DBLP": "journals/ploscb/UhlrichFKMKCHD23",
+   "DOI": "10.1371/journal.pcbi.1011462",
+   "CorpusId": 264346981,
+   "PubMed": "37856442"
+  },
+  "title": "OpenCap: Human movement dynamics from smartphone videos",
+  "venue": "PLoS Comput. Biol.",
+  "year": 2023,
+  "citationCount": 435
+ },
+ {
+  "paperId": "fa806f2dbe65006dc70ed367eca63a54a917a90f",
+  "externalIds": {
+   "DBLP": "journals/jossw/PagnonDR22",
+   "DOI": "10.21105/joss.04362",
+   "CorpusId": 252304207
+  },
+  "title": "Pose2Sim: An open-source Python package for multiview markerless kinematics",
+  "venue": "Journal of Open Source Software",
+  "year": 2022,
+  "citationCount": 39
+ },
+ {
+  "paperId": "6173c49aebf28cc31e5b985e082ef33bac5117c2",
+  "externalIds": {
+   "DBLP": "journals/jossw/PagnonK24",
+   "DOI": "10.21105/joss.06849",
+   "CorpusId": 272904824
+  },
+  "title": "Sports2D: Compute 2D human pose and angles from a video or a webcam",
+  "venue": "Journal of Open Source Software",
+  "year": 2024,
+  "citationCount": 13
+ },
+ {
+  "paperId": "d5e21492c75ea1c7694bb36de7dccad19c0c4365",
+  "externalIds": {
+   "DBLP": "journals/sensors/PagnonDR21",
+   "PubMedCentral": "8512754",
+   "DOI": "10.3390/s21196530",
+   "CorpusId": 238639772,
+   "PubMed": "34640862"
+  },
+  "title": "Pose2Sim: An End-to-End Workflow for 3D Markerless Sports Kinematics—Part 1: Robustness",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2021,
+  "citationCount": 89
+ },
+ {
+  "paperId": "fe1bc70d20edf5941551bfe42abfeea67b8bfa5d",
+  "externalIds": {
+   "DBLP": "journals/sensors/PagnonDR22",
+   "PubMedCentral": "9002957",
+   "DOI": "10.3390/s22072712",
+   "CorpusId": 247930175,
+   "PubMed": "35408326"
+  },
+  "title": "Pose2Sim: An End-to-End Workflow for 3D Markerless Sports Kinematics—Part 2: Accuracy",
+  "venue": "Italian National Conference on Sensors",
+  "year": 2022,
+  "citationCount": 68
+ },
+ {
+  "paperId": "116355c371ca5f78af866e448fb4d6f371198b71",
+  "externalIds": {
+   "DBLP": "conf/nips/PanchalBB0BD0LM24",
+   "ArXiv": "2407.08101",
+   "DOI": "10.52202/079017-2415",
+   "CorpusId": 271097827
+  },
+  "title": "What to Say and When to Say it: Live Fitness Coaching as a Testbed for Situated Interaction",
+  "venue": "Neural Information Processing Systems",
+  "year": 2024,
+  "citationCount": 31
+ },
+ {
+  "paperId": "9fd4615d111c7dd26f9f16528e1561784b2c492d",
+  "externalIds": {
+   "ArXiv": "2603.24733",
+   "DBLP": "journals/corr/abs-2603-24733",
+   "DOI": "10.48550/arXiv.2603.24733",
+   "CorpusId": 286790006
+  },
+  "title": "OpenCap Monocular: 3D Human Kinematics and Musculoskeletal Dynamics from a Single Smartphone Video",
+  "venue": "arXiv.org",
+  "year": 2026,
+  "citationCount": 10
+ }
+]

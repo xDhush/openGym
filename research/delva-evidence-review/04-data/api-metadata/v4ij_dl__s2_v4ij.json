@@ -1,0 +1,323 @@
+[
+ {
+  "paperId": "e366c0b82374d9f0d5a198948bbca73979207194",
+  "externalIds": {
+   "MAG": "2182374763",
+   "DOI": "10.1249/MSS.0000000000000664",
+   "CorpusId": 13718316,
+   "PubMed": "26473759"
+  },
+  "title": "Updating ACSM's Recommendations for Exercise Preparticipation Health Screening.",
+  "venue": "Medicine & Science in Sports & Exercise",
+  "year": 2015,
+  "citationCount": 644
+ },
+ {
+  "paperId": "1c37c16fe0ea40219320d7e38aa989e8223ff3db",
+  "externalIds": {
+   "MAG": "2619199393",
+   "PubMedCentral": "7059860",
+   "DOI": "10.1249/MSS.0000000000001331",
+   "CorpusId": 46757233,
+   "PubMed": "28557860"
+  },
+  "title": "Applying the ACSM Preparticipation Screening Algorithm to U.S. adults, NHANES 2001—04",
+  "venue": "Medicine & Science in Sports & Exercise",
+  "year": 2017,
+  "citationCount": 28
+ },
+ {
+  "paperId": "9253c5c72a4e34e9d8b4ea4ba44b16650a873524",
+  "externalIds": {
+   "MAG": "3003427232",
+   "DOI": "10.1249/FIT.0000000000000202",
+   "CorpusId": 217667364
+  },
+  "title": "NEW PREPARTICIPATION HEALTH SCREENING RECOMMENDATIONS: What Exercise Professionals Need to Know",
+  "venue": "",
+  "year": 2016,
+  "citationCount": 16
+ },
+ {
+  "paperId": "ee0a57ca7f3d7399783f8043293d4d68d23b0237",
+  "externalIds": {
+   "MAG": "2114024160",
+   "CorpusId": 44772080,
+   "PubMed": "23486800"
+  },
+  "title": "PAR-Q+ and ePARmed-X+: new risk stratification and physical activity clearance strategy for physicians and patients alike.",
+  "venue": "Canadian family physician Medecin de famille canadien",
+  "year": 2013,
+  "citationCount": 238
+ },
+ {
+  "paperId": "94d5e17612db077db618391b4fe48f62fb7f2d01",
+  "externalIds": {
+   "DOI": "10.1136/bjsports-2022-106503",
+   "CorpusId": 260134423,
+   "PubMed": "37491419"
+  },
+  "title": "Exercise training and resting blood pressure: a large-scale pairwise and network meta-analysis of randomised controlled trials",
+  "venue": "British Journal of Sports Medicine",
+  "year": 2023,
+  "citationCount": 261
+ },
+ {
+  "paperId": "f552d250c8da47a507d59f14555051112e673808",
+  "externalIds": {
+   "DOI": "10.1038/s41440-021-00720-3",
+   "CorpusId": 236993090,
+   "PubMed": "34385688"
+  },
+  "title": "The effectiveness and safety of isometric resistance training for adults with high blood pressure: a systematic review and meta-analysis",
+  "venue": "Hypertension Research",
+  "year": 2021,
+  "citationCount": 50
+ },
+ {
+  "paperId": "4e22a850c68bda123ad756eb9d6bc20ce215b632",
+  "externalIds": {
+   "MAG": "2897532824",
+   "DOI": "10.1136/bjsports-2018-100056",
+   "CorpusId": 53018704,
+   "PubMed": "30337460"
+  },
+  "title": "2019 Canadian guideline for physical activity throughout pregnancy",
+  "venue": "British Journal of Sports Medicine",
+  "year": 2018,
+  "citationCount": 580
+ },
+ {
+  "paperId": "91c062c51cc62fa6eea452cb2b0b4abd2fb06d55",
+  "externalIds": {
+   "MAG": "2897302214",
+   "DOI": "10.1016/j.jogc.2018.07.001",
+   "CorpusId": 52940269,
+   "PubMed": "30297272"
+  },
+  "title": "No. 367-2019 Canadian Guideline for Physical Activity throughout Pregnancy.",
+  "venue": "Journal of Obstetrics and Gynaecology Canada",
+  "year": 2018,
+  "citationCount": 152
+ },
+ {
+  "paperId": "d61fe55df2a74b7a2b8fda050bbebe0fef8eccbb",
+  "externalIds": {
+   "PubMedCentral": "7719906",
+   "MAG": "3108106255",
+   "DOI": "10.1136/bjsports-2020-102955",
+   "CorpusId": 227163363,
+   "PubMed": "33239350"
+  },
+  "title": "World Health Organization 2020 guidelines on physical activity and sedentary behaviour",
+  "venue": "British Journal of Sports Medicine",
+  "year": 2020,
+  "citationCount": 10662
+ },
+ {
+  "paperId": "27c69ddc2a9b38a650503eb3df17c9c0ac5cdd19",
+  "externalIds": {
+   "MAG": "2116213598",
+   "DOI": "10.1177/0363546506298279",
+   "CorpusId": 22106356,
+   "PubMed": "17307888"
+  },
+  "title": "Continued Sports Activity, Using a Pain-Monitoring Model, during Rehabilitation in Patients with Achilles Tendinopathy",
+  "venue": "American Journal of Sports Medicine",
+  "year": 2007,
+  "citationCount": 365
+ },
+ {
+  "paperId": "cb5e13f050629350d5823b395dcbbcc24e2fcf6f",
+  "externalIds": {
+   "MAG": "2201560343",
+   "DOI": "10.1093/PTJ/77.12.1690",
+   "CorpusId": 46022035,
+   "PubMed": "9413448"
+  },
+  "title": "A comprehensive treatment approach for patellofemoral pain syndrome in young women.",
+  "venue": "Physical Therapy",
+  "year": 1997,
+  "citationCount": 221
+ },
+ {
+  "paperId": "aeec098642ae681ec5688e7ba4a321e167788998",
+  "externalIds": {
+   "MAG": "2975068031",
+   "DOI": "10.1136/bjsports-2018-100461",
+   "CorpusId": 203607100,
+   "PubMed": "31563884"
+  },
+  "title": "Adverse events of exercise therapy in randomised controlled trials: a systematic review and meta-analysis",
+  "venue": "British Journal of Sports Medicine",
+  "year": 2019,
+  "citationCount": 131
+ },
+ {
+  "paperId": "23499cd559ea9a8643a95bb7c42f1dafcc5803bd",
+  "externalIds": {
+   "MAG": "2467510669",
+   "DOI": "10.1007/s40279-016-0575-0",
+   "CorpusId": 25442339,
+   "PubMed": "27328853"
+  },
+  "title": "The Epidemiology of Injuries Across the Weight-Training Sports",
+  "venue": "Sports Medicine",
+  "year": 2017,
+  "citationCount": 204
+ },
+ {
+  "paperId": "17a580b14b61408681854c35f042ec3be98f3243",
+  "externalIds": {
+   "MAG": "2963595527",
+   "DOI": "10.23736/S0022-4707.19.09407-6",
+   "CorpusId": 73450632,
+   "PubMed": "30758171"
+  },
+  "title": "Injuries sustained during high intensity interval training: are modern fitness trends contributing to increased injury rates?",
+  "venue": "Journal of Sports Medicine and Physical Fitness",
+  "year": 2019,
+  "citationCount": 41
+ },
+ {
+  "paperId": "6c1fb45eda143f6893aec7c4dd2a2aedd2f9122e",
+  "externalIds": {
+   "MAG": "2620583914",
+   "DOI": "10.1007/s40279-017-0747-6",
+   "CorpusId": 20710188,
+   "PubMed": "28573401"
+  },
+  "title": "Effects of Supervised vs. Unsupervised Training Programs on Balance and Muscle Strength in Older Adults: A Systematic Review and Meta-Analysis",
+  "venue": "Sports Medicine",
+  "year": 2017,
+  "citationCount": 240
+ },
+ {
+  "paperId": "a8bdd112cf5865d0c2176b6a1349e452bea7e26b",
+  "externalIds": {
+   "PubMedCentral": "11258164",
+   "DOI": "10.1007/s40279-024-02024-1",
+   "CorpusId": 269312243,
+   "PubMed": "38647999"
+  },
+  "title": "Supervised Versus Unsupervised Exercise for the Improvement of Physical Function and Well-Being Outcomes in Older Adults: A Systematic Review and Meta-analysis of Randomized Controlled Trials",
+  "venue": "Sports Medicine",
+  "year": 2024,
+  "citationCount": 52
+ },
+ {
+  "paperId": "49d62f78e289f11ba936aee2da10676eb0dca6e1",
+  "externalIds": {
+   "MAG": "2946659646",
+   "DOI": "10.1249/MSS.0000000000001943",
+   "CorpusId": 155100911,
+   "PubMed": "31095088"
+  },
+  "title": "Physical Activity to Prevent and Treat Hypertension: A Systematic Review",
+  "venue": "Medicine & Science in Sports & Exercise",
+  "year": 2019,
+  "citationCount": 343
+ },
+ {
+  "paperId": "4ea1c1fde30ff609b1b2b8515a71416a1c9e235d",
+  "externalIds": {
+   "PubMedCentral": "11209834",
+   "DOI": "10.1161/CIR.0000000000001189",
+   "CorpusId": 266051571,
+   "PubMed": "38059362"
+  },
+  "title": "Resistance Exercise Training in Individuals With and Without Cardiovascular Disease: 2023 Update: A Scientific Statement From the American Heart Association",
+  "venue": "Circulation",
+  "year": 2023,
+  "citationCount": 218
+ },
+ {
+  "paperId": "18ddcf92a328ca58aaf6cd88ff64e1bbe323c89a",
+  "externalIds": {
+   "MAG": "2081796467",
+   "DOI": "10.1007/s00198-014-2881-4",
+   "CorpusId": 20878546,
+   "PubMed": "25510579"
+  },
+  "title": "Too Fit To Fracture: outcomes of a Delphi consensus process on physical activity and exercise recommendations for adults with osteoporosis with or without vertebral fractures",
+  "venue": "Osteoporosis International",
+  "year": 2015,
+  "citationCount": 111
+ },
+ {
+  "paperId": "89390f3d8e8c562f4e03fac2bd60c48f8aaa95f5",
+  "externalIds": {
+   "MAG": "2161842525",
+   "DOI": "10.1177/0363546509351560",
+   "CorpusId": 206524505,
+   "PubMed": "20139328"
+  },
+  "title": "Epidemiology of Weight Training-Related Injuries Presenting to United States Emergency Departments, 1990 to 2007",
+  "venue": "American Journal of Sports Medicine",
+  "year": 2010,
+  "citationCount": 135
+ },
+ {
+  "paperId": "ec6201a630e1cededd746a557bb64d05a67968b7",
+  "externalIds": {
+   "MAG": "2122455180",
+   "DOI": "10.1161/CIRCULATIONAHA.112.123117",
+   "CorpusId": 10493374,
+   "PubMed": "22879367"
+  },
+  "title": "Cardiovascular Risk of High- Versus Moderate-Intensity Aerobic Exercise in Coronary Heart Disease Patients",
+  "venue": "Circulation",
+  "year": 2012,
+  "citationCount": 498
+ },
+ {
+  "paperId": "c4f05ddd5beea0ab84e33ad42c604028e96fdce7",
+  "externalIds": {
+   "DOI": "10.1002/14651858.CD007130.pub5",
+   "CorpusId": 264517241,
+   "PubMed": "37888805"
+  },
+  "title": "Home-based versus centre-based cardiac rehabilitation.",
+  "venue": "Cochrane Database of Systematic Reviews",
+  "year": 2023,
+  "citationCount": 17
+ },
+ {
+  "paperId": "c8c5807c41000d7546fddd16e66768053e76008a",
+  "externalIds": {
+   "MAG": "3013658877",
+   "DOI": "10.1002/14651858.CD007130.pub4",
+   "CorpusId": 46742587,
+   "PubMed": "28665511"
+  },
+  "title": "Home-based versus centre-based cardiac rehabilitation.",
+  "venue": "Cochrane Database of Systematic Reviews",
+  "year": 2017,
+  "citationCount": 237
+ },
+ {
+  "paperId": "e698199f011c85b9bb40b5d6987e0e8028e505e0",
+  "externalIds": {
+   "MAG": "3112057646",
+   "DOI": "10.1080/00913847.2020.1864675",
+   "CorpusId": 229283367,
+   "PubMed": "33322981"
+  },
+  "title": "Injury in CrossFit®: A Systematic Review of Epidemiology and Risk Factors",
+  "venue": "Physician and sportsmedicine",
+  "year": 2020,
+  "citationCount": 77
+ },
+ {
+  "paperId": "83d709a2ee63af5308ddb8b21e6cf09a745ba34a",
+  "externalIds": {
+   "DOI": "10.55460/G29P-I0AU",
+   "CorpusId": 247411673,
+   "PubMed": "35278328"
+  },
+  "title": "Injuries During High-Intensity Functional Training: Systematic Review and Meta-Analysis.",
+  "venue": "Journal of special operations medicine : a peer reviewed journal for SOF medical professionals",
+  "year": 2022,
+  "citationCount": 2
+ }
+]

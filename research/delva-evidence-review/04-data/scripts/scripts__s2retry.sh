@@ -1,0 +1,5 @@
+#!/bin/bash
+D=$1
+for i in 1 2 3 4 5 6; do code=$(curl -s -o $D/s2c.json -w "%{http_code}" --max-time 60 -X POST "https://api.semanticscholar.org/graph/v1/paper/batch?fields=title,venue,year,abstract,citationCount" -H 'Content-Type: application/json' -d '{"ids":["DOI:10.1145/2556288.2557116","ARXIV:2408.12569","ARXIV:2407.09431","ARXIV:2409.04035","DOI:10.1016/j.gaitpost.2022.08.008","DOI:10.1016/j.jbiomech.2022.111333","DOI:10.1109/CVPR42600.2020.00075","DOI:10.1016/j.apergo.2026.104866","DOI:10.1007/978-981-96-6588-4_18","DOI:10.1007/978-3-031-72661-3_21"]}'); echo "batch $i $code"; [ "$code" = 200 ] && break; sleep 30; done
+sleep 20
+for i in 1 2 3 4 5 6; do code=$(curl -s -o $D/s2sony.json -w "%{http_code}" --max-time 60 -G "https://api.semanticscholar.org/graph/v1/paper/search" --data-urlencode "query=case study in fairness evaluation current limitations and challenges for human pose estimation" --data-urlencode "fields=title,venue,year,citationCount,externalIds,authors" --data-urlencode "limit=3"); echo "search $i $code"; [ "$code" = 200 ] && break; sleep 30; done

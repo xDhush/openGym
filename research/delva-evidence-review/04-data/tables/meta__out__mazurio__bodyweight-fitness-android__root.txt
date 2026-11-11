@@ -1,0 +1,8 @@
+.gitignore
+Description.md
+LICENSE.md
+README.md
+app
+build.gradle
+screenshots
+settings.gradle

@@ -1,0 +1,14 @@
+.gitignore
+.vs
+FHIR-us-physical-activity-test.xml
+README.md
+_genonce.bat
+_genonce.sh
+_updatePublisher.bat
+_updatePublisher.sh
+ig.ini
+input-cache
+input
+liquid
+publication-request.json
+sushi-config.yaml

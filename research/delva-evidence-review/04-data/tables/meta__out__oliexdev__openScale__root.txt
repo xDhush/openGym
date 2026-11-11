@@ -1,0 +1,10 @@
+.github
+.gitignore
+CREDITS
+Gemfile
+LICENSE
+README.md
+android_app
+arduino_mcu
+docs
+fastlane

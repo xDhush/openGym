@@ -1,0 +1,12 @@
+.gitignore
+LICENSE
+README.md
+body_part_angle.py
+images
+main.py
+output
+requirements.txt
+test
+types_of_exercise.py
+utils.py
+videos

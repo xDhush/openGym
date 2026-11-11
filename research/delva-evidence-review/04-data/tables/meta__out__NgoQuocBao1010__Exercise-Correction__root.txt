@@ -1,0 +1,12 @@
+.gitignore
+Dockerfile
+LICENSE
+README.md
+core
+demo
+docs
+images
+package.json
+requirements-mac.txt
+requirements.txt
+web

@@ -1,0 +1,12 @@
+.gitignore
+AUTHORS
+CODEOWNERS
+CONTRIBUTING.md
+LICENSE
+README.md
+__init__.py
+courses
+lite
+setup.py
+templates
+tensorflow_examples

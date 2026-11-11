@@ -1,0 +1,190 @@
+===== LICENSE.txt
+
+                                 Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
+
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
+
+   1. Definitions.
+
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
+
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
+
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
+
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
+
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
+
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
+
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
+
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
+
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
+
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
+
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
+
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
+
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
+
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
+
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
+
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
+
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excl
+===== license-baseline.txt
+com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.12.7/jackson-dataformat-xml-2.12.7.pom
+com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.12.7/jackson-module-jaxb-annotations-2.12.7.pom
+com/fasterxml/jackson/module/jackson-modules-base/2.12.7/jackson-modules-base-2.12.7.pom
+com/google/api-client/google-api-client/1.33.4/google-api-client-1.33.4.pom
+com/google/api-client/google-api-client/1.35.1/google-api-client-1.35.1.pom
+com/google/api-client/google-api-client/2.2.0/google-api-client-2.2.0.pom
+com/google/api/gapic-generator-java-bom/2.30.0/gapic-generator-java-bom-2.30.0.pom
+com/google/api/gax-grpc/2.38.0/gax-grpc-2.38.0.pom
+com/google/api/gax-httpjson/2.38.0/gax-httpjson-2.38.0.pom
+com/google/api/gax/2.38.0/gax-2.38.0.pom
+com/google/api/grpc/gapic-google-cloud-storage-v2/2.30.1-alpha/gapic-google-cloud-storage-v2-2.30.1-alpha.pom
+com/google/api/grpc/grpc-google-cloud-storage-v2/2.30.1-alpha/grpc-google-cloud-storage-v2-2.30.1-alpha.pom
+com/google/api/grpc/proto-google-cloud-storage-v2/2.30.1-alpha/proto-google-cloud-storage-v2-2.30.1-alpha.pom
+com/google/auth/google-auth-library-credentials/1.20.0/google-auth-library-credentials-1.20.0.pom
+com/google/auth/google-auth-library-oauth2-http/1.20.0/google-auth-library-oauth2-http-1.20.0.pom
+com/google/cloud/first-party-dependencies/3.20.0/first-party-dependencies-3.20.0.pom
+com/google/cloud/google-cloud-core-bom/2.28.0/google-cloud-core-bom-2.28.0.pom
+com/google/cloud/google-cloud-core-grpc/2.28.0/google-cloud-core-grpc-2.28.0.pom
+com/google/cloud/google-cloud-core-http/2.28.0/google-cloud-core-http-2.28.0.pom
+com/google/cloud/google-cloud-core-parent/2.28.0/google-cloud-core-parent-2.28.0.pom
+com/google/cloud/google-cloud-core/2.28.0/google-cloud-core-2.28.0.pom
+com/google/cloud/google-cloud-shared-dependencies/3.20.0/google-cloud-shared-dependencies-3.20.0.pom
+com/google/cloud/third-party-dependencies/3.20.0/third-party-dependencies-3.20.0.pom
+com/google/http-client/google-http-client-apache-v2/1.43.3/google-http-client-apache-v2-1.43.3.pom
+com/google/http-client/google-http-client-appengine/1.43.3/google-http-client-appengine-1.43.3.pom
+com/google/http-client/google-http-client-gson/1.43.3/google-http-client-gson-1.43.3.pom
+com/google/http-client/google-http-client-jackson2/1.43.3/google-http-client-jackson2-1.43.3.pom
+com/google/http-client/google-http-client/1.43.3/google-http-client-1.43.3.pom
+com/google/oauth-client/google-oauth-client/1.33.1/google-oauth-client-1.33.1.pom
+com/google/oauth-client/google-oauth-client/1.34.1/google-oauth-client-1.34.1.pom
+com/gradle/common-custom-user-data-gradle-plugin/2.0.1/common-custom-user-data-gradle-plugin-2.0.1.pom
+com/sun/xml/bind/jaxb-bom-ext/2.3.2/jaxb-bom-ext-2.3.2.pom
+com/sun/xml/bind/mvn/jaxb-runtime-parent/2.3.2/jaxb-runtime-parent-2.3.2.pom
+com/sun/xml/bind/mvn/jaxb-txw-parent/2.3.2/jaxb-txw-parent-2.3.2.pom
+commons-io/commons-io/2.13.0/commons-io-2.13.0.pom
+commons-io/commons-io/2.16.1/commons-io-2.16.1.pom
+commons-io/commons-io/2.6/commons-io-2.6.pom
+gradle/plugin/org/jetbrains/intellij/plugins/gradle-intellij-plugin/0.4.8/gradle-intellij-plugin-0.4.8.pom
+io/netty/netty-buffer/4.1.52.Final/netty-buffer-4.1.52.Final.pom
+io/netty/netty-buffer/4.1.72.Final/netty-buffer-4.1.72.Final.pom
+io/netty/netty-buffer/4.1.93.Final/netty-buffer-4.1.93.Final.pom
+io/netty/netty-codec-http/4.1.52.Final/netty-codec-http-4.1.52.Final.pom
+io/netty/netty-codec-http/4.1.72.Final/netty-codec-http-4.1.72.Final.pom
+io/netty/netty-codec-http/4.1.93.Final/netty-codec-http-4.1.93.Final.pom
+io/netty/netty-codec-http2/4.1.52.Final/netty-codec-http2-4.1.52.Final.pom
+io/netty/netty-codec-http2/4.1.72.Final/netty-codec-http2-4.1.72.Final.pom
+io/netty/netty-codec-http2/4.1.93.Final/netty-codec-http2-4.1.93.Final.pom
+io/netty/netty-codec-socks/4.1.52.Final/netty-codec-socks-4.1.52.Final.pom
+io/netty/netty-codec-socks/4.1.72.Final/netty-codec-socks-4.1.72.Final.pom
+io/netty/netty-codec-socks/4.1.93.Final/netty-codec-socks-4.1.93.Final.pom
+io/netty/netty-codec/4.1.52.Final/netty-codec-4.1.52.Final.pom
+io/netty/netty-codec/4.1.72.Final/netty-codec-4.1.72.Final.pom
+io/netty/netty-codec/4.1.93.Final/netty-codec-4.1.93.Final.pom
+io/netty/netty-common/4.1.52.Final/netty-common-4.1.52.Final.pom
+io/netty/netty-common/4.1.72.Final/netty-common-4.1.72.Final.pom
+io/netty/netty-common/4.1.93.Final/netty-common-4.1.93.Final.pom
+io/netty/netty-handler-proxy/4.1.52.Final/netty-handler-proxy-4.1.52.Final.pom
+io/netty/netty-handler-proxy/4.1.72.Final/netty-handler-proxy-4.1.72.Final.pom
+io/netty/netty-handler-proxy/4.1.93.Final/netty-handler-proxy-4.1.93.Final.pom
+io/netty/netty-handler/4.1.52.Final/netty-handler-4.1.52.Final.pom
+io/netty/netty-handler/4.1.72.Final/netty-handler-4.1.72.Final.pom
+io/netty/netty-handler/4.1.93.Final/netty-handler-4.1.93.Final.pom
+io/netty/netty-resolver/4.1.52.Final/netty-resolver-4.1.52.Final.pom
+io/netty/netty-resolver/4.1.72.Final/netty-resolver-4.1.72.Final.pom
+io/netty/netty-resolver/4.1.93.Final/netty-resolver-4.1.93.Final.pom
+io/netty/netty-tcnative-classes/2.0.46.Final/netty-tcnative-classes-2.0.46.Final.pom
+io/netty/netty-tcnative-parent/2.0.46.Final/netty-tcnative-parent-2.0.46.Final.pom
+io/netty/netty-transport-native-unix-common/4.1.93.Final/netty-transport-native-unix-common-4.1.93.Final.pom
+io/netty/netty-transport/4.1.52.Final/netty-transport-4.1.52.Final.pom
+io/netty/netty-transport/4.1.72.Final/netty-transport-4.1.72.Final.pom
+io/netty/netty-transport/4.1.93.Final/netty-transport-4.1.93.Final.pom
+jakarta/activation/jakarta.activation-api/1.2.1/jakarta.activation-api-1.2.1.pom
+jakarta/platform/jakarta.jakartaee-bom/9.0.0/jakarta.jakartaee-bom-9.0.0.pom
+jakarta/platform/jakarta.jakartaee-bom/9.1.0/jakarta.jakartaee-bom-9.1.0.pom
+jakarta/platform/jakartaee-api-parent/9.0.0/jakartaee-api-parent-9.0.0.pom
+jakarta/platform/jakartaee-api-parent/9.1.0/jakartaee-api-parent-9.1.0.pom
+jakarta/xml/bind/jakarta.xml.bind-api/2.3.2/jakarta.xml.bind-api-2.3.2.pom
+javax/xml/bind/jsr1
